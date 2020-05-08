@@ -82,7 +82,7 @@ Une année pour expérimenter l’IA : après une phase de cadrage et de prépa
 
 #+begin_export html
 
-<img src="https://etalab.github.io/infolettre-lab-ia/img/2.gif">
+<img src="https://etalab.github.io/infolettre-lab-ia/img/3.gif">
 
 #+end_export html
 
