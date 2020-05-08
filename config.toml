@@ -1,0 +1,49 @@
+baseURL = "https://etalab.github.io/infolettre-lab-ia/"
+languageCode = "fr-Fr"
+title = "Infolettre Lab IA"
+copyright = "Etalab - Direction interministérielle du numérique"
+defaultContentLanguage = "fr"
+publishDir = "docs"
+
+[Author]
+    name = "Infolettre Lab IA"
+    profile = "https://etalab.github.io/infolettre-lab-ia"
+
+[Taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[languages]
+  [languages.fr]
+    weight = 1
+    [languages.fr.params]
+        headline = "Infolettre Lab IA"
+        description = ""
+  [languages.en]
+    weight = 2
+    [languages.en.params]
+        headline = "Infolettre Lab IA"
+        description = ""
+
+[Params]
+    intro = true
+    headline = "Infolettre Lab IA"
+    github = "https://github.com/etalab/infolettre-lab-ia"
+    twitter = "https://twitter.com/Etalab"
+    email = "lab-ia@data.gouv.fr"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = false
+    dateFormat = "Mon 2 Jan 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:filename"
+
+[[languages.fr.menu.main]]
+    name = "À propos"
+    url = "/a-propos/"
+    weight = 1

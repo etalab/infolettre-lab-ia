@@ -1,0 +1,6 @@
+#+title: Title
+#+date: YYYY-MM-DD
+#+author: Rose
+#+layout: post
+#+draft: true
+#+tags: 

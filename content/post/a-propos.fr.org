@@ -1,0 +1,18 @@
+#+title: À propos de l'infolettre du Lab IA
+#+date: 2020-05-05
+#+author: Etalab
+#+layout: post
+#+draft: false
+#+tags: 
+
+Pour vous inscrire : [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio]]
+
+* Conditions générales d'utilisation
+
+L'inscription à l'infolettre du Lab IA est libre.  L'adresse email partagée à l'[[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][inscription]] n'est partagée avec personne.  Vous pouvez à tout moment vous [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][désinscrire]].
+
+* Licence
+
+L'infolettre du Lab IA est une publication DINUM, 20 avenue de Ségur,
+75019, publié sous licence Ouverte 2.0.
+

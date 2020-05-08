@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Infolettre Lab IA</title>
+    <link>https://etalab.github.io/infolettre-lab-ia/post/</link>
+    <description>Recent content in Posts on Infolettre Lab IA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-Fr</language>
+    <copyright>Etalab - Direction interministérielle du numérique</copyright>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://etalab.github.io/infolettre-lab-ia/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infolettre Lab IA n°1</title>
+      <link>https://etalab.github.io/infolettre-lab-ia/numero-1/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://etalab.github.io/infolettre-lab-ia/numero-1/</guid>
+      <description>Bonjour à tous,  Merci pour votre intérêt et participation au premier datadrink virtuel !  Nous vous proposons de revisionner le datadrink Datascience &amp;amp; Covid-19 ci-dessous et nous en profitons pour vous partager la première infolettre du Lab IA d’Etalab. Elle s’adresse à la communauté du Lab IA. Vous êtes aujourd’hui plus de 270 inscrits : participants aux AMI 1 et AMI 2, datascientists de l’administration, chercheurs et prestataires de l’IA pour l’administration, et agents publics intéressés par la science des données et l’IA.</description>
+    </item>
+    
+    <item>
+      <title>À propos de l&#39;infolettre du Lab IA</title>
+      <link>https://etalab.github.io/infolettre-lab-ia/a-propos/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://etalab.github.io/infolettre-lab-ia/a-propos/</guid>
+      <description>  Pour vous inscrire : https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio Conditions générales d&amp;#39;utilisation   L&amp;#39;inscription à l&amp;#39;infolettre du Lab IA est libre. L&amp;#39;adresse email partagée à l&amp;#39;inscription n&amp;#39;est partagée avec personne. Vous pouvez à tout moment vous désinscrire. Licence   L&amp;#39;infolettre du Lab IA est une publication DINUM, 20 avenue de Ségur, 75019, publié sous licence Ouverte 2.0. </description>
+    </item>
+    
+  </channel>
+</rss>
