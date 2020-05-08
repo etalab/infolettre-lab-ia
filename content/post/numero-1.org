@@ -28,13 +28,14 @@ Nous vous proposons de revisionner le datadrink Datascience & Covid-19 ci-dessou
 * Revisionner le premier datadrink virtuel : Data science et Covid-19 
 
 #+begin_export html
-<center>
+
 <img src="https://etalab.github.io/infolettre-lab-ia/img/1.jpg">
-</center>
+
 #+end_export html
+
 /Revisionnez le datadrink en ligne/
 
-Ce jeudi 23 avril de 16h à 17h30, le Lab IA a organisé le premier datadrink virtuel *sur les données pour la compréhension et modèles de prédiction de l’épidémie Covid-19* : [[https://visio.betagouv.live/playback/presentation/2.0/playback.html?meetingId=c3e2e0f06d3b5b41c37f007776802c391ad4cd6c-1587647183384][révisionnez la vidéo du datadrink #6 en ligne]]. Voir aussi : 
+Ce jeudi 23 avril de 16h à 17h30, le Lab IA a organisé le premier datadrink virtuel *sur les données pour la compréhension et modèles de prédiction de l’épidémie Covid-19*: [[https://visio.betagouv.live/playback/presentation/2.0/playback.html?meetingId=c3e2e0f06d3b5b41c37f007776802c391ad4cd6c-1587647183384][révisionnez la vidéo du datadrink #6 en ligne]]. Voir aussi :
 
 *Bastien Guerry (Etalab) :* l’[[https://www.gouvernement.fr/info-coronavirus/orientation-medicale][orientation médicale]] pour faciliter le travail du SAMU et comprendre l’épidémie. Les données seront publiées prochainement sur data.gouv.fr. Voir aussi : 
 
@@ -55,9 +56,9 @@ Si vous avez des suggestions ou souhaitez présenter vos projets pour un prochai
 * Pour une IA francophone (PIAF) : proposez un cas d’usage dans l’administration 
 
 #+begin_export html
-<center>
+
 <img src="https://etalab.github.io/infolettre-lab-ia/img/2.png"
-</center>
+
 #+end_export html
 
   
@@ -80,10 +81,11 @@ Une année pour expérimenter l’IA : après une phase de cadrage et de prépa
 ** Semaine d’immersion métier au Conseil d’Etat avec Catherine Costarramone, porteur de projet d’IA (AMI 2) et Joseph Assu-Ondo, datascientist chez StarClay
 
 #+begin_export html
-<center>
-<img src="https://etalab.github.io/infolettre-lab-ia/img/">
-</center>
+
+<img src="https://etalab.github.io/infolettre-lab-ia/img/2.gif">
+
 #+end_export html
+
 /Une partie de l’équipe du projet IA-JURADINFO devant les marches du Conseil d’Etat, mars 2020/
 
 Pour accueillir l’équipe StarClay, prestataire privé sélectionné pour développer les outils d’extractions d’information et d’aide à la décision pour le Conseil d’Etat, l’équipe des porteurs du projet IA-JURADINFO a organisé mi-mars *deux semaines d’accueil et d’immersion métier*. Catherine Costarramone, porteur du projet IA-JURADINFO au Conseil d’Etat, et Joseph Assu-Ondo, datascientist chez StarClay, nous partagent leurs retours sur cette immersion métier. 
@@ -133,10 +135,11 @@ Dans l’impossibilité d’accéder à ces données pour le prestataire pendant
 Ainsi, avec l’ensemble des métadonnées partagées et des données patient fictives, le prestataire va pouvoir développer les premiers algorithmes et nous pourrons plus tard déployer le code développé à partir des données fictives sur les vraies données à l’hôpital.”
 
 #+begin_export html
-<center>
+
 <img src="https://etalab.github.io/infolettre-lab-ia/img/4.png">
-</center>
+
 #+end_export html
+
 /“Le dossier patient informatisé, DPI, contient l'ensemble des données d'un patient passé à l’hôpital : comptes rendus d’hospitalisation ou de consultation, questionnaire de spécialité (ici celui utilité par les urgentistes), prescriptions médicamenteuses, résultats biologiques … Les données sont stockées dans différentes applications et centralisées dans un entrepôt de données. Les données sont à la fois non structurées (données textuelles d’un compte-rendu), semi-structurées (question – réponse d’un formulaire) et structurées (code dans un référentiel). Un dossier patient synthétique issu de l’entrepôt de données permet d’expliquer la structure, le format de stockage et le contenu des DPI à l’hôpital”, explique Sébastien./
 
 *** Quelques infos clés sur le projet IA du CHU de Bordeaux
