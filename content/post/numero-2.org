@@ -1,0 +1,265 @@
+#+title: Infolettre Lab IA n°2
+#+date: 2020-06-02
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les
+actualités du Lab IA d'Etalab, *les échanges, expérimentations,
+rencontres et outils autour de l'usage des données et de l'IA pour
+améliorer l'action publique*. Elle s'adresse [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][aux AMI IA 1 et 2]], à la
+communauté du Lab IA : participants aux , datascientists de
+l'administration, chercheurs et prestataires de l'IA pour
+l'administration, et agents publics intéressés par la science des
+données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres
+précédentes]] et proposer des contenus pour les prochaines éditions.
+
+/Ci-dessous/: 
+
+- Les guides d'Etalab : Comment utiliser l'IA pour pseudonymiser des documents ?
+- Pour une Intelligence Artificielle Francophone : notre article PIAF sélectionné et publié dans les travaux de la conférence internationale L-REC 2020.
+- Expérimentation de l'IA : Retour d'expérience technique et métier sur l'annotation collective avec le projet AMI IA 1 de l'Autorité de sûreté nucléaire (ASN)
+- Invitation : Datadrink virtuel du Lab IA "Datascience et impact du confinement" et comment adapter ses modèles avec la crise ? le jeudi 4 juin de 16h00 à 17h00.
+
+/Notre sélection de ressources à visiter/:
+
+- La sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-avril-2020/][sorties du mois d'avril sur data.gouv.fr]]
+- Intéressés par les enjeux de la rénovation énergétique des bâtiments ? Participez au [[https://www.hackathon-renovaction.fr/challenge/hackathon#presentation][hackathon en ligne #RenovAction]], co-organisé par le Ministère de l'Ecologie, le Ministère de la Cohésion des territoires et l‘Agence de la Transition Écologique du 11 au 22 juin 2020
+- Entrepreneurs d'intérêt général : spécialistes en développement, datascience ou design, venez améliorer le service public! Écologie, santé, gestion de crise, culture: [[https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html][postulez jusqu'au 7 juin]]
+- [[http://impact-ai.fr/education/exploria/][Explor'IA 100% digital et ouvert à tou.te.s du 25 mai au 5 juin]]: Le collectif Impact AI vous invite à la découverte de l'intelligence artificielle et ses enjeux à travers un rendez-vous digital. L'ensemble des membres entreprises, grandes écoles, associations et startups est mobilisé pour offrir au plus grand nombre de multiples animations exclusivement en ligne (ateliers, webinars, outils, démo...) autour de l'IA.​
+- Webinaire dans le cadre du projet FTAP Incub'O de la préfecture de la région Occitanie, ouvert à tous : [[https://webikeo.fr/webinar/comment-l-ia-peut-et-va-transformer-l-action-publique]["Comment l'IA peut (et va) transformer l'action publique ?"]], mercredi 3 juin de 9h à 10h30
+- Le Lab IA de Météo-France présente [[https://docs.google.com/forms/d/e/1FAIpQLScMi1MPWx_2ktLPuo3RKlQhai0jSxbge4a3An5FKtG5cerPKg/viewform][MeteoNet et une formation à venir]] le jeudi 4 juin de 14h à 17h pour faire découvrir ce dataset et discuter des différents cas d'applications. Elle s'adresse à toute personne qui fait de l'IA et/ou a des compétences en IA et à toute personne orientée ”métier”.
+
+L'équipe du Lab IA d'Etalab
+
+[[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
+
+** Les guides d'Etalab : Comment utiliser l'IA pour pseudonymiser des documents ?
+
+[[https://etalab.github.io/infolettre-lab-ia/img/cbaebdb64825c1953da2f9a79b05e0b8.jpg]]
+
+De nombreuses administrations publiques sont confrontées à des
+problèmes de pseudonymisation dès lors qu'elles ont à publier des
+documents textuels contenant des données à caractère personnel. Ces
+documents recouvrent par exemple des décisions de justice, des actes
+administratifs, des procès-verbaux, des notes, etc.
+
+C'est dans ce cadre que le Lab IA d'Etalab a développé *un outil d'intelligence artificielle de pseudonymisation* (datascience.etalab.studio\pseudo) en accompagnant en 2019 le Conseil d'État, qui publie en open data des décisions de justice administrative.  Cet outil est open-source et peut donc être librement réutilisé pour d'autres projets de pseudonymisation.  [[https://github.com/etalab-ia/pseudo_app][Le code est sur disponible sur github.]]
+
+Pour accompagner la publication de cet outil technique de pseudonymisation, nous pensons qu'il est nécessaire de publier également [[https://guides.etalab.gouv.fr/pseudonymisation/#a-quoi-sert-ce-guide][un guide qui expose ce qu'est la pseudonymisation de documents textuels et, lorsque c'est possible, l'utilisation de l'intelligence artificielle (IA)]] pour la mettre en œuvre.
+
+** Pour une IA Francophone : Notre article PIAF sélectionné et publié dans les travaux de la conférence internationale L-REC 2020
+
+[[https://etalab.github.io/infolettre-lab-ia/img/38caa3923dd02c4ca6e605211f117b9f.jpg]]
+
+Partant du constat qu'il n'existe pas de jeu de données d'entraînement
+francophone public et ouvert qui permettrait d'entraîner les
+algorithmes d'intelligence artificielle, l'équipe du Lab IA a mené ces
+derniers mois un travail d'élaboration d'un jeu de données
+d'apprentissage de questions-réponses en français, de façon ouverte et
+participative.
+
+Nous sommes très fiers de vous partager notre article de recherche
+présentant *la démarche scientifique de PIAF et les enseignements du
+projet*, qui a été sélectionné et publié dans le cadre de la conférence
+[[http://www.lrec-conf.org/][L-REC 2020]] (en anglais).
+
+Voici quelques contributions notables :
+
+1. Nous avons développé et publié un outil d'annotation pour collecter de larges jeux de données de questions-réponses de façon participative;
+2. Nous avons publié un jeu de données françaises natives;
+3. Nous avons développé une méthodologie de contribution participative.
+
+Du choix à l'élaboration du protocole, à l'analyse des résultats, l'article présente l'ensemble de la démarche : l'état de l'art et l'existant, les travaux et la méthodologie appliquée (protocole, appel à la contribution via l'organisation d'annotathons, résultats et conclusion de cette expérimentation).
+
+Prochaine étape pour PIAF : *développer un moteur de questions
+réponses qui s'appuie sur le jeu de données PIAF et qui puisse être
+utilisé par les administrations françaises*. Ophélie Coelho, designer,
+vient de rejoindre l'équipe du Lab IA pour œuvrer à sa création, avec
+Pavel Soriano, Julien Denes et Guillaume Lancrenon. En savoir plus sur
+[[https://piaf.etalab.studio/][le projet PIAF]].
+
+** Expérimentation de l'IA : Retour d'expérience technique & métier sur l'annotation collective avec le projet AMI-IA 1 de l'Autorité de sûreté nucléaire (ASN)
+
+Sélectionné par [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia][l'Appel à Manifestation d'Intérêt]] (AMI-IA) 1 et
+bénéficiant du support du Lab IA et de la Direction Interministérielle
+pour la Transformation Publique (DITP) en 2019, le projet de
+l'Autorité de sûreté nucléaire (ASN) a pour objectif *l'amélioration
+des quelques 18 000 inspections annuelles de l'ASN en France*. À la
+suite d'une inspection sur le terrain, les inspecteurs de l'ASN
+rédigent une « lettre de suites », un document complexe de 10 à 15
+pages. La solution IA a pour objectif de faciliter les inspections, en
+traitant les 22 000 lettres de suites rédigées depuis la création de
+l'ASN. Un tel projet nécessite une phase d'annotation collective.
+
+Lorsqu'ils ont essayé de convaincre les 350 agents de l'ASN d'annoter
+quelque 4000 « lettre de suites » pour entraîner les algorithmes à
+prédire ou détecter automatiquement des informations dans l'ensemble
+des lettres de suites, l'équipe portant le projet IA à l'ASN ne
+pouvait garantir aucun résultat. Au final, 90% des inspecteurs
+susceptibles d'utiliser l'IA ont participé à son développement.
+
+Le mercredi 20 mai, Dominique Boina et Damien Clément, porteurs du
+projet IA à l'ASN, ont partagé leur expérience en webinaire dans le
+cadre de l'accompagnement métier des porteurs de projets d'IA de la
+nouvelle saison [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI-IA 2 2020]], organisé par la DITP.
+
+[[https://etalab.github.io/infolettre-lab-ia/img/8de95ad756af1c99394fd1bd5ef9407f.jpg]]
+
+Quelques points à retenir :
+
+1. *Ne pas négliger le travail en amont sur la préparation des données, une étape critique*
+
+   « Cela paraît trivial mais on encourage les porteurs de projet IA à
+   bien réaliser le travail sur les données en amont : pour nous, il
+   s'agissait à la fois de récupérer les PDFs des « lettres de suites
+   » et de mettre en place des API (interfaces de programmation) sur
+   nos systèmes internes pour récupérer des métadonnées et croiser ces
+   informations. Puis nous avons nettoyé les données : probablement
+   une des phases les plus critiques du projet » explique Damien
+   Clément, expert technique du projet.
+
+   « Pour la classification des termes, étape essentielle pour pouvoir
+   faire de l'annotation, nous avons défini tous les termes et
+   sous-termes spécifiques à chacun de nos domaines d'activités : pas
+   vraiment un dictionnaire, mais quasiment ! Ceci était nécessaire à
+   la fois pour faire comprendre le besoin métier, avec les guides
+   d'inspection par exemple, et pour établir cette structuration pour
+   l'annotation. C'est un point qu'il ne faut pas négliger car c'est
+   la colonne vertébrale du projet », ajoute Dominique Boina, experte
+   métier du projet.
+
+2. *Être sur le terrain et engager un grand nombre d'agents et experts métier pour une phase d'annotation réussie*
+
+   « Chaque projet IA est différent : dans notre cas, il y a beaucoup
+   de compétences spécifiques et différentes à l'ASN donc nous avions
+   besoin de notre propre interface d'annotation, et que celle-ci soit
+   le reflet d'un collectif et non d'une personne. Nous avons
+   sollicité les agents pour qu'ils annotent les lettres
+   manuellement : nous avions besoin d'une masse critique
+   d'annotations par les inspecteurs pour que l'algorithme puisse
+   comprendre et généraliser les prédictions propres à notre
+   activité. Nous avons réussi à atteindre 4,000 lettres de suites
+   annotées par 300 agents -*soit 90% des personnes susceptibles
+   d'utiliser l'outil*- : tout le monde a mis « la main à la pâte » :
+   ça nous a permis de créer un jeu de données d'apprentissage pour
+   entraîner notre algorithme »
+
+   « Nous avons été surpris en apprenant qu'il fallait annoter plus de
+   1000 lettres par domaine. On a réussi mais ce n'était pas gagné
+   d'avance.  Pour avoir un minimum de résultats, il fallait annoter
+   800 lettres de suite par domaine, et pour un résultat
+   optimal 1600. On a atteint *entre 1200 et 1400 lettres annotées par
+   domaine*. Par ailleurs, 5% des documents ont été annotés en double
+   pour s'assurer d'avoir une bonne reproductibilité d'une lettre à
+   l'autre» ajoute Damien Clément.
+
+3. *En parallèle de l'annotation, avoir un serveur performant pour gagner du temps*
+
+   « Avoir un serveur avec une carte graphique plus performante qu'un
+   serveur classique est un point à ne pas négliger : cela nous a
+   permis un gain de temps énorme -probablement x20- : des traitements
+   peuvent prendre plusieurs journées, c'est une économie très
+   intéressante » ajoute Damien Clément.
+
+4. *Privilégier et améliorer la qualité des prédictions de l'algorithme*
+
+   « Lorsque l'on constate les résultats de nos prédictions, on
+   s'interroge : est-ce que l'on remonte toutes les lettres qu'on est
+   censé remonter (cf. abscisse) ? Les lettres que nous remontons
+   sont-elles pertinentes (cf. ordonnée) ? Nous avons fait le choix de
+   *prioriser la qualité aux dépens de la quantité de données*. Sur des
+   domaines particulièrement complexes, comme le nucléaire de
+   proximité par exemple, nos résultats sont moins bons, car les
+   documents sont beaucoup plus hétérogènes. Nous avons plusieurs
+   pistes pour améliorer la qualité de ces prédictions : *l'ajout de
+   listes de vocabulaire, l'exploitation des bons résultats
+   d'apprentissage sur les autres domaines, et de nouvelles
+   annotations ponctuelles pour évoluer avec le métier »*.
+
+   [[https://etalab.github.io/infolettre-lab-ia/img/7bd9652617c894afea337da28834c2d7.jpg]]
+
+5. *Mettre en place une gouvernance adaptée de suivi du projet*
+
+   « Le fait d'avoir eu une gestion de projet bicéphale -- à la fois
+   technique et métier -- a été clairement bénéfique à tous points de
+   vue.  C'est un mode de projet que l'on va garder et appliquer sur
+   d'autres projets. Nous avons un outil qui correspond aux besoins
+   métier et c'est bien ce qu'on souhaitait. Ce projet a aussi mis
+   l'ASN dans une autre culture : en quelques semaines on a réussi à
+   développer des outils utiles pour tous.
+
+*Et la suite ?*
+
+   « Aujourd'hui, nous sommes dans la deuxième phase du projet : nous
+   avons déjà automatisé les lettres de suites. Nous travaillons
+   maintenant sur l'amélioration de l'interface de recherche pour nous
+   permettre d'avoir accès à des informations très précises. La
+   prochaine étape consistera à développer l'interface de suivi pour
+   faire remonter des tendances et statistiques. L'interface
+   développée est une brique parmi d'autres. Nous avons vocation à
+   faire avancer les outils les uns avec les autres et en fonction des
+   besoins des inspecteurs ».
+
+   /La démarche du projet inclut une phase d'annotation manuelle de 4 000 lettres de suites, le développement d'un algorithme de traitement du langage naturel, la construction d'un moteur de recherche et l'objectif de fournir des indicateurs de tendances./
+
+** Invitation : Datadrink virtuel du Lab IA ”Data science et impact du confinement”, jeudi 4 juin de 16h00 à 17h00
+
+Vous êtes conviés chaleureusement au prochain datadrink virtuel du Lab
+IA le jeudi 4 juin de 16h00 à 17h00 sur le thème *Data science & impact
+du confinement*.
+
+[[https://etalab.github.io/infolettre-lab-ia/img/cf7c9a7740583b346904fcd3c09f771b.jpg]]
+
+Au programme : 
+
+- *Baptiste Coulmont*, professeur de sociologie, présentera ses travaux d'analyses et de visualisation de différents indicateurs avant et pendant le confinement : [[http://coulmont.com/blog/2020/05/04/dataconfinement1/]["Dataconfinement: la chute"]]
+- *Aliette Cheptiski et Mikael Beatriz*, du département de la Conjoncture de l'[[https://www.insee.fr/fr/accueil][INSEE]], présenteront leurs travaux d'estimation de la perte d'activité et expliqueront comment ils ont adapté leur méthodologie à la crise sanitaire actuelle.
+- *Pierre Camilleri* de l'équipe [[https://signauxfaibles.co/][Signaux Faibles]], présentera le modèle de prédiction de la défaillance des entreprises et expliquera les évolutions en cours pour s'adapter au contexte de crise.
+
+Les places étant limitées, [[https://www.eventbrite.fr/e/billets-datadrink-lab-ia-etalab-data-science-impact-du-confinement-106904105056][inscrivez-vous en ligne]] et nous vous enverrons le lien pour vous connecter à la conférence dans les jours à venir. Un lien sera envoyé à l'ensemble de notre liste de diffusion pour celles et ceux qui souhaitent (ré)-écouter l'enregistrement.
+
+** Notre sélection de ressources à visiter :
+
+- La sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-avril-2020/][sorties du mois d'avril sur data.gouv.fr]]
+- Intéressés par les enjeux de la rénovation énergétique des bâtiments ?  Participez au hackathon en ligne #RenovAction, co-organisé par le Ministère de l'Ecologie, le Ministère de la Cohésion des territoires et l‘Agence de la Transition Écologique du 11 au 22 juin 2020, [[https://t.co/9QGemjazzE?amp=1][infos et inscriptions]]
+- Webinaire dans le cadre du projet FTAP Incub'O de la préfecture de la région Occitanie, ouvert à tous : "Comment l'IA peut (et va) transformer l'action publique ?", mercredi 3 juin de 9h à 10h30, [[https://webikeo.fr/webinar/comment-l-ia-peut-et-va-transformer-l-action-publique][infos et inscriptions]]
+- Le Lab IA de Météo-France présente MeteoNet et une formation à venir le jeudi 4 juin de 14h à 17h pour faire découvrir ce dataset et discuter des différents cas d'applications. Elle s'adresse à toute personne qui fait de l'IA et/ou a des compétences en IA et à toute personne orientée ”métier”.
+
+/Gwennaelle Larvor du Lab IA de Météo-France présente MeteoNet, avec la mise en accès du jeu de données MeteoNet/:
+
+*Qu'est ce que MeteoNet ?* MeteoNet est un jeu de données
+météorologiques ouvert conçu pour aider la recherche et l'innovation à
+Météo-France grâce à l'intelligence artificielle. Les données ont été
+formatées de manière à rendre leur exploitation aisée en Data Science.
+Ce dataset a pour objectifs: - d'obtenir des contributions de la part
+de la communauté académique et de toute personne intéressée par la
+Data Science - d'être réutilisable et prêt à l'emploi pour une grande
+diversité de sujets à Météo-France
+
+Il s'agit d'archives de différentes natures (observations radar,
+stations sol, prévisions des modèles AROME et ARPEGE, masques
+terre-mer et relief), sur 3 ans (de 2016 à 2018 inclus) et sur deux
+zones de la France de 550*500 km environ (quarts nord-ouest et
+sud-est).
+
+*Comment y accéder ?* Ces données sont associées à une toolbox (un
+ensemble de notebooks Python) qui permet de prendre en main rapidement
+le dataset. Elles sont accessibles de deux manières : - via cette page
+web (https://meteonet.umr-cnrm.fr/), la toolbox est disponible sur
+Github (https://github.com/meteofrance/meteonet) - sur Kaggle, une
+plateforme web organisant des compétitions en Data Science :
+https://www.kaggle.com/katerpillar/meteonet
+
+*Formation à venir :* Une formation aura lieu le jeudi 4 juin de 14h à
+17h en visioconférence pour faire découvrir ce dataset et discuter des
+différents cas d'applications. Elle s'adresse à deux types de profil :
+
+- toute personne qui fait de l'IA et/ou a des compétences en IA;
+- toute personne orientée "métier" qui n'a pas nécessairement de compétences IA, mais pour qui l'IA pourrait apporter un plus dans son travail.
+
+Elle se déroulera sur la plateforme Kaggle. Voici le lien pour s'inscrire : https://forms.gle/NBo2uEM82kfSAW4j9
+
+
