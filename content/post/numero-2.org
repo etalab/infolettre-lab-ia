@@ -66,7 +66,7 @@ Voici quelques contributions notables :
 
 Du choix à l'élaboration du protocole, à l'analyse des résultats, l'article présente l'ensemble de la démarche : l'état de l'art et l'existant, les travaux et la méthodologie appliquée (protocole, appel à la contribution via l'organisation d'annotathons, résultats et conclusion de cette expérimentation).
 
-Prochaine étape pour PIAF *: développer un moteur de questions réponses qui s'appuie sur le jeu de données PIAF et qui puisse être utilisé par les administrations françaises*. Ophélie Coelho, designer, vient de rejoindre l'équipe du Lab IA pour œuvrer à sa création, avec Pavel Soriano, Julien Denes et Guillaume Lancrenon. En savoir plus sur [[https://piaf.etalab.studio/][le projet PIAF]].
+*Prochaine étape pour PIAF : développer un moteur de questions réponses qui s'appuie sur le jeu de données PIAF et qui puisse être utilisé par les administrations françaises*.  Ophélie Coelho, designer, vient de rejoindre l'équipe du Lab IA pour œuvrer à sa création, avec Pavel Soriano, Julien Denes et Guillaume Lancrenon. En savoir plus sur [[https://piaf.etalab.studio/][le projet PIAF]].
 
 ** Expérimentation de l'IA : Retour d'expérience technique & métier sur l'annotation collective avec le projet AMI-IA 1 de l'Autorité de sûreté nucléaire (ASN)
 
