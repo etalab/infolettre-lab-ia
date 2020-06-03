@@ -66,12 +66,7 @@ Voici quelques contributions notables :
 
 Du choix à l'élaboration du protocole, à l'analyse des résultats, l'article présente l'ensemble de la démarche : l'état de l'art et l'existant, les travaux et la méthodologie appliquée (protocole, appel à la contribution via l'organisation d'annotathons, résultats et conclusion de cette expérimentation).
 
-Prochaine étape pour PIAF : *développer un moteur de questions
-réponses qui s'appuie sur le jeu de données PIAF et qui puisse être
-utilisé par les administrations françaises*. Ophélie Coelho, designer,
-vient de rejoindre l'équipe du Lab IA pour œuvrer à sa création, avec
-Pavel Soriano, Julien Denes et Guillaume Lancrenon. En savoir plus sur
-[[https://piaf.etalab.studio/][le projet PIAF]].
+Prochaine étape pour PIAF : *développer un moteur de questions réponses qui s'appuie sur le jeu de données PIAF et qui puisse être utilisé par les administrations françaises*. Ophélie Coelho, designer, vient de rejoindre l'équipe du Lab IA pour œuvrer à sa création, avec Pavel Soriano, Julien Denes et Guillaume Lancrenon. En savoir plus sur [[https://piaf.etalab.studio/][le projet PIAF]].
 
 ** Expérimentation de l'IA : Retour d'expérience technique & métier sur l'annotation collective avec le projet AMI-IA 1 de l'Autorité de sûreté nucléaire (ASN)
 
@@ -158,18 +153,7 @@ Quelques points à retenir :
 
 4. *Privilégier et améliorer la qualité des prédictions de l'algorithme*
 
-   « Lorsque l'on constate les résultats de nos prédictions, on
-   s'interroge : est-ce que l'on remonte toutes les lettres qu'on est
-   censé remonter (cf. abscisse) ? Les lettres que nous remontons
-   sont-elles pertinentes (cf. ordonnée) ? Nous avons fait le choix de
-   *prioriser la qualité aux dépens de la quantité de données*. Sur des
-   domaines particulièrement complexes, comme le nucléaire de
-   proximité par exemple, nos résultats sont moins bons, car les
-   documents sont beaucoup plus hétérogènes. Nous avons plusieurs
-   pistes pour améliorer la qualité de ces prédictions : *l'ajout de
-   listes de vocabulaire, l'exploitation des bons résultats
-   d'apprentissage sur les autres domaines, et de nouvelles
-   annotations ponctuelles pour évoluer avec le métier »*.
+   « Lorsque l'on constate les résultats de nos prédictions, on s'interroge : est-ce que l'on remonte toutes les lettres qu'on est censé remonter (cf. abscisse) ? Les lettres que nous remontons sont-elles pertinentes (cf. ordonnée) ? Nous avons fait le choix de *prioriser la qualité aux dépens de la quantité de données*. Sur des domaines particulièrement complexes, comme le nucléaire de proximité par exemple, nos résultats sont moins bons, car les documents sont beaucoup plus hétérogènes. Nous avons plusieurs pistes pour améliorer la qualité de ces prédictions : *l'ajout de listes de vocabulaire, l'exploitation des bons résultats d'apprentissage sur les autres domaines, et de nouvelles annotations ponctuelles pour évoluer avec le métier »*.
 
    [[https://etalab.github.io/infolettre-lab-ia/img/7bd9652617c894afea337da28834c2d7.jpg]]
 
