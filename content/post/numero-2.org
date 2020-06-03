@@ -4,17 +4,9 @@
 #+layout: post
 #+draft: false
 
-L'infolettre du Lab IA est une lettre d'information mensuelle sur les
-actualités du Lab IA d'Etalab, *les échanges, expérimentations,
-rencontres et outils autour de l'usage des données et de l'IA pour
-améliorer l'action publique*. Elle s'adresse [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][aux AMI IA 1 et 2]], à la
-communauté du Lab IA : participants aux , datascientists de
-l'administration, chercheurs et prestataires de l'IA pour
-l'administration, et agents publics intéressés par la science des
-données et l'IA.
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s'adresse [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][aux AMI IA 1 et 2]], à la communauté du Lab IA : participants aux , datascientists de l'administration, chercheurs et prestataires de l'IA pour l'administration, et agents publics intéressés par la science des données et l'IA.
 
-Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres
-précédentes]] et proposer des contenus pour les prochaines éditions.
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
 /Ci-dessous/: 
 
