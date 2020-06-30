@@ -51,6 +51,8 @@ Quatre projets exploratoires techniquement et sélectionnés par [[https://www.e
 
 Rencontre avec Julian Le Deunf, expert métier et data scientist de l’équipe projet, et Steve Oudot, chercheur à l’Inria Saclay dans l’équipe DataShape, sur le lancement du projet IA du Service hydrographique et océanogaphique de la marine (Shom), sélectionné parmi les 4 projets scientifiques. A partir des mesures aéroportées par lidar bathymétrique (laser) prises sur le littoral français via le projet Litto3D®, l’IA permettra d’améliorer la production du référentiel du littoral en automatisant partiellement le traitement effectué par les agents.
 
+[[https://github.com/etalab/infolettre-lab-ia/blob/master/docs/img/Shom.PNG]]
+
 *L’apport de la recherche sur l’IA pour améliorer le soutien aux politiques publiques*
 
 « En faisant appel au monde de la recherche, nous avons plus d’interactions possibles qu’avec un prestataire, une réflexion sur les outils et les performances nécessaires étant donné le type de données que l’on utilise. On teste des idées, on tente des approches : on a *la flexibilité nécessaire pour expérimenter*. Par ailleurs, la littérature sur les données de cartographie est spécifique et relativement limitée : en explorant l’outil adéquat, nous pourrons aussi bien améliorer notre chaîne de traitement pour toute la gamme de profondeur (quelques mètres en Normandie, et jusqu’à cinquante mètres de profondeur en Polynésie française) et de morphologie. Ce qui est également intéressant dans cette approche expérimentale avec la recherche, c’est que nous pourrons chercher les biais d’apprentissage dans les données de façon beaucoup plus fine » explique Julian Le Deunf, de l’équipe projet Shom. 
