@@ -102,7 +102,7 @@ Le programme [[https://entrepreneur-interet-general.etalab.gouv.fr/index.html][E
 
 ** Atelier « Vis ma vie de data scientist » : introduction aux outils du data scientist 
 
-Dans le cadre de l’atelier de formation « Vis ma vie data scientist » du 11 juin, réservé aux porteurs de projets IA de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a conduit une formation en ligne pour faire découvrir le déroulement et les outils d’un projet de data science à travers trois cas d’études des données disponibles sur data.gouv.fr.
+Dans le cadre de l’atelier de formation « Vis ma vie data scientist » du 11 juin, réservé aux porteurs de projets IA de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a conduit *une formation en ligne pour faire découvrir le déroulement et les outils d’un projet de data science* à travers trois cas d’études des données disponibles sur data.gouv.fr.
 
 Voici les trois notebooks développés présentés à cette occasion respectivement par Robin Reynaud, Julien Denes et Kim Montalibet (Etalab) : 
 
