@@ -116,8 +116,6 @@ Voici les trois notebooks développés présentés à cette occasion respectivem
 
 ** PIAF participe aux 50 ans de la francophonie dans le monde : l’annotation continue 
 
-[[https://github.com/etalab/infolettre-lab-ia/blob/master/docs/img/piaf.PNG]]
-
 Pour construire les ressources nécessaires pour permettre aux intelligences artificielles de parler français, « Pour des IA francophones » (PIAF) a [[https://piaf.etalab.studio/][mis en ligne une plateforme d’annotation]] pour écrire des questions réponses. Cela permet de créer de façon collaborative un jeu de donnée pour entraîner des IA à répondre à des questions en français. En juin, PIAF a publié [[https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/][la dernière version du jeu de données]], avec deux fois plus de questions (environ 7500 aujourd’hui. Plus on a de questions, meilleure sera notre IA. Pour inviter le grand public francophone à participer, PIAF participe aux 50 ans de la francophonie dans le monde : l’annotation continue avec [[https://agenda50ans.francophonie.org/events/grand-annotathon-en-ligne-davril-a-septembre-pour-une-ia-francophone?nc=eyJpbmRleCI6NCwidG90YWwiOjQ2M30%3D][un grand annotathon en ligne]] jusqu’en septembre.
 
 ** Data science, impact du confinement et comment adapter ses modèles à la crise : rediffusion du datadrink en ligne du 4 juin 
