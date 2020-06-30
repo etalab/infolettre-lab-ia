@@ -13,7 +13,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Expérimentation de l'IA : les projets de l'AMI IA 1 se poursuivent en 2020 
 - Lancement de l'accompagnement scientifique de l'Inria avec 4 projets sélectionnés en 2020 (AMI IA 2) : rencontre avec l'équipe projet IA du Shom
 - Retrouvez le webinaire d’Etalab sur la transparence des algorithmes publics  
-- Publication du décret n° 2020-797 du 29 juin 2020 relatif à la mise à disposition du public des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
+- Ouverture des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
 - Atelier "Vis ma vie de data scientist" : introduction aux outils du data scientist 
 - PIAF participe aux 50 ans de la francophonie dans le monde : l'annotation continue 
 - Data science, impact du confinement et comment adapter ses modèles à la crise : rediffusion du datadrink en ligne du 4 juin 
@@ -88,7 +88,7 @@ Quelques pistes clés pour mettre en œuvre les obligations :
 4.	Préparer des éléments pour les réponses d’informations individuelles à la demande 
 Si vous souhaitez qu’Etalab vous accompagne sur ces questions, vous pouvez nous contacter à l’adresse algorithmes@etalab.gouv.fr 
 
-** Publication du décret n° 2020-797 du 29 juin 2020 relatif à la mise à disposition du public des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
+** Ouverture des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
 
 Suite à la publication [[https://www.legifrance.gouv.fr/eli/decret/2020/6/29/JUST1933453D/jo/texte][décret n° 2020-797 du 29 juin 2020]], les décisions des juridictions judiciaires et administratives seront mises à la disposition du public. Pour ouvrir les décisions de justice au grand public, *de nombreuses informations sensibles et à caractère personnel doivent être supprimées avant publication*. 
 
