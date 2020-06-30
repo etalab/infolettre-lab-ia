@@ -90,10 +90,10 @@ Si vous souhaitez qu’Etalab vous accompagne sur ces questions, vous pouvez nou
 
 ** Publication du décret n° 2020-797 du 29 juin 2020 relatif à la mise à disposition du public des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
 
-Suite à la publication du [[https://www.legifrance.gouv.fr/eli/decret/2020/6/29/JUST1933453D/jo/texte][décret n° 2020-797 du 29 juin 2020]], les décisions des juridictions judiciaires et administratives seront mises à la disposition du public. 
+Suite à la publication [[https://www.legifrance.gouv.fr/eli/decret/2020/6/29/JUST1933453D/jo/texte][décret n° 2020-797 du 29 juin 2020]], les décisions des juridictions judiciaires et administratives seront mises à la disposition du public. Pour ouvrir les décisions de justice au grand public, *de nombreuses informations sensibles et à caractère personnel doivent être supprimées avant publication*. 
 
-Pour ouvrir les décisions de justice au grand public, *de nombreuses informations sensibles et à caractère personnel doivent être supprimées avant publication*. Depuis juin 2019, le Lab IA d'Etalab accompagne le Conseil d'Etat dans l'exploration d'un outil d'intelligence artificielle qui in fine permettra de publier les décisions de justice en données ouvertes. Cet outil repose sur une solution de Traitement Automatique du Langage Naturel (TALN, ou NLP en anglais) avec l'objectif de fournir une solution plus flexible et performante que celles utilisées aujourd'hui manuellement. Voir aussi : 
--  [[https://datascience.etalab.studio\pseudo][Démonstration de l’outil d’IA de pseudonymisation open source développé par le Lab IA pour le Conseil d’Etat]]
+Depuis juin 2019, le Lab IA d'Etalab accompagne le Conseil d'Etat dans l'exploration d'un outil d'intelligence artificielle qui in fine permettra de publier les décisions de justice en données ouvertes. Cet outil repose sur une solution de Traitement Automatique du Langage Naturel (TALN, ou NLP en anglais) avec l'objectif de fournir une solution plus flexible et performante que celles utilisées aujourd'hui manuellement. Voir aussi :
+- [[https://datascience.etalab.studio\pseudo][Démonstration de l’outil d’IA de pseudonymisation open source développé par le Lab IA pour le Conseil d’Etat]]
 - Les guides d’Etalab : [[https://guides.etalab.gouv.fr/pseudonymisation/#a-quoi-sert-ce-guide][pseudonymiser des documents grâce à l’IA]]
 
 Le programme [[https://entrepreneur-interet-general.etalab.gouv.fr/index.html][Entrepreneurs d'Intérêt Général]] (EIG) travaille également avec la Cour de Cassation pour développer les outils nécessaires à la publication de ces données : 
