@@ -104,6 +104,8 @@ Le programme [[https://entrepreneur-interet-general.etalab.gouv.fr/index.html][E
 - [[https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html][Le défi EIG 3 OpenJustice avec la Cour de Cassation]] : ouvrir la jurisprudence par la pseudonymisation des données
 - [[https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/label.html][Le défi EIG 4 Label avec la Cour de Cassation]] : accélérer l’ouverture des décisions de justice.
 
+Par ailleurs, la Cour de Cassation bénéficie  également d’un accompagnement scientifique du Lab IA d’Etalab pour le développement d’une solution d’identification des divergences de jurisprudence, dans le cadre des [[https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public][projets AMI IA 2]]. 
+
 ** Atelier « Vis ma vie de data scientist » : introduction aux outils du data scientist 
 
 Dans le cadre de l’atelier de formation « Vis ma vie data scientist » du 11 juin, réservé aux porteurs de projets IA de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a conduit *une formation en ligne pour faire découvrir le déroulement et les outils d’un projet de data science* à travers trois cas d’études des données disponibles sur data.gouv.fr.
