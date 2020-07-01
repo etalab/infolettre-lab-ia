@@ -25,6 +25,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Le [[https://github.com/CEREMA/dterso.chaineTraitement.traitementImageSatelitteEtIndicateursDerives][code des outils de traitement d'imagerie satellitaire, développé par le Cerema, a été mis en ligne en open source]] sur Github : libraries élémentaires généralistes et métiers, applications de traitement avancés et séquenceur sur des thématiques de l'aménagement du territoire et des risques 
 
 L'équipe du Lab IA d'Etalab
+
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
 
 ** Expérimentation de l'IA : les projets AMI IA 1 se poursuivent en 2020 
