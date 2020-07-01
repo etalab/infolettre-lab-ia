@@ -51,7 +51,7 @@ Quatre projets exploratoires techniquement et sélectionnés par [[https://www.e
 
 Rencontre avec Julian Le Deunf, expert métier et data scientist de l’équipe projet, et Steve Oudot, chercheur à l’Inria Saclay dans l’équipe DataShape, sur le lancement du projet IA du Service hydrographique et océanogaphique de la marine (Shom), sélectionné parmi les 4 projets scientifiques. A partir des mesures aéroportées par lidar bathymétrique (laser) prises sur le littoral français via le projet Litto3D®, l’IA permettra d’améliorer la production du référentiel du littoral en automatisant partiellement le traitement effectué par les agents.
 
-[[https://github.com/etalab/infolettre-lab-ia/blob/master/docs/img/Shom.PNG]]
+[[https://etalab.github.io/infolettre-lab-ia/img/shom.png]]
 
 *L’apport de la recherche sur l’IA pour améliorer le soutien aux politiques publiques*
 
@@ -93,7 +93,7 @@ Si vous souhaitez qu’Etalab vous accompagne sur ces questions, vous pouvez nou
 
 ** Ouverture des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
 
-[[https://github.com/etalab/infolettre-lab-ia/blob/master/docs/img/decret.PNG]]
+[[https://etalab.github.io/infolettre-lab-ia/img/decret.png]]
 
 Suite à la publication [[https://www.legifrance.gouv.fr/eli/decret/2020/6/29/JUST1933453D/jo/texte][décret n° 2020-797 du 29 juin 2020]], les décisions des juridictions judiciaires et administratives seront mises à la disposition du public. Pour ouvrir ces décisions au grand public, *de nombreuses informations sensibles et à caractère personnel doivent être supprimées avant publication*. 
 
@@ -119,7 +119,7 @@ Voici les trois notebooks développés présentés à cette occasion respectivem
 
 ** PIAF participe aux 50 ans de la francophonie dans le monde : l’annotation continue 
 
-[[https://github.com/etalab/infolettre-lab-ia/blob/master/docs/img/piaf.PNG]]
+[[https://etalab.github.io/infolettre-lab-ia/img/piaf.png]]
 
 Pour construire les ressources nécessaires pour permettre aux intelligences artificielles de parler français, « Pour des IA francophones » (PIAF) a [[https://piaf.etalab.studio/][mis en ligne une plateforme d’annotation]] pour écrire des questions réponses. Cela permet de créer de façon collaborative un jeu de donnée pour entraîner des IA à répondre à des questions en français. En juin, PIAF a publié [[https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/][la dernière version du jeu de données]], avec deux fois plus de questions (environ 7500 aujourd’hui. Plus on a de questions, meilleure sera notre IA. Pour inviter le grand public francophone à participer, PIAF participe aux 50 ans de la francophonie dans le monde : l’annotation continue avec [[https://agenda50ans.francophonie.org/events/grand-annotathon-en-ligne-davril-a-septembre-pour-une-ia-francophone?nc=eyJpbmRleCI6NCwidG90YWwiOjQ2M30%3D][un grand annotathon en ligne]] jusqu’en septembre.
 
