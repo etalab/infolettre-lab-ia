@@ -30,7 +30,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Expérimentation de l'IA : les projets AMI IA 1 se poursuivent en 2020 
 
-Les six projets de la première promotion [https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1] accompagnés en 2019 par le Lab IA et la DITP se sont poursuivis en 2020. Sur les six projets, cinq ont permis de développer *un algorithme d’intelligence artificielle qui a pu être testé avec les agents sur le terrain* :
+Les six projets de la première promotion [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1]] accompagnés en 2019 par le Lab IA et la DITP se sont poursuivis en 2020. Sur les six projets, cinq ont permis de développer *un algorithme d’intelligence artificielle qui a pu être testé avec les agents sur le terrain* :
 
 -	L’Agence centrale des organismes de sécurité sociale (ACOSS), qui a développé *un agent vocal d’aiguillage des appels et de traitement automatique des questions des usagers sur le chèque emploi associatif*, poursuit le travail initié avec le prestataire et vise une mise en production de l’outil et un élargissement du périmètre ; 
 -	La Direction départementale des territoires de l’Hérault (DDTM), qui a développé *un outil de détection automatique des irrégularités d’occupation des sols*, poursuit l’expérimentation avec des tests par les contrôleurs, l’amélioration de l’interface prévue et une éventuelle extension à d’autres cas d’usage (friches agricoles) ; 
