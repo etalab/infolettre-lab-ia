@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Etalab - Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://etalab.github.io/infolettre-lab-ia/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infolettre Lab IA n°3</title>
+      <link>https://etalab.github.io/infolettre-lab-ia/numero-3/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://etalab.github.io/infolettre-lab-ia/numero-3/</guid>
+      <description>L&amp;#39;infolettre du Lab IA est une lettre d&amp;#39;information mensuelle sur les actualités du Lab IA d&amp;#39;Etalab, les échanges, expérimentations, rencontres et outils autour de l&amp;#39;usage des données et de l&amp;#39;IA pour améliorer l&amp;#39;action publique. Elle s&amp;#39;adresse aux AMI IA 1 et 2, à la communauté du Lab IA : participants aux , datascientists de l&amp;#39;administration, chercheurs et prestataires de l&amp;#39;IA pour l&amp;#39;administration, et agents publics intéressés par la science des données et l&amp;#39;IA.</description>
+    </item>
     
     <item>
       <title>Infolettre Lab IA n°2</title>
