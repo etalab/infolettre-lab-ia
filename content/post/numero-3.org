@@ -32,12 +32,12 @@ L'équipe du Lab IA d'Etalab
 
 Les six projets de la première promotion [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1]] accompagnés en 2019 par le Lab IA et la DITP se sont poursuivis en 2020. Sur les six projets, cinq ont permis de développer *un algorithme d’intelligence artificielle qui a pu être testé avec les agents sur le terrain* :
 
--	L’Agence centrale des organismes de sécurité sociale (ACOSS), qui a développé *un agent vocal d’aiguillage des appels et de traitement automatique des questions des usagers sur le chèque emploi associatif*, poursuit le travail initié avec le prestataire et vise une mise en production de l’outil et un élargissement du périmètre ; 
--	La Direction départementale des territoires de l’Hérault (DDTM), qui a développé *un outil de détection automatique des irrégularités d’occupation des sols*, poursuit l’expérimentation avec des tests par les contrôleurs, l’amélioration de l’interface prévue et une éventuelle extension à d’autres cas d’usage (friches agricoles) ; 
--	L’Office français pour la biodiversité (OFB), qui a développé *une interface de visualisation des données basée sur l’IA et l’analyse des données pour mieux orienter les contrôles de la police de l’environnement sur la pollution des eaux « diffuses »*, a expérimenté l’outil sur le terrain au 1er trimestre 2020 dans les deux départements pilotes, et évalue l’opportunité d’un élargissement à d’autres problématiques et d’autres départements ;
--	L’Autorité de sûreté nucléaire (ASN), qui a développé *un outil d’analyse des lettres de suites pour mieux guider les inspections*, a poursuivi le projet avec le prestataire sur son budget propre et a été sélectionné dans le programme Entrepreneurs d’Intérêt Général (EIG) pour aller plus loin dans l’exploitation des lettres de suite et en faire un outil d’aide à la décision pour les inspecteurs ;
--	La Direction Générale de l’Alimentation (DGAL) du Ministère de l’Agriculture et de l’Alimentation, qui a créé *un outil pour mieux orienter les contrôles sanitaires dans les restaurants*, a déployé l’outil auprès de ses inspecteurs dès novembre 2019. L’outil pourra être mutualisé avec d’autres services, le scraping d’autres données est prévu dans le cadre d’un partenariat avec le prestataire, et l’algorithme vise à être amélioré, notamment grâce au recrutement de data scientists au sein du ministère. 
--	Le CHU de Toulouse, qui a développé *un outil d’extraction d’information dans les comptes rendu médicaux*, étudie la possibilité d’intégrer l’outil d’annotation dans les SI du CHU et cherche d’autres moyens pour poursuivre l’expérimentation de l’IA. 
+- L’Agence centrale des organismes de sécurité sociale (ACOSS), qui a développé *un agent vocal d’aiguillage des appels et de traitement automatique des questions des usagers sur le chèque emploi associatif*, poursuit le travail initié avec le prestataire et vise une mise en production de l’outil et un élargissement du périmètre ; 
+- La Direction départementale des territoires de l’Hérault (DDTM), qui a développé *un outil de détection automatique des irrégularités d’occupation des sols*, poursuit l’expérimentation avec des tests par les contrôleurs, l’amélioration de l’interface prévue et une éventuelle extension à d’autres cas d’usage (friches agricoles) ; 
+- L’Office français pour la biodiversité (OFB), qui a développé *une interface de visualisation des données basée sur l’IA et l’analyse des données pour mieux orienter les contrôles de la police de l’environnement sur la pollution des eaux « diffuses »*, a expérimenté l’outil sur le terrain au 1er trimestre 2020 dans les deux départements pilotes, et évalue l’opportunité d’un élargissement à d’autres problématiques et d’autres départements ;
+- L’Autorité de sûreté nucléaire (ASN), qui a développé *un outil d’analyse des lettres de suites pour mieux guider les inspections*, a poursuivi le projet avec le prestataire sur son budget propre et a été sélectionné dans le programme Entrepreneurs d’Intérêt Général (EIG) pour aller plus loin dans l’exploitation des lettres de suite et en faire un outil d’aide à la décision pour les inspecteurs ;
+- La Direction Générale de l’Alimentation (DGAL) du Ministère de l’Agriculture et de l’Alimentation, qui a créé *un outil pour mieux orienter les contrôles sanitaires dans les restaurants*, a déployé l’outil auprès de ses inspecteurs dès novembre 2019. L’outil pourra être mutualisé avec d’autres services, le scraping d’autres données est prévu dans le cadre d’un partenariat avec le prestataire, et l’algorithme vise à être amélioré, notamment grâce au recrutement de data scientists au sein du ministère. 
+- Le CHU de Toulouse, qui a développé *un outil d’extraction d’information dans les comptes rendu médicaux*, étudie la possibilité d’intégrer l’outil d’annotation dans les SI du CHU et cherche d’autres moyens pour poursuivre l’expérimentation de l’IA. 
 
 Le 23 Juin, dans le cadre de l’accompagnement des projets AMI IA 2 organisé avec la DITP, Philippe Allamand, porteur du projet IA de la DDTM, a partagé son expérience avec les porteurs de projets AMI IA 1 : l’outil développé a notamment nécessité une importante phase d’annotation qui a fortement mobilisé les agents pour permettre de repérer automatiquement les constructions illégales. 
 
@@ -71,9 +71,9 @@ Enfin, un dernier point important est que l’on cherche à *assurer une certain
 
 /Trois autres projets sélectionnés par l’AMI-IA 2 bénéficieront d’un accompagnement scientifique avec les équipes de recherche de l’Inria/ :
 
--	/Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures/
+- /Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures/
 - /Institut national de l'information géographique et forestière (IGN) : faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites/ 
--	/Cour de cassation : identifier les divergences de jurisprudence/
+- /Cour de cassation : identifier les divergences de jurisprudence/
 
 ** Retrouvez le webinaire d’Etalab sur la transparence des algorithmes publics  
 
@@ -84,10 +84,10 @@ La loi pour une République numérique a posé le principe de *transparence des 
 Simon Chignard, Soizic Penicaud et Perica Sucevic (Etalab) y ont présenté le contexte juridique (loi République numérique et RGPD), les obligations des administrations (faire figurer une mention explicite, fournir une information individuelle, fournir une information générale), avec des mises en pratique et exemples de mise en œuvre par des administrations, et une présentation des ressources mises à disposition par Etalab : retrouvez ici le [[https://guides.etalab.gouv.fr/algorithmes/][guide d’Etalab sur les algorithmes publics : pourquoi et comment les expliquer ?]] mis à jour le 24 juin 2020 avec [[https://guides.etalab.gouv.fr/algorithmes/mention/#dans-quels-cas-l-obligation-de-mention-explicite-s-applique-t-elle][une fiche pratique sur l’obligation de mention explicite]].
 
 Quelques pistes clés pour mettre en œuvre les obligations :
-1.	*Recenser les principaux traitements algorithmiques qui fondent des décisions administratives individuelles* 
-2.	*Publier la liste sur votre site web et la rendre facilement trouvable*. Exemple : [[https://www.pole-emploi.fr/candidat/algorithmes.html][Pôle emploi]]
-3.	*Apposer la mention explicite*, en utilisant au besoin [[https://guides.etalab.gouv.fr/algorithmes/mention/][l’exemple de mention proposée par Etalab]]
-4.	*Préparer des éléments pour les réponses d’informations individuelles à la demande*
+1. *Recenser les principaux traitements algorithmiques qui fondent des décisions administratives individuelles* 
+2. *Publier la liste sur votre site web et la rendre facilement trouvable*. Exemple : [[https://www.pole-emploi.fr/candidat/algorithmes.html][Pôle emploi]]
+3. *Apposer la mention explicite*, en utilisant au besoin [[https://guides.etalab.gouv.fr/algorithmes/mention/][l’exemple de mention proposée par Etalab]]
+4. *Préparer des éléments pour les réponses d’informations individuelles à la demande*
 
 Si vous souhaitez qu’Etalab vous accompagne sur ces questions, vous pouvez nous contacter à l’adresse algorithmes@etalab.gouv.fr 
 
@@ -113,9 +113,9 @@ Dans le cadre de l’atelier de formation « Vis ma vie data scientist » du 11 
 
 Voici les trois notebooks développés présentés à cette occasion respectivement par Robin Reynaud, Julien Denes et Kim Montalibet (Etalab) : 
 
--	[[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb][Introduction à la visualisation de données]] ;
--	[[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb][Introduction au machine learning]] ;
--	[[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb][Introduction au traitement du langage naturel]]. 
+- [[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_dataviz_rr.ipynb][Introduction à la visualisation de données]] ;
+- [[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/intro-ML.ipynb][Introduction au machine learning]] ;
+- [[https://colab.research.google.com/github/etalab-ia/ami-ia/blob/master/notebooks/ami_ia_NLP_cada.ipynb][Introduction au traitement du langage naturel]]. 
 
 ** PIAF participe aux 50 ans de la francophonie dans le monde : l’annotation continue 
 
@@ -127,8 +127,8 @@ Pour construire les ressources nécessaires pour permettre aux intelligences art
 
 Le jeudi 4 juin de 16h à 17H30, le Lab IA a organisé un datadrink virtuel sur le thème Data science & impact du confinement : [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1591277063379][rediffusion ici]].
 
-- 	*Baptiste Coulmont*, professeur de sociologie : travaux d'analyses et de visualisation de différents indicateurs : [[http://coulmont.com/blog/2020/05/04/dataconfinement1/]["Dataconfinement: la chute"]]
-- 	*Aliette Cheptiski et Mikael Beatriz*, du département de la Conjoncture de l'[[https://www.insee.fr/fr/accueil][INSEE]] : travaux d'estimation de la perte d'activité et adaptation de leur méthodologie à la crise sanitaire actuelle. 
+- *Baptiste Coulmont*, professeur de sociologie : travaux d'analyses et de visualisation de différents indicateurs : [[http://coulmont.com/blog/2020/05/04/dataconfinement1/]["Dataconfinement: la chute"]]
+- *Aliette Cheptiski et Mikael Beatriz*, du département de la Conjoncture de l'[[https://www.insee.fr/fr/accueil][INSEE]] : travaux d'estimation de la perte d'activité et adaptation de leur méthodologie à la crise sanitaire actuelle. 
 - *Pierre Camilleri* de l'équipe [[https://signauxfaibles.co/][Signaux Faibles]] : modèle de prédiction de la défaillance des entreprises et évolutions en cours pour s'adapter au contexte de crise. 
 
 Si vous avez des suggestions ou souhaitez présenter vos projets pour un prochain datadrink (10 minutes de présentation suivies de 5 minutes de questions), contactez-nous.
