@@ -79,15 +79,16 @@ Enfin, un dernier point important est que l’on cherche à *assurer une certain
 
 A revoir en ligne : [[https://www.dailymotion.com/video/x7uqnv9][ici]]
 
-La loi pour une République numérique a posé le principe de transparence des algorithmes publics, notamment quand ils sont utilisés pour prendre des décisions administratives individuelles. Le jeudi 25 juin, Etalab a organisé un webinaire pour répondre à vos questions : qui est concerné ? Quels algorithmes ? Quelles obligations ? Quelles sanctions en cas de non-respect des obligations ? Comment faire, concrètement ? 
+La loi pour une République numérique a posé le principe de *transparence des algorithmes publics*, notamment quand ils sont utilisés pour prendre des décisions administratives individuelles. Le jeudi 25 juin, Etalab a organisé un webinaire pour répondre à vos questions : qui est concerné ? Quels algorithmes ? Quelles obligations ? Quelles sanctions en cas de non-respect des obligations ? Comment faire, concrètement ? 
 
 Simon Chignard, Soizic Penicaud et Perica Sucevic (Etalab) y ont présenté le contexte juridique (loi République numérique et RGPD), les obligations des administrations (faire figurer une mention explicite, fournir une information individuelle, fournir une information générale), avec des mises en pratique et exemples de mise en œuvre par des administrations, et une présentation des ressources mises à disposition par Etalab : retrouvez ici le [[https://guides.etalab.gouv.fr/algorithmes/][guide d’Etalab sur les algorithmes publics : pourquoi et comment les expliquer ?]] mis à jour le 24 juin 2020 avec [[https://guides.etalab.gouv.fr/algorithmes/mention/#dans-quels-cas-l-obligation-de-mention-explicite-s-applique-t-elle][une fiche pratique sur l’obligation de mention explicite]].
 
 Quelques pistes clés pour mettre en œuvre les obligations :
-1.	Recenser les principaux traitements algorithmiques qui fondent des décisions administratives individuelles 
-2.	Publier la liste sur votre site web et la rendre facilement trouvable. Exemple : [[https://www.pole-emploi.fr/candidat/algorithmes.html][Pôle emploi]]
-3.	Apposer la mention explicite, en utilisant au besoin [[https://guides.etalab.gouv.fr/algorithmes/mention/][l’exemple de mention proposée par Etalab]]
-4.	Préparer des éléments pour les réponses d’informations individuelles à la demande 
+1.	*Recenser les principaux traitements algorithmiques qui fondent des décisions administratives individuelles* 
+2.	*Publier la liste sur votre site web et la rendre facilement trouvable*. Exemple : [[https://www.pole-emploi.fr/candidat/algorithmes.html][Pôle emploi]]
+3.	*Apposer la mention explicite*, en utilisant au besoin [[https://guides.etalab.gouv.fr/algorithmes/mention/][l’exemple de mention proposée par Etalab]]
+4.	*Préparer des éléments pour les réponses d’informations individuelles à la demande*
+
 Si vous souhaitez qu’Etalab vous accompagne sur ces questions, vous pouvez nous contacter à l’adresse algorithmes@etalab.gouv.fr 
 
 ** Ouverture des décisions de justice  : comment le Lab IA accompagne le Conseil d'Etat pour occulter les éléments d'identification des personnes grâce à l'IA et la pseudonymisation 
