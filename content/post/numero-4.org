@@ -18,7 +18,8 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Notre sélection de ressources à visiter/:
 
-- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : liens vidéos 
+- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2
+][les liens vidéos]] sont en ligne
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juin-2020/][sorties du mois de juin sur data.gouv.fr]]
 - [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][Partagez vos talents numériques !]] Proposé par la DINUM, le dispositif met en relation des agents de l'Etat désireux de mettres leurs compétences ponctuellement au service des administrations, et les services de l'Etat ayant besoin d'expertise numérique 
 - « Machine Learning à partir des données spatio-temporelles : prioriser les zones de contrôle des pollutions diffuses par la Police de l’Environnement » : lire [[https://www.quantmetry.com/machine-learning-donnees-spatio-temporelles-pollutions-environnement/][ici]] l’article du prestataire sélectionné pour le projet AMI-IA 1 de l’Office Français de la Biodiversité  
@@ -90,3 +91,10 @@ Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[http
 
 /Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration : contactez nous lab-ia@data.gouv.fr/
 
+/Notre sélection de ressources à visiter/:
+
+- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2
+][les liens vidéos]] sont en ligne
+- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juin-2020/][sorties du mois de juin sur data.gouv.fr]]
+- [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][Partagez vos talents numériques !]] Proposé par la DINUM, le dispositif met en relation des agents de l'Etat désireux de mettres leurs compétences ponctuellement au service des administrations, et les services de l'Etat ayant besoin d'expertise numérique 
+- « Machine Learning à partir des données spatio-temporelles : prioriser les zones de contrôle des pollutions diffuses par la Police de l’Environnement » : lire [[https://www.quantmetry.com/machine-learning-donnees-spatio-temporelles-pollutions-environnement/][ici]] l’article du prestataire sélectionné pour le projet AMI-IA 1 de l’Office Français de la Biodiversité  
