@@ -27,4 +27,7 @@ L'équipe du Lab IA d'Etalab
 
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
 
-**Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
+** Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
+
+[[https://etalab.github.io/infolettre-lab-ia/img/immersion.png]]
+
