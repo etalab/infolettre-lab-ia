@@ -78,19 +78,13 @@ Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez 
 
 Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][saison 2 des projets AMI-IA]] sur le theme de l’*explicabilité des algorithmes*. Les équipes porteurs de projets sélectionnés dans le cadre de l’AMI-IA bénéficient d’une série d’ateliers tout au long de l’année pour accompagner l’avancement de leurs projets, en partenariat avec la DITP. Cette session a été organisée par le Lab IA avec Simon Chignard et Soizic Penicaud qui travaillent sur la transparence des algorithmes publics au sein d'Etalab, et Clément Hénin, doctorant à l'INRIA dont les recherches portent sur l'explicabilité des algorithmes.
 
-/Programme :/
-
-Fondements théoriques de l'explicabilité
-Ateliers d'identification des enjeux d'explicabilité dans les projets
-Conclusion et mise en commun
-
 /Ressources :/
 
-[[https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf][Le support de présentation]]
-[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544][L'enregistrement vidéo de la session]]
-[[Matrice d'explication des algorithmes à remplir par groupe][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication.docx]]
-[[Un exemple de matrice d'explication remplie][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication_exemple_score_coeur.docx]]
-[[Le guide Etalab sur la transparence des algorithmes publics][https://guides.etalab.gouv.fr/algorithmes/]]
+- [[https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf][Le support de présentation]]
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544][L'enregistrement vidéo de la session]]
+- [[https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication.docx[Matrice d'explication des algorithmes à remplir par groupe]]
+- [[https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication_exemple_score_coeur.docx]Un exemple de matrice d'explication remplie]]
+- [[https://guides.etalab.gouv.fr/algorithmes/][Le guide Etalab sur la transparence des algorithmes publics]]
 
 ** Invitation à relayer vos informations et offres d’emploi data sciences et IA dans l’administration
 
