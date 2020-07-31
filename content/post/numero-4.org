@@ -36,7 +36,7 @@ Rencontre avec Emilie Pistre, membre de l’équipe porteur du projet IA de la G
 
 /Contexte : Un système de pré-plainte en ligne a été mis en place par la Gendarmerie nationale depuis 2008 pour les victimes d’infractions, ce qui leur permet d’obtenir un rendez-vous dans une brigade de gendarmerie ou un commissariat de police pour confirmer et signer cette plainte.  Le gouvernement a décidé de faire évoluer ce système vers un système de plainte entièrement rédigée en ligne : l’objectif du projet d’IA est de *développer un « dialogueur » pour guider la victime dans l’enregistrement de sa plainte en ligne*. Sur la base de la déclaration initiale de la victime, la solution devra être en mesure de catégoriser la nature de la plainte (catégories d’infraction…) et d’évaluer l’ensemble des éléments manquants pour sa transformation en procès-verbal (officialisant le dépôt de plainte)./
 
-*/Immersion terrain dans les Yvelines et en Essonne/*
+***Immersion terrain dans les Yvelines et en Essonne***
 
 Les 28 et 29 juin 2020, l’équipe de la Gendarmerie a organisé une immersion terrain à Jouars-Pontchartrain dans les Yvelines et à Gif-sur-Yvette dans l’Essonne afin de bien identifier les besoins des brigades pour le développement du système d’IA : 
 
