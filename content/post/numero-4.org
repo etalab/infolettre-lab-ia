@@ -57,3 +57,19 @@ Ces éléments sont clés pour que le prestataire puisse travailler sur les algo
 Nous orientons le prestataire sur les besoins du terrain, et ils travaillent aussi étroitement avec les datascientists du Datalab de la Gendarmerie : nous distinguons vraiment ici la partie métier et la partie technique. Le Datalab de la Gendarmerie s’occupe par exemple de récupérer les données et de les anonymiser.
 
 Les ateliers métiers seront bientôt élargis pour y inclure les gendarmes et policiers qui ont participé aux immersions terrain (jusqu’à 10 personnes environ), pour mettre en avant leur pratique. Nous organiserons aussi prochainement un autre atelier métier, en fonction de l’évolution de l’algorithme. Ensuite il s’agira de le *tester et de vérifier les résultats* : notamment s’il s’agit bien d’une infraction d’atteinte aux biens dont l’auteur est inconnu. »
+
+** Rediffusion du datadrink de l’été : Cinq initiatives et réflexions data science & IA pour innover dans l’administration **
+
+Au programme du datadrink de l’été, cinq projets pour innover dans l’administration avec la data science et l’IA, suivies d’un appel à contribution : 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrink.png]]
+
+-	*Daphné Pertsekos et Jean-Baptiste Delfau* (Gendarmerie Nationale) ont présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-dggn][les développements et pistes de réflexions sur le projet d'aide aux opérateurs des centres opérationnels d'appel]] pour prioriser les interventions urgentes
+-	*Mathieu Rajerison* (Cerema) a présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-cerema-cartofriches][l'outil d'inventaire des friches "Cartofriches"]] développé par le Cerema (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement) 
+-	*Pavel Soriano* (Etalab) a présenté les [[https://speakerdeck.com/etalabia/datadrink-30072020-etalab-piaf][résultats et prochaines étapes de l'expérimentation "Pour une IA Francophone (PIAF)"]], y compris le développement d'un moteur de questions-réponses pour les administrations françaises
+-	*Valérie Plier et Guillaume Vimont* (SGA, Ministère des armées) ont présenté [[https://www.defense.gouv.fr/sante/actualites/projet-waked-co-la-future-plateforme-incontournable-de-recueil-de-publications-scientifiques-liees-au-covid-19][l’initiative Waked-Co]], une plateforme innovante de recherche et de gestion de la documentation scientifique liée au Covid-19 à l’aide d’outils d’IA (identification des signaux d’alerte, traduction des articles scientifiques, présentation des résultats)
+-	*Sandrine Rodriguez* (Mission Talents, DINUM) a présenté le dispositif [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][« Partagez vos talents numériques! »]] qui met en relation les agents de l’Etat avec une expertise numérique et les administrations pour des besoins ponctuels.
+
+Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
+
+
