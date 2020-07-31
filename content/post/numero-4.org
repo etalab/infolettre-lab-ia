@@ -86,11 +86,11 @@ Conclusion et mise en commun
 
 /Ressources :/
 
-[[https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf][Le support de présentation]
-[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544][L'enregistrement vidéo de la session]
-[[Matrice d'explication des algorithmes à remplir par groupe][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication.docx]
-[[Un exemple de matrice d'explication remplie][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication_exemple_score_coeur.docx]
-[[Le guide Etalab sur la transparence des algorithmes publics][https://guides.etalab.gouv.fr/algorithmes/]
+[[https://github.com/etalab-ia/ami-ia/blob/master/images/AMI_IA_2_Atelier_%233_9juillet2020.pdf][Le support de présentation]]
+[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1594295133544][L'enregistrement vidéo de la session]]
+[[Matrice d'explication des algorithmes à remplir par groupe][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication.docx]]
+[[Un exemple de matrice d'explication remplie][https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication_exemple_score_coeur.docx]]
+[[Le guide Etalab sur la transparence des algorithmes publics][https://guides.etalab.gouv.fr/algorithmes/]]
 
 ** Invitation à relayer vos informations et offres d’emploi data sciences et IA dans l’administration
 
