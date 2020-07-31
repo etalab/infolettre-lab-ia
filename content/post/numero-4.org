@@ -76,7 +76,7 @@ Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez 
 
 ** Atelier AMI-IA 2 "Explicabilité des algorithmes" du 9 juillet : liens utiles pour les projets IA 
 
-Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][saison 2 des projets AMI-IA]] sur le theme de l’*explicabilité des algorithmes*. Les équipes porteurs de projets sélectionnés dans le cadre de l’AMI-IA bénéficient d’une série d’ateliers tout au long de l’année pour accompagner l’avancement de leurs projets, en partenariat avec la DITP. Cette session a été organisée par le Lab IA avec Simon Chignard et Soizic Penicaud qui travaillent sur la transparence des algorithmes publics au sein d'Etalab, et Clément Hénin, doctorant à l'INRIA dont les recherches portent sur l'explicabilité des algorithmes.
+Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][saison 2 des projets AMI-IA]] sur le theme de *l’explicabilité des algorithmes*. Les équipes porteurs de projets sélectionnés dans le cadre de l’AMI-IA bénéficient d’une série d’ateliers tout au long de l’année pour accompagner l’avancement de leurs projets, en partenariat avec la DITP. Cette session a été organisée par le Lab IA avec Simon Chignard et Soizic Penicaud qui travaillent sur la transparence des algorithmes publics au sein d'Etalab, et Clément Hénin, doctorant à l'INRIA dont les recherches portent sur l'explicabilité des algorithmes.
 
 /Ressources :/
 
