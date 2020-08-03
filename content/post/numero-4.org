@@ -91,7 +91,7 @@ Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[http
 - [[https://github.com/etalab-ia/ami-ia/blob/master/images/matrice_explication_exemple_score_coeur.docx][Un exemple de matrice d'explication remplie]]
 - [[https://guides.etalab.gouv.fr/algorithmes/][Le guide Etalab sur la transparence des algorithmes publics]]
 
-** Invitation à relayer vos informations et offres d’emploi data sciences et IA dans l’administration
+** Invitation à relayer vos informations et offres d’emploi data science et IA dans l’administration
 
 Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
 
