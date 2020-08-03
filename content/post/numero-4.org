@@ -60,7 +60,7 @@ Les ateliers métiers seront bientôt élargis pour y inclure les gendarmes et p
 
 ** Rediffusion du datadrink de l’été : Cinq initiatives et réflexions data science & IA pour innover dans l’administration 
 
-Au programme du datadrink de l’été, cinq projets pour innover dans l’administration avec la data science et l’IA, suivies d’un appel à contribution : 
+Au programme du datadrink de l’été, cinq projets pour innover dans l’administration avec la data science et l’IA, suivies d’un appel à contribution : [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1596115582851][à revoir ici]]
 
 [[https://etalab.github.io/infolettre-lab-ia/img/datadrink.png]]
 
