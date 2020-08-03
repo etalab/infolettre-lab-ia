@@ -93,7 +93,7 @@ Le 9 juillet s’est tenu le troisième atelier technique du Lab IA de la [[http
 
 ** Invitation à relayer vos informations et offres d’emploi data sciences et IA dans l’administration
 
-/Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration : contactez nous lab-ia@data.gouv.fr/
+Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : 8n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
 
 /Notre sélection de ressources à visiter/:
 
