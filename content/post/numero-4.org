@@ -10,9 +10,9 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/: 
 
+- Le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
 - Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
 - Rediffusion du datadrink de l'été : Cinq initiatives et réflexions data science & IA pour innover dans l'administration 
-- La démo de PIAF (Pour une IA Francophone) est en ligne 
 - Atelier AMI-IA 2 "Explicabilité des algorithmes" du 9 juillet : liens utiles pour les projets IA 
 - Invitation à relayer vos informations et offres d'emploi data science et IA dans l'administration 
 
@@ -26,6 +26,12 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 L'équipe du Lab IA d'Etalab
 
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
+
+** Le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/3B684138-8EAE-4EAA-B275-B64E75242EF0.jpeg]]
+
+Grâce au [[https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/][jeu de données PIAF] et à d’autres jeux de données francophones, le Lab IA contribue à la plateforme des modèles de traitement de langage naturel (NLP en anglais) HuggingFace : nous avons publié *un modèle pour créer des applications de questions-réponses  francophones*! Vous pouvez le tester [[https://huggingface.co/etalab-ia/camembert-base-squadFR-fquad-piaf][ici]]. Partagez-nous vos réutilisations !
 
 ** Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
 
@@ -71,8 +77,6 @@ Au programme du datadrink de l’été, cinq projets pour innover dans l’admin
 -	*Sandrine Rodriguez* (Mission Talents, DINUM) a présenté le dispositif [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][« Partagez vos talents numériques! »]] qui met en relation les agents de l’Etat avec une expertise numérique et les administrations pour des besoins ponctuels.
 
 Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
-
-** La démo de PIAF (Pour une IA Francophone) est en ligne 
 
 ** Atelier AMI-IA 2 "Explicabilité des algorithmes" du 9 juillet : liens utiles pour les projets IA 
 
