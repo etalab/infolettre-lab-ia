@@ -26,6 +26,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 L'équipe du Lab IA d'Etalab
 
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
+[[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]]
 
 ** Outils mutualisés : le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions, partagez-nous vos réutilisations ! 
 
