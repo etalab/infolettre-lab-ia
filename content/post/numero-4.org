@@ -37,7 +37,7 @@ Grâce à vos contributions, aux [[https://www.data.gouv.fr/fr/datasets/piaf-le-
 
 ** Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
 
-[[https://etalab.github.io/infolettre-lab-ia/img/immersion.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/immersion.jpg]]
 
 Rencontre avec Emilie Pistre, membre de l’équipe porteur du projet IA de la Gendarmerie nationale sélectionné par [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][l’Appel à Manifestation d’Intérêt]] pour expérimenter l’intelligence artificielle (AMI-IA 2) dans l’administration en 2020.
 
