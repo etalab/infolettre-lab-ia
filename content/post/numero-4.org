@@ -10,7 +10,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/: 
 
-- Le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
+- Outils  mutualisés : Le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
 - Expérimentation de l'IA (AMI-IA 2) : Immersion terrain à la Gendarmerie nationale pour accompagner les victimes d'infraction dans le dépôt de plaintes en ligne
 - Rediffusion du datadrink de l'été : Cinq initiatives et réflexions data science & IA pour innover dans l'administration 
 - Atelier AMI-IA 2 "Explicabilité des algorithmes" du 9 juillet : liens utiles pour les projets IA 
@@ -27,7 +27,7 @@ L'équipe du Lab IA d'Etalab
 
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]]
 
-** Le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
+** Outils mutualisés : le Lab IA publie un modèle de questions-réponses francophone grâce aux jeux de données PIAF et à vos contributions : à tester et réutiliser pour vos applications 
 
 [[https://etalab.github.io/infolettre-lab-ia/img/3B684138-8EAE-4EAA-B275-B64E75242EF0.jpeg]]
 
