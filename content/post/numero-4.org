@@ -31,7 +31,7 @@ L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/img/3B684138-8EAE-4EAA-B275-B64E75242EF0.jpeg]]
 
-Grâce à vos contributions, aux [[https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/][jeux de données PIAF]] et à d’autres jeux de données francophones, le Lab IA contribue à la plateforme des modèles de traitement de langage naturel (NLP en anglais) HuggingFace : nous avons publié *un modèle pour créer des applications de questions-réponses  francophones*! Vous pouvez le tester [[https://huggingface.co/etalab-ia/camembert-base-squadFR-fquad-piaf][ici]]. Partagez-nous vos réutilisations !
+Grâce à vos contributions, aux [[https://www.data.gouv.fr/fr/datasets/piaf-le-dataset-francophone-de-questions-reponses/][jeux de données PIAF]] et à d’autres jeux de données francophones, le Lab IA contribue à la plateforme des modèles de traitement de langage naturel (NLP en anglais) HuggingFace : nous avons publié *un modèle pour créer des applications de questions-réponses  francophones! Vous pouvez le tester [[https://huggingface.co/etalab-ia/camembert-base-squadFR-fquad-piaf][ici]]*. Partagez-nous vos réutilisations !
 
 /Les contributions continuent sur [[https://piaf.etalab.studio][la plateforme en ligne]], votre participation pour annoter est encore nécessaire pour améliorer les résultats !/
 
