@@ -13,7 +13,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Expérimentation de l'IA (AMI-IA 2) : Comment familiariser le prestataire à des données complexes ? 
 - Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
 - Repérer des anomalies dans les évènements d'authentification Windows avec l'IA : rencontre avec l'équipe de l'ANSSI 
-- Invitation au datadrink de la rentrée : Initiatives et réflexions data science & IA pour innover dans l'administration 
+- Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
 - Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
 /Notre sélection de ressources à visiter/:
@@ -86,26 +86,21 @@ Une autre difficulté fut de *trouver les données : celles que l’on utilise s
 
 Par ailleurs, la quantité de données fournie est restreinte. Ceci impacte directement le choix de l’algorithme de ML. Très rapidement nous nous sommes tournées vers du ML non supervisé. Une fois que quelques briques ont été créées, nous avons commencé à faire des tests sur des jeux de données internes. Nous avons ainsi pu faire de l’amélioration continue pour guider au mieux le prestataire et affiner de plus en plus l’outil pour le faire correspondre au mieux aux besoins. 
 
-** Rediffusion du datadrink de l’été : Cinq initiatives et réflexions data science & IA pour innover dans l’administration 
+* Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
 
-Au programme du datadrink de l’été, cinq projets pour innover dans l’administration avec la data science et l’IA, suivies d’un appel à contribution : [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1596115582851][à revoir ici]]
+Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA :
+-	Gwennaelle Larvor, Lab IA de Météo France, présentera MétéoNet, un jeu de données météo de référence pour les datascientists 
+-	Florian Laborde, étudiant à Télécom Paris et ENS Paris-Saclay, présentera son travail à Etalab aux croisements entre open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA 
+-	Pierre Vercauteren, Organisation de la délégation générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail, et Geoffrey Aldebert (Etalab) présenteront le travail de récupération des données et d’élaboration du tableau de bord en cours pour le suivi d’indicateurs sur l’activité partielle dans le contexte actuel de crise sanitaire 
+-	David Doukhan, ingénieur à l’Institut national de l’audiovisuel (INA), présentera la méthodologie mêlant traitement d’images et intelligence artificielle pour analyser les paroles d’autorité dans l’info télé pendant la crise sanitaire, qui reste largement masculine 
 
-[[https://etalab.github.io/infolettre-lab-ia/img/datadrink.png]]
+Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
--	*Daphné Pertsekos et Jean-Baptiste Delfau* (Gendarmerie Nationale) ont présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-dggn][les développements et pistes de réflexions sur le projet d'aide aux opérateurs des centres opérationnels d'appel]] pour prioriser les interventions urgentes
--	*Mathieu Rajerison* (Cerema) a présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-cerema-cartofriches][l'outil d'inventaire des friches "Cartofriches"]] développé par le Cerema (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement) 
--	*Pavel Soriano* (Etalab) a présenté les [[https://speakerdeck.com/etalabia/datadrink-30072020-etalab-piaf][résultats et prochaines étapes de l'expérimentation "Pour une IA Francophone (PIAF)"]], y compris le développement d'un moteur de questions-réponses pour les administrations françaises
--	*Valérie Plier et Guillaume Vimont* (SGA, Ministère des armées) ont présenté [[https://www.defense.gouv.fr/sante/actualites/projet-waked-co-la-future-plateforme-incontournable-de-recueil-de-publications-scientifiques-liees-au-covid-19][l’initiative Waked-Co]], une plateforme innovante de recherche et de gestion de la documentation scientifique liée au Covid-19 à l’aide d’outils d’IA (identification des signaux d’alerte, traduction des articles scientifiques, présentation des résultats)
--	*Sandrine Rodriguez* (Mission Talents, DINUM) a présenté le dispositif [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][« Partagez vos talents numériques! »]] qui met en relation les agents de l’Etat avec une expertise numérique et les administrations pour des besoins ponctuels.
-
-Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
-
-
-Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
+* Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
 /Notre sélection de ressources à visiter/:
 
 - Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2][les liens vidéos]] sont en ligne
-- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juin-2020/][sorties du mois de juin sur data.gouv.fr]]
-- [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][Partagez vos talents numériques !]] Proposé par la DINUM, le dispositif met en relation des agents de l'Etat désireux de mettres leurs compétences ponctuellement au service des administrations, et les services de l'Etat ayant besoin d'expertise numérique 
-- « Machine Learning à partir des données spatio-temporelles : prioriser les zones de contrôle des pollutions diffuses par la Police de l’Environnement » : lire [[https://www.quantmetry.com/machine-learning-donnees-spatio-temporelles-pollutions-environnement/][ici]] l’article du prestataire sélectionné pour le projet AMI-IA 1 de l’Office Français de la Biodiversité  
+- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
+
+Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
