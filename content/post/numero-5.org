@@ -19,7 +19,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 - Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
 
-/Offres d'emploi/:
+/Les offres d'emploi data science dans l'administration/:
 
 L'équipe du Lab IA d'Etalab
 
@@ -90,5 +90,6 @@ Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 - Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
 
-/Offres d'emploi/:
+/Les offres d'emploi data science dans l'administration/:
+
 Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
