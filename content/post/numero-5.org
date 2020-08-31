@@ -57,6 +57,8 @@ Comment familiariser le prestataire avec nos données, qui sont particulièremen
 
 ** Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 
+[[https://etalab.github.io/infolettre-lab-ia/E00E3C17-FA99-4E92-A78A-75B036180896.jpeg]]
+
 [[https://www.eventbrite.fr/e/billets-datadrink-lab-ia-etalab-de-la-rentree-118914984921][Inscription ici]]
 
 Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA : 
