@@ -4,7 +4,7 @@
 #+layout: post
 #+draft: false
 
-L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], datascientists de l'administration, chercheurs et prestataires de l'IA pour l'administration, et agents publics intéressés par la science des données et l'IA.
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], datas cientists de l'administration, chercheurs et prestataires de l'IA pour l'administration, et agents publics intéressés par la science des données et l'IA.
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
@@ -16,8 +16,10 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Notre sélection de ressources à visiter/:
 
-- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2][les liens vidéos]] sont en ligne
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
+- Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]
+
+/Offres d'emploi/:
 
 L'équipe du Lab IA d'Etalab
 
@@ -59,11 +61,11 @@ Comment familiariser le prestataire avec nos données, qui sont particulièremen
 
 Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA : 
 -	*David Doukhan* (Institut national de l’audiovisuel, INA), présentera la méthodologie mêlant traitement d’images et intelligence artificielle pour analyser les paroles d’autorité dans l’info télé pendant la crise sanitaire, qui restent largement masculines
--	*Gwennaelle Larvor* (Lab IA de Météo France), présentera MétéoNet, un jeu de données météo de référence pour les datascientists 
+-	*Gwennaelle Larvor* (Lab IA de Météo France), présentera MétéoNet, un jeu de données météo de référence pour les data scientists 
 -	*Florian Laborde* (étudiant à Télécom Paris et ENS Paris-Saclay) présentera son travail à Etalab aux croisements entre open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA 
 -	*Pierre Vercauteren* (Organisation de la délégation générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail) et Geoffrey Aldebert (Etalab), présenteront le travail de récupération des données et d’élaboration du tableau de bord en cours pour le suivi d’indicateurs sur l’activité partielle dans le contexte actuel de crise sanitaire.
 
-Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
+Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des data scientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
 ** Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
@@ -84,5 +86,7 @@ Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous
 /Notre sélection de ressources à visiter/:
 
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
+- Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]
 
+/Offres d'emploi/:
 Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
