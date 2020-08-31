@@ -98,9 +98,22 @@ Si vous souhaitez présenter une initiative ou une réflexion en cours avec le r
 
 * Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
+En stage avec le Lab IA d’Etalab pendant l’été, Florian Laborde, étudiant en sciences des données à Télécom Paris et l’ENS Paris-Saclay, partage les avancées de sa mission pendant l’été : *utiliser l’intelligence artificielle pour mettre en avant les jeux de données ouverts de [[data.gouv.fr][data.gouv.fr]]*. 
+
+« Au cœur de la mission de transparence et de circulation des données publiques, data.gouv.fr est la plateforme des données publiques françaises. La facilité d’accès à ces jeux de données, leur réutilisation et leur promotion est un élément clé des objectifs d’ouverture des données publiques. A l’interface entre open data et datascience ma mission cet été consistait à présenter un moyen de mieux utiliser, référencer, comprendre et mettre en avant ces jeux de données à l’aide de l’intelligence artificielle. 
+
+Nous avons mis en place un moteur de recherche conversationnel, basé sur l’architecture de traitement du langage naturel : BERT . Cela permet à l’algorithme de mieux comprendre les requêtes des utilisateurs et de retrouver du contenu, sans pour autant avoir à utiliser exactement les mêmes mots. Pour cela, on extrait le contexte de chacun des jeux de données : son titre, sa description, le nom du producteur. On transforme ensuite le texte en un vecteur mathématique qui extrait le sens et les concepts principaux du contenu. On peut ensuite comparer ce vecteur à ceux des autres jeux de données afin de repérer ceux qui sont similaires, traitent des mêmes concepts ou des mêmes sujets. 
+
+/Exemple : le coût de l’essence a-t-il augmenté ?/
+
+[[https://etalab.github.io/infolettre-lab-ia/open.png]]
+
+Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous permets de comparer les résultats de recherches obtenus avec différentes méthodes (moteur de recherche ElasticSearch versus méthodes d'IA utilisant SBERT). On remarque que l'on obtient des résultats différents par rapport à l’utilisation habituelle en mots-clés. Dans cet exemple, aucun des mots n’est commun avec le texte des jeux de données, on s’adresse à l’interface sous forme de question et avec une phrase complète. A gauche Elasticsearch, le moteur de recherche actuel basé sur un référencement des mots-clés, au centre le moteur de recherche intelligent lorsqu’on utilise également des mots clés (afin de comparer les résultats des deux moteurs de recherche avec une requête identique) et à droite une requête très similaire mais exprimée par une phrase complète. Là où l’approche classique reconnaît simplement les mots identiques dans le descriptif des jeux de données, l’intelligence artificielle apporte une compréhension sémantique et conceptuelle de la phrase. », partage Florian. 
+
+« Cela marque le début de nouveaux possibles pour la plateforme data.gouv.fr pour créer plus d’engagement et de consultation des jeux de données à l’aide d’un outil de recherche amélioré ou même d’un agent conversationnel ».
+
 /Notre sélection de ressources à visiter/:
 
-- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2][les liens vidéos]] sont en ligne
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 
 Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
