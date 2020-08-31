@@ -10,9 +10,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/: 
 
-- Expérimentation de l'IA (AMI-IA 2) : Comment familiariser le prestataire à des données complexes ? 
-- Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
-- Repérer des anomalies dans les évènements d'authentification Windows avec l'IA : rencontre avec l'équipe de l'ANSSI 
+- Expérimentation de l'IA (AMI-IA 2) : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
 - Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
 - Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
@@ -26,9 +24,7 @@ L'équipe du Lab IA d'Etalab
 [[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-* Expérimentation de l'IA (AMI-IA 2): Comment familiariser le prestataire à des données complexes ? 
-
-** Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS 
+** Expérimentation de l'IA (AMI-IA 2) : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS 
 
 [[https://etalab.github.io/infolettre-lab-ia/INERIS.png]]
 
@@ -57,36 +53,7 @@ Comment familiariser le prestataire avec nos données, qui sont particulièremen
 
 « Nous essayons aussi de *nous projeter à la fin du projet* : comment intégrer nos prototypes, seront-ils interopérables avec d’autres technologies, comment cette phase d’acculturation peut avoir un impact sur nos systèmes informatiques, quels seront nos besoins en infrastructure, quelle est notre capacité à héberger et développer de nouveaux projets par la suite. Dans le cadre des projets AMI-IA, la DINUM gère les échanges techniques avec le prestataire : si on devait le faire demain, que doit-on mettre dans un cahier des charges ? Qui doit le contrôler ? Par exemple, j’essaie d’attirer l’attention sur le besoin de faire une revue de code, y compris avec les experts de l’INERIS qui ne connaissent pas Python mais qui pourront ainsi mieux apprécier la technicité mise en jeu. Au-delà des experts de la caractérisation des substances chimiques, nous cherchons aussi à impliquer les experts DSI, et *comprendre ensemble comment et pourquoi les algorithmes développés agissent sur telle ou telle grandeur*, identifier les points de questionnements pour partager les solutions obtenues et pouvoir expliquer les résultats le plus possible. »
 
-** Repérer des anomalies dans les événements d'authentifications Windows avec l'IA : rencontre avec l'équipe de l'ANSSI 
-
-[[https://etalab.github.io/infolettre-lab-ia/img/anssi.png]]
-
-Rencontre avec Areg Baghinyan, membre de l’équipe porteur du projet IA de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), sélectionné dans le cadre de l'[[https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public][AMI-IA 2]]. 
-
-« Notre projet consiste à *identifier les anomalies dans les évènements d’authentification Windows sur des parcs informatiques compromis grâce aux algorithmes de Machine Learning (ML)*. En cas d’attaque informatique sur des Ministères ou des Opérateurs d’Importance Vitale (OIV), l’ANSSI peut être sollicitée pour mener des investigations numériques. Les parcs informatiques grandissent de jour en jour, ce qui rend le travail des investigateurs de plus en plus compliqué. La technique des attaquants évolue et la détection par des méthodes classiques n’est plus adaptée dans certains cas. 
-
-Dans ce projet, nous nous sommes concentrés sur la détection d’anomalie en exploitant les données de certains types d’évènement d’authentification Windows. Ces données d’entrée sont assez complexes en termes d’interprétabilité. Le dataset dispose de plusieurs dizaines de champs. Certains champs sont interprétés de différentes façons selon les types d’événement que l’on traite. Un parc informatique peut disposer de plusieurs centaines de millions d’évènements. En plus des problématiques liées aux détections d’anomalie, il y a donc des problématiques liées à la « scalabilité ». Etant donnée la complexité du problème, il nous est paru essentiel de bien cadrer le périmètre. La problématique a été construite en prenant en compte le dataset choisi.
-
-Comment avons-nous organisé l’immersion métier pour le prestataire ? Dans le contexte de notre projet et de crise sanitaire, nous avons fait face à plusieurs difficultés : 
-
-*Comprendre les choix des analystes et leur expertise métier*
-
-L’expertise métier est importante dans l‘exploitation de ces données : les croisements choisis entre les différents champs déterminent la cohérence des résultats, l’investigation est en soi complexe pour trouver des informations pertinentes. Pour l’automatiser, il faut comprendre la logique des analystes, que nous avons synthétisé sous forme d’heuristiques pour guider les data scientists à construire un outil pertinent. Chaque heuristique est une problématique précise. Une heuristique prend en entrée une partie du dataset, fait des traitements sur la donnée et génère une sortie. Sur les résultats des heuristiques, on applique un corrélateur pour affiner les résultats et dans certains cas éliminer des faux positifs.
-
-/Exemple : une des heuristiques consiste à détecter des anomalies dans les adresses IP extraites à partir des évènements d’authentification Windows. Dans certains types d’évènement Windows, des adresses IP apparaissent durant les interactions des utilisateurs entre les différentes machines. Dans certains types d’attaque, quand un attaquant arrive sur le réseau, son objectif est de rester discret. Il fait donc en sorte d’être vu comme un utilisateur légitime. L’idée est de faire la différence entre un attaquant et un utilisateur légitime. Une des méthodes est de construire une vision légitime du parc et ensuite de remonter les IP marginaux./  
-
-L’objectif de ce projet est de concevoir un outil à destination des analystes pour qu’ils l’utilisent durant les investigations numériques. Pour mener à bien le projet, plusieurs éléments ont été mis en place : 
-- Nous avons *intégré une experte en investigation numérique dans notre équipe porteuse du projet IA* pour apporter ses connaissances métiers à travers la rédaction des heuristiques, en répondant aux questions métiers des prestataires et en vérifiant les résultats de l’outil développé ; 
-- Avant la situation pandémique, nous avions décidé qu’un membre du prestataire viendrait travailler physiquement dans nos locaux pour faciliter le contact entre le prestataire et l’équipe projet. De plus, cela aurait permis au prestataire de voir la manière dont les investigateurs travaillent. Cependant cela n’a pas pu avoir lieu ; 
-- Nous avons fourni des heuristiques créées à partir des résultats d’investigation sur le dataset fourni. Cette investigation a été effectuée par des méthodes « classiques », qui ne font pas appel à l’IA. Le but étant de trouver au moins les mêmes résultats par des méthodes de ML. Le travail autour de ces heuristiques ont permis au prestataire de mieux cerner le sujet et de comprendre la problématique exprimée. Une fois qu’une certaine maturité aura été atteinte par le prestataire, il devra prendre le recul nécessaire pour trouver la bonne méthode d’approche et pour construire un outil modulaire et scalable.
-
-*Fournir des données anonymisées et trouver un équilibre entre suppression d’informations sensibles et informations nécessaires pour entraîner les algorithmes*
-
-Une autre difficulté fut de *trouver les données : celles que l’on utilise sont sensibles, on ne peut pas les fournir directement. Un travail d’anonymisation des données a été nécessaire avant de les partager au prestataire*. Nous avons fourni les données en deux phases : dans un premier temps des données publiques qui concernent les authentifications Windows, pour comprendre la logique des communications entre différentes machines. Puis nous avons fourni des données beaucoup plus complètes et anonymisées pour qu’ils puissent commencer à travailler. L’exercice d’anonymisation n’est pas trivial. Il consiste à masquer les informations sensibles tout en gardant la logique et sémantique des évènements, pour permettre à l’algorithme développé de les utiliser correctement.
-
-Par ailleurs, la quantité de données fournie est restreinte. Ceci impacte directement le choix de l’algorithme de ML. Très rapidement nous nous sommes tournées vers du ML non supervisé. Une fois que quelques briques ont été créées, nous avons commencé à faire des tests sur des jeux de données internes. Nous avons ainsi pu faire de l’amélioration continue pour guider au mieux le prestataire et affiner de plus en plus l’outil pour le faire correspondre au mieux aux besoins. 
-
-* Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
+** Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
 
 Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA :
 -	*David Doukhan* (Institut national de l’audiovisuel, INA), présentera la méthodologie mêlant traitement d’images et intelligence artificielle pour analyser les paroles d’autorité dans l’info télé pendant la crise sanitaire, qui restent largement masculines
@@ -96,7 +63,7 @@ Au programme du datadrink de la rentrée, des projets pour innover dans l’admi
 
 Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
-* Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
+** Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
 En stage avec le Lab IA d’Etalab pendant l’été, Florian Laborde, étudiant en sciences des données à Télécom Paris et l’ENS Paris-Saclay, partage les avancées de sa mission pendant l’été : *utiliser l’intelligence artificielle pour mettre en avant les jeux de données ouverts de [[data.gouv.fr][data.gouv.fr]]*. 
 
