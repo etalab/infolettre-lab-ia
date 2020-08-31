@@ -11,7 +11,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 /Ci-dessous/: 
 
 - Expérimentation de l'IA (AMI-IA 2) : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
-- Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
+- Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 - Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
 /Notre sélection de ressources à visiter/:
@@ -53,9 +53,11 @@ Comment familiariser le prestataire avec nos données, qui sont particulièremen
 
 « Nous essayons aussi de *nous projeter à la fin du projet* : comment intégrer nos prototypes, seront-ils interopérables avec d’autres technologies, comment cette phase d’acculturation peut avoir un impact sur nos systèmes informatiques, quels seront nos besoins en infrastructure, quelle est notre capacité à héberger et développer de nouveaux projets par la suite. Dans le cadre des projets AMI-IA, la DINUM gère les échanges techniques avec le prestataire : si on devait le faire demain, que doit-on mettre dans un cahier des charges ? Qui doit le contrôler ? Par exemple, j’essaie d’attirer l’attention sur le besoin de faire une revue de code, y compris avec les experts de l’INERIS qui ne connaissent pas Python mais qui pourront ainsi mieux apprécier la technicité mise en jeu. Au-delà des experts de la caractérisation des substances chimiques, nous cherchons aussi à impliquer les experts DSI, et *comprendre ensemble comment et pourquoi les algorithmes développés agissent sur telle ou telle grandeur*, identifier les points de questionnements pour partager les solutions obtenues et pouvoir expliquer les résultats le plus possible. »
 
-** Invitation au datadrink de la rentrée, jeudi 24 septembre de 16h à 17h : Initiatives et réflexions data science & IA pour innover dans l'administration 
+** Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 
-Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA :
+[[https://www.eventbrite.fr/e/billets-datadrink-lab-ia-etalab-de-la-rentree-118914984921][Inscription ici]]
+
+Au programme du datadrink de la rentrée, des projets pour innover dans l’administration avec la data science et l’IA : 
 -	*David Doukhan* (Institut national de l’audiovisuel, INA), présentera la méthodologie mêlant traitement d’images et intelligence artificielle pour analyser les paroles d’autorité dans l’info télé pendant la crise sanitaire, qui restent largement masculines
 -	*Gwennaelle Larvor* (Lab IA de Météo France), présentera MétéoNet, un jeu de données météo de référence pour les datascientists 
 -	*Florian Laborde* (étudiant à Télécom Paris et ENS Paris-Saclay) présentera son travail à Etalab aux croisements entre open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA 
