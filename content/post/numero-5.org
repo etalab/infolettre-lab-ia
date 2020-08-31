@@ -1,0 +1,88 @@
+#+title: Infolettre Lab IA n°5
+#+date: 2020-09-03
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], datascientists de l'administration, chercheurs et prestataires de l'IA pour l'administration, et agents publics intéressés par la science des données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
+
+/Ci-dessous/: 
+
+- Expérimentation de l'IA (AMI-IA 2) : Comment familiariser le prestataire à des données complexes ? 
+- Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
+- Repérer des anomalies dans les évènements d'authentification Windows avec l'IA : rencontre avec l'équipe de l'ANSSI 
+- Invitation au datadrink de la rentrée : Initiatives et réflexions data science & IA pour innover dans l'administration 
+- Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
+
+/Notre sélection de ressources à visiter/:
+
+- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2][les liens vidéos]] sont en ligne
+- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
+
+L'équipe du Lab IA d'Etalab
+
+[[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
+[[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
+
+* Expérimentation de l'IA (AMI-IA 2): Comment familiariser le prestataire à des données complexes ? 
+
+** Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS 
+
+[[https://etalab.github.io/infolettre-lab-ia/INERIS.png]]
+
+Rencontre avec Jean-Yves Chatelier et François Lestremeau, porteurs du projet IA de l’Institut national de l'environnement industriel et des risques (INERIS) sélectionné dans le cadre de l’[[https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public][AMI-IA 2]]. 
+
+« Quels sont les polluants présents dans l‘environnement, leurs sources, leurs devenirs, leurs dégradations ? Depuis cinq à dix ans, grâce aux évolutions technologiques, nous générons de plus en plus de données, qui sont de plus en plus riches, intéressantes et volumineuses, ce qui nous permet d’améliorer notre analyse de la pollution environnementale, et remonter de façon plus pertinente à la nature ou la source des polluants. On arrive à fournir des interprétations, mais nous avons des limitations humaines face à toutes ces données, alors qu’il existe *un besoin sociétal très fort pour savoir ce qui se passe dans l’environnement*. L’INERIS a déjà utilisé des modélisations numériques, mais c’est la première fois avec ce projet que nous utilisons l’intelligence artificielle. 
+
+Notre projet est divisé en trois besoins, avec leurs propres données, sous différents formats : 
+
+1)	*Identifier les molécules présentes dans l’environnement* (au moins 2000 sont détectées par échantillon et nous arrivons à en identifier seulement une centaine actuellement) ; 
+2)	*Profiler les sources de pollutions* pour les dioxines (une vingtaine de dioxines sont mesurées qui s’expriment  plus ou moins et différemment selon les types de combustion et les sources) ; 
+3)	*Identifier les sources de pollution atmosphérique en temps réel*. Un doctorant a interprété pendant 3 ans les données de notre analyseur de la pollution atmosphérique sur six années. Il s’agit ainsi de développer d’abord un algorithme basé sur les quatre sources qu’il a identifiées, et voir si on peut les identifier en temps réel mais également d’autres types de sources ou d’autres façons de le faire, avec d’autres algorithmes. 
+
+Comment familiariser le prestataire avec nos données, qui sont particulièrement complexes ? Voici quelques pistes que nous avons mises en place avec le prestataire : 
+
+-	*Explicitation de notre expertise métier dans le cahier des charges*. Nous avons pris beaucoup de temps et pris soin d’expliquer la génération des données, comment elles se présentent, comment nous conduisons nos analyses ; étant donnée la complexité des données et paramètres à prendre en compte ; 
+-	*Reformulations des besoins par le prestataire et mobilisation des experts métiers*. Le prestataire s’assure d’avoir une bonne compréhension des données et de notre analyse pour leur exploitation. Pour le second besoin par exemple, nous en sommes encore au travail préparatoire de collecte et d’analyse des données. Les prestataires nous montrent comment et s’ils ont une bonne compréhension des données grâce  à des outils de visualisations. Puis les experts du besoin concerné sont présents pour réagir ou préciser des questions. 
+-	*Echanges hebdomadaires et points techniques avec le prestataire*. Ces échanges dépassent parfois les simples retours d’avancement du projet : le prestataire nous partage des articles scientifiques, des idées de modèles qui pourraient être utilisés pour traiter nos données. Les retours réguliers se sont faits par visioconférence pendant la crise sanitaire. C’est en général l’occasion de faire avancer les problèmes identifiés en apportant de nouveaux éléments. 
+-	*Organisation de sprints de développement*. Par exemple pour le premier besoin, nous avons testé ensemble des outils en reconnaissant des molécules que nous avons-nous-même injectées pour entraîner l’outil sur des données simplifiées et maitrisées ;
+-	*Retours réguliers et interfaces visuelles pour organiser des boucles retours et partager les résultats préliminaires*. Ces retours nous rassurent sur la compréhension des données par le prestataire et la faisabilité de l’exercice. Par exemple, pour le troisième besoin, des résultats commencent à être automatiser, ce qui nous offre des perspectives pour aller plus loin, et identifier davantage de sources. 
+-	*Flexibilité de l’expérimentation, nouvelles précisions et réajustements*. La difficulté au départ pour le prestataire fut de comprendre nos particularités métiers. Au fil des entretiens, des difficultés non attendues surgissent et, nous voyons que quelques détails oubliés font de grosses différences. Dans ce cas nous réajustons ou reprécisons tout simplement.»
+
+« Maintenant que les données sont bien ordonnées, le prestataire commence à développer des outils pour les exploiter. Toutefois, c’est un travail qui n’est pas forcément fini : la complexité des données et leur appropriation n’est pas un sujet épuisé, leur mise en forme par rapport aux algorithmes est toujours complexe », explique François. 
+
+« Par exemple, des questions surgissent au fur et à mesure que nous avançons dans l’expérimentation : quel score mettre aux résultats pour indiquer telle ou telle substance, quel indicateur pour prendre une décision. Ce sont des questions a que l’on se pose à l’INERIS mais pas seulement : *cela nous fait aussi interagir avec d’autres équipes*. Nos discussions avec le prestataire sur la structure des données ou leur association avec certaines métadonnées mettent en avant des points auxquels nous n’avions pas pensé avant : nos processus de gestion des données notamment, ou nos relations avec d’autres partenaires externes, ajoute Jean-Yves.
+
+« Nous essayons aussi de *nous projeter à la fin du projet* : comment intégrer nos prototypes, seront-ils interopérables avec d’autres technologies, comment cette phase d’acculturation peut avoir un impact sur nos systèmes informatiques, quels seront nos besoins en infrastructure, quelle est notre capacité à héberger et développer de nouveaux projets par la suite. Dans le cadre des projets AMI-IA, la DINUM gère les échanges techniques avec le prestataire : si on devait le faire demain, que doit-on mettre dans un cahier des charges ? Qui doit le contrôler ? Par exemple, j’essaie d’attirer l’attention sur le besoin de faire une revue de code, y compris avec les experts de l’INERIS qui ne connaissent pas Python mais qui pourront ainsi mieux apprécier la technicité mise en jeu. Au-delà des experts de la caractérisation des substances chimiques, nous cherchons aussi à impliquer les experts DSI, et *comprendre ensemble comment et pourquoi les algorithmes développés agissent sur telle ou telle grandeur*, identifier les points de questionnements pour partager les solutions obtenues et pouvoir expliquer les résultats le plus possible. »
+
+** Repérer des anomalies dans les événements d'authentifications Windows avec l'IA : rencontre avec l'équipe de l'ANSSI 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/anssi.png]]
+
+
+
+** Rediffusion du datadrink de l’été : Cinq initiatives et réflexions data science & IA pour innover dans l’administration 
+
+Au programme du datadrink de l’été, cinq projets pour innover dans l’administration avec la data science et l’IA, suivies d’un appel à contribution : [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1596115582851][à revoir ici]]
+
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrink.png]]
+
+-	*Daphné Pertsekos et Jean-Baptiste Delfau* (Gendarmerie Nationale) ont présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-dggn][les développements et pistes de réflexions sur le projet d'aide aux opérateurs des centres opérationnels d'appel]] pour prioriser les interventions urgentes
+-	*Mathieu Rajerison* (Cerema) a présenté [[https://speakerdeck.com/etalabia/datadrink-30072020-cerema-cartofriches][l'outil d'inventaire des friches "Cartofriches"]] développé par le Cerema (Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement) 
+-	*Pavel Soriano* (Etalab) a présenté les [[https://speakerdeck.com/etalabia/datadrink-30072020-etalab-piaf][résultats et prochaines étapes de l'expérimentation "Pour une IA Francophone (PIAF)"]], y compris le développement d'un moteur de questions-réponses pour les administrations françaises
+-	*Valérie Plier et Guillaume Vimont* (SGA, Ministère des armées) ont présenté [[https://www.defense.gouv.fr/sante/actualites/projet-waked-co-la-future-plateforme-incontournable-de-recueil-de-publications-scientifiques-liees-au-covid-19][l’initiative Waked-Co]], une plateforme innovante de recherche et de gestion de la documentation scientifique liée au Covid-19 à l’aide d’outils d’IA (identification des signaux d’alerte, traduction des articles scientifiques, présentation des résultats)
+-	*Sandrine Rodriguez* (Mission Talents, DINUM) a présenté le dispositif [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][« Partagez vos talents numériques! »]] qui met en relation les agents de l’Etat avec une expertise numérique et les administrations pour des besoins ponctuels.
+
+Le prochain datadrink aura lieu à la rentrée en septembre : si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des datascientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
+
+
+Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
+
+/Notre sélection de ressources à visiter/:
+
+- Rediffusion des ateliers "Vis ma vie de data scientist" de juin 2020 : [[https://github.com/etalab-ia/ami-ia/tree/master/session2][les liens vidéos]] sont en ligne
+- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juin-2020/][sorties du mois de juin sur data.gouv.fr]]
+- [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][Partagez vos talents numériques !]] Proposé par la DINUM, le dispositif met en relation des agents de l'Etat désireux de mettres leurs compétences ponctuellement au service des administrations, et les services de l'Etat ayant besoin d'expertise numérique 
+- « Machine Learning à partir des données spatio-temporelles : prioriser les zones de contrôle des pollutions diffuses par la Police de l’Environnement » : lire [[https://www.quantmetry.com/machine-learning-donnees-spatio-temporelles-pollutions-environnement/][ici]] l’article du prestataire sélectionné pour le projet AMI-IA 1 de l’Office Français de la Biodiversité  
