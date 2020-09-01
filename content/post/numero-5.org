@@ -81,9 +81,9 @@ En stage avec le Lab IA d’Etalab pendant l’été, Florian Laborde, étudiant
 
 Nous avons mis en place un moteur de recherche conversationnel, basé sur l’architecture de traitement du langage naturel : BERT . Cela permet à l’algorithme de mieux comprendre les requêtes des utilisateurs et de retrouver du contenu, sans pour autant avoir à utiliser exactement les mêmes mots. Pour cela, on extrait le contexte de chacun des jeux de données : son titre, sa description, le nom du producteur. On transforme ensuite le texte en un vecteur mathématique qui extrait le sens et les concepts principaux du contenu. On peut ensuite comparer ce vecteur à ceux des autres jeux de données afin de repérer ceux qui sont similaires, traitent des mêmes concepts ou des mêmes sujets. 
 
-/Exemple : le coût de l’essence a-t-il augmenté ?/
+/Exemple : le virus va-t-il provoquer une deuxième vague?/
 
-[[https://etalab.github.io/infolettre-lab-ia/img/open.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/exemple.png]]
 
 Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous permets de comparer les résultats de recherches obtenus avec différentes méthodes (moteur de recherche ElasticSearch versus méthodes d'IA utilisant SBERT). On remarque que l'on obtient des résultats différents par rapport à l’utilisation habituelle en mots-clés. Dans cet exemple, aucun des mots n’est commun avec le texte des jeux de données, on s’adresse à l’interface sous forme de question et avec une phrase complète. A gauche Elasticsearch, le moteur de recherche actuel basé sur un référencement des mots-clés, au centre le moteur de recherche intelligent lorsqu’on utilise également des mots clés (afin de comparer les résultats des deux moteurs de recherche avec une requête identique) et à droite une requête très similaire mais exprimée par une phrase complète. *Là où l’approche classique reconnaît simplement les mots identiques dans le descriptif des jeux de données, l’intelligence artificielle apporte une compréhension sémantique et conceptuelle de la phrase*. », partage Florian. 
 
