@@ -69,7 +69,7 @@ Au programme du datadrink de la rentrée, des projets pour innover dans l’admi
 -	*David Doukhan* (Institut national de l’audiovisuel, INA), présentera la méthodologie mêlant traitement d’images et intelligence artificielle pour analyser les paroles d’autorité dans l’info télé pendant la crise sanitaire, qui restent largement masculines
 -	*Gwennaelle Larvor* (Lab IA de Météo France), présentera MétéoNet, un jeu de données météo de référence pour les data scientists 
 -	*Florian Laborde* (étudiant à Télécom Paris et ENS Paris-Saclay) présentera son travail à Etalab aux croisements entre open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA 
--	*Pierre Vercauteren* (Organisation de la délégation générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail) et Geoffrey Aldebert (Etalab), présenteront le travail de récupération des données et d’élaboration du tableau de bord en cours pour le suivi d’indicateurs sur l’activité partielle dans le contexte actuel de crise sanitaire.
+-	*Pierre Vercauteren* (Organisation de la délégation générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail) et *Geoffrey Aldebert* (Etalab), présenteront le travail de récupération des données et d’élaboration du tableau de bord en cours pour le suivi d’indicateurs sur l’activité partielle dans le contexte actuel de crise sanitaire.
 
 Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des data scientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
