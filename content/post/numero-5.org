@@ -4,29 +4,33 @@
 #+layout: post
 #+draft: false
 
-L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], datas cientists de l'administration, chercheurs et prestataires de l'IA pour l'administration, et agents publics intéressés par la science des données et l'IA.
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
 /Ci-dessous/: 
 
-- Expérimentation de l'IA (AMI-IA 2) : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS
+- Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement avec l'IA (INERIS)
 - Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
-- Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
+- Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
 
 /Notre sélection de ressources à visiter/:
 
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 - Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
+- Sujets urgents et pratiques data science, IA et éthique : on vous conseille le [[https://ethics.fast.ai/index.html][cours en ligne "Data ethics"]] disponible en anglais : comprendre les effets et débats autour de la désinformation, les notions de biais, surveillance et algorithmes et les implications pratiques dans votre travail. Enseigné au "Data Institute" de l'Université de San Francisco en Janvier-Février 2020, il s'adresse à de nombreux profils plus ou moins tech, sans pré-requis nécessaire 
 
-/Les offres d'emploi data science dans l'administration/:
+/L'administration recrute/:
+- Data scientist à la Cellule numérique du Service National des Enquêtes de la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
+- Nombreux postes ouverts à la Direction Générale des Finances Publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
+- Retrouvez les missions proposées par la Mission Talents de la DINUM [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][ici]] avec le lab d'innovation de l'Education nationale et le Ministère des Armées 
 
 L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-** Expérimentation de l'IA (AMI-IA 2) : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions avec l'IA : rencontre avec l'équipe de l'INERIS 
+** Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement avec l'IA (INERIS)
 
 [[https://etalab.github.io/infolettre-lab-ia/INERIS.png]]
 
@@ -69,7 +73,7 @@ Au programme du datadrink de la rentrée, des projets pour innover dans l’admi
 
 Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des data scientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
-** Aux croisements open data & data science : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
+** Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
 
 En stage avec le Lab IA d’Etalab pendant l’été, Florian Laborde, étudiant en sciences des données à Télécom Paris et l’ENS Paris-Saclay, partage les avancées de sa mission pendant l’été : *utiliser l’intelligence artificielle pour mettre en avant les jeux de données ouverts de [[data.gouv.fr][data.gouv.fr]]*. 
 
@@ -89,7 +93,16 @@ Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous
 
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 - Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
+- Sujets urgents et pratiques data science, IA et éthique : on vous conseille le [[https://ethics.fast.ai/index.html][cours en ligne "Data ethics"]] disponible en anglais : comprendre les effets et débats autour de la désinformation, les notions de biais, surveillance et algorithmes et les implications pratiques dans votre travail. Enseigné au "Data Institute" de l'Université de San Francisco en Janvier-Février 2020, il s'adresse à de nombreux profils plus ou moins tech, sans pré-requis nécessaire 
 
-/Les offres d'emploi data science dans l'administration/:
+/L'administration recrute/:
+- Data scientist à la Cellule numérique du Service National des Enquêtes de la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
+- Nombreux postes ouverts à la Direction Générale des Finances Publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
+- Retrouvez les missions proposées par la Mission Talents de la DINUM [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][ici]] avec le lab d'innovation de l'Education nationale et le Ministère des Armées 
 
-Cette infolettre vise aussi à relayer vos informations sur vos projets data sciences et IA dans l’administration française : *n’hésitez pas à l’utiliser pour relayer vos actualités et offres d’emploi pour datascientists de l’administration!* Contactez nous : lab-ia@data.gouv.fr
+N’hésitez pas à nous contacter pour relayer vos actualités et offres d’emploi pour datascientists de l’administration! : lab-ia@data.gouv.fr
+
+L'équipe du Lab IA d'Etalab
+
+[[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
+[[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
