@@ -10,7 +10,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/: 
 
-- Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement avec l'IA (INERIS)
+- Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement (INERIS)
 - Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 - Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
 
@@ -30,7 +30,7 @@ L'équipe du Lab IA d'Etalab
 [[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
 [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-** Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement avec l'IA (INERIS)
+** Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement (INERIS)
 
 [[https://etalab.github.io/infolettre-lab-ia/INERIS.png]]
 
