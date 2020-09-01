@@ -32,7 +32,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement (INERIS)
 
-[[https://etalab.github.io/infolettre-lab-ia/INERIS.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/INERIS.png]]
 
 Rencontre avec Jean-Yves Chatelier et François Lestremeau, porteurs du projet IA de l’Institut national de l'environnement industriel et des risques (INERIS) sélectionné dans le cadre de l’[[https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public][AMI-IA 2]]. 
 
@@ -61,7 +61,7 @@ Comment familiariser le prestataire avec nos données, qui sont particulièremen
 
 ** Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 
-[[https://etalab.github.io/infolettre-lab-ia/ED70891D-B74D-4450-870A-6C5A64192B54.jpeg]]
+[[https://etalab.github.io/infolettre-lab-ia/img/ED70891D-B74D-4450-870A-6C5A64192B54.jpeg]]
 
 [[https://www.eventbrite.fr/e/billets-datadrink-lab-ia-etalab-de-la-rentree-118914984921][Inscription ici]]
 
@@ -83,7 +83,7 @@ Nous avons mis en place un moteur de recherche conversationnel, basé sur l’ar
 
 /Exemple : le coût de l’essence a-t-il augmenté ?/
 
-[[https://etalab.github.io/infolettre-lab-ia/open.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/open.png]]
 
 Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous permets de comparer les résultats de recherches obtenus avec différentes méthodes (moteur de recherche ElasticSearch versus méthodes d'IA utilisant SBERT). On remarque que l'on obtient des résultats différents par rapport à l’utilisation habituelle en mots-clés. Dans cet exemple, aucun des mots n’est commun avec le texte des jeux de données, on s’adresse à l’interface sous forme de question et avec une phrase complète. A gauche Elasticsearch, le moteur de recherche actuel basé sur un référencement des mots-clés, au centre le moteur de recherche intelligent lorsqu’on utilise également des mots clés (afin de comparer les résultats des deux moteurs de recherche avec une requête identique) et à droite une requête très similaire mais exprimée par une phrase complète. *Là où l’approche classique reconnaît simplement les mots identiques dans le descriptif des jeux de données, l’intelligence artificielle apporte une compréhension sémantique et conceptuelle de la phrase*. », partage Florian. 
 
