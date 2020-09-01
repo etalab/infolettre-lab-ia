@@ -21,8 +21,8 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Données, IA et questions éthiques : on vous conseille le [[https://ethics.fast.ai/index.html][cours en ligne "Data ethics"]] (en anglais) pour comprendre les notions de désinformation, biais, surveillance et algorithmes et leurs implications pratiques. Enseigné au "Data Institute" de l'Université de San Francisco en 2020, il s'adresse à de nombreux profils plus ou moins tech, sans pré-requis nécessaire 
 
 /L'administration recrute/:
-- Data scientist à la Cellule numérique du Service National des Enquêtes de la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
-- Nombreux postes ouverts à la Direction Générale des Finances Publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
+- Data scientist au Service national des enquêtes de la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
+- Nombreux postes ouverts à la Direction générale des finances publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
 - Retrouvez les missions proposées par la Mission Talents de la DINUM [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][ici]] avec le lab d'innovation de l'Education nationale et le Ministère des Armées 
 
 L'équipe du Lab IA d'Etalab
