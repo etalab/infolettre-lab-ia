@@ -8,19 +8,19 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
-/Ci-dessous/: 
+/Ci-dessous/ : 
 
 - Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement (INERIS)
 - Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
 - Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
 
-/Notre sélection de ressources à visiter/:
+/Notre sélection de ressources à visiter/ :
 
 - Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
 - Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
 - Données, IA et questions éthiques : on vous conseille le [[https://ethics.fast.ai/index.html][cours en ligne "Data ethics"]] (en anglais) pour comprendre les notions de désinformation, biais, surveillance et algorithmes et leurs implications pratiques. Enseigné au "Data Institute" de l'Université de San Francisco en 2020, il s'adresse à de nombreux profils plus ou moins tech, sans pré-requis nécessaire 
 
-/L'administration recrute/:
+/L'administration recrute/ :
 - Data scientist au Service national des enquêtes de la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
 - Nombreux postes ouverts à la Direction générale des finances publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
 - Retrouvez les missions proposées par la Mission Talents de la DINUM [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][ici]] avec le lab d'innovation de l'Education nationale et le Ministère des Armées 
@@ -88,21 +88,3 @@ Nous avons mis en place un moteur de recherche conversationnel, basé sur l’ar
 Voici les résultats du "POC" (preuve de concept) en exemple ci-dessus, qui nous permets de comparer les résultats de recherches obtenus avec différentes méthodes (moteur de recherche ElasticSearch versus méthodes d'IA utilisant SBERT). On remarque que l'on obtient des résultats différents par rapport à l’utilisation habituelle en mots-clés. Dans cet exemple, aucun des mots n’est commun avec le texte des jeux de données, on s’adresse à l’interface sous forme de question et avec une phrase complète. A gauche Elasticsearch, le moteur de recherche actuel basé sur un référencement des mots-clés, au centre le moteur de recherche intelligent lorsqu’on utilise également des mots clés (afin de comparer les résultats des deux moteurs de recherche avec une requête identique) et à droite une requête très similaire mais exprimée par une phrase complète. *Là où l’approche classique reconnaît simplement les mots identiques dans le descriptif des jeux de données, l’intelligence artificielle apporte une compréhension sémantique et conceptuelle de la phrase*. », partage Florian. 
 
 « Cela marque le début de nouveaux possibles pour la plateforme data.gouv.fr pour créer plus d’engagement et de consultation des jeux de données à l’aide d’un outil de recherche amélioré ou même d’un agent conversationnel ».
-
-/Notre sélection de ressources à visiter/:
-
-- Jeux de données, réutilisations, outils : la sélection d'Etalab des [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-juillet-2020/][sorties du mois de juillet sur data.gouv.fr]]
-- Support de présentation des PaperTalks du Lab IA, présenté par Florian Laborde : [[https://speakerdeck.com/etalabia/paper-talk-transformer-nlp]["Autour des modèles de Transformer (Traitement Automatique du Langage, ou NLP en anglais) : état de l'art et choix techniques appliqués à la recherche de similarité]]
-- Données, IA et questions éthiques : on vous conseille le [[https://ethics.fast.ai/index.html][cours en ligne "Data ethics"]] (en anglais) pour comprendre les notions de désinformation, biais, surveillance et algorithmes et leurs implications pratiques. Enseigné au "Data Institute" de l'Université de San Francisco en 2020, il s'adresse à de nombreux profils plus ou moins tech, sans pré-requis nécessaire 
-
-/L'administration recrute/:
-- Data scientist à la Cellule numérique du Service National des Enquêtes de la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes (DGCCRF) [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=393477&idOrigine=502&LCID=1036&offerReference=MEF_2020-2216][ici]]
-- Nombreux postes ouverts à la Direction Générale des Finances Publiques y compris pour data scientists senior, data engineer, chef de projet dictionnaire des données et devops senior [[https://www.place-emploi-public.gouv.fr/][ici]]
-- Retrouvez les missions proposées par la Mission Talents de la DINUM [[https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/][ici]] avec le lab d'innovation de l'Education nationale et le Ministère des Armées 
-
-N’hésitez pas à nous contacter pour relayer vos actualités et offres d’emploi pour datascientists de l’administration! : lab-ia@data.gouv.fr
-
-L'équipe du Lab IA d'Etalab
-
-[[https://etalab.github.io/infolettre-lab-ia/numero-4/][Afficher la version en ligne]] /
-[[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
