@@ -12,7 +12,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 - Zoom sur les projets AMI-IA 2 : Identifier les molécules contaminant l'environnement (INERIS)
 - Invitation : Datadrink de la rentrée, jeudi 24 septembre de 16h à 17h 
-- Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
+- Retour sur une expérimentation : mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA
 
 /Notre sélection de ressources à visiter/ :
 
@@ -46,11 +46,11 @@ Notre projet est divisé en trois besoins, avec leurs propres données, sous dif
 
 Comment familiariser le prestataire avec nos données, qui sont particulièrement complexes ? Voici quelques pistes que nous avons mises en place avec le prestataire : 
 
--	*Explicitation de notre expertise métier dans le cahier des charges*. Nous avons pris beaucoup de temps et pris soin d’expliquer la génération des données, comment elles se présentent, comment nous conduisons nos analyses ; étant donnée la complexité des données et paramètres à prendre en compte ; 
--	*Reformulations des besoins par le prestataire et mobilisation des experts métiers*. Le prestataire s’assure d’avoir une bonne compréhension des données et de notre analyse pour leur exploitation. Pour le second besoin par exemple, nous en sommes encore au travail préparatoire de collecte et d’analyse des données. Les prestataires nous montrent comment et s’ils ont une bonne compréhension des données grâce  à des outils de visualisations. Puis les experts du besoin concerné sont présents pour réagir ou préciser des questions. 
+-	*Explicitation de notre expertise métier dans le cahier des charges*. Nous avons pris beaucoup de temps pour y expliquer la génération des données, comment elles se présentent, comment nous conduisons nos analyses ; étant donnée la complexité des données et paramètres à prendre en compte ; 
+-	*Reformulations des besoins par le prestataire et mobilisation des experts métiers*. Le prestataire s’assure d’avoir une bonne compréhension des données et de notre analyse pour leur exploitation, grâce  à des outils de visualisations, et les experts du besoin concerné sont présents pour réagir ou préciser des questions. Pour le second besoin par exemple, nous en sommes au travail préparatoire de collecte et d’analyse des données. 
 -	*Echanges hebdomadaires et points techniques avec le prestataire*. Ces échanges dépassent parfois les simples retours d’avancement du projet : le prestataire nous partage des articles scientifiques, des idées de modèles qui pourraient être utilisés pour traiter nos données. Les retours réguliers se sont faits par visioconférence pendant la crise sanitaire. C’est en général l’occasion de faire avancer les problèmes identifiés en apportant de nouveaux éléments. 
 -	*Organisation de sprints de développement*. Par exemple pour le premier besoin, nous avons testé ensemble des outils en reconnaissant des molécules que nous avons-nous-même injectées pour entraîner l’outil sur des données simplifiées et maitrisées ;
--	*Retours réguliers et interfaces visuelles pour organiser des boucles retours et partager les résultats préliminaires*. Ces retours nous rassurent sur la compréhension des données par le prestataire et la faisabilité de l’exercice. Par exemple, pour le troisième besoin, des résultats commencent à être automatiser, ce qui nous offre des perspectives pour aller plus loin, et identifier davantage de sources. 
+-	*Retours réguliers et interfaces visuelles pour organiser des boucles retours et partager les résultats préliminaires*. Ces retours nous rassurent sur la compréhension des données par le prestataire et la faisabilité de l’exercice. Par exemple, pour le troisième besoin, des résultats commencent à être automatiser, ce qui nous offre des perspectives pour aller plus loin et identifier davantage de sources. 
 -	*Flexibilité de l’expérimentation, nouvelles précisions et réajustements*. La difficulté au départ pour le prestataire fut de comprendre nos particularités métiers. Au fil des entretiens, des difficultés non attendues surgissent et, nous voyons que quelques détails oubliés font de grosses différences. Dans ce cas nous réajustons ou reprécisons tout simplement.»
 
 « Maintenant que les données sont bien ordonnées, le prestataire commence à développer des outils pour les exploiter. Toutefois, c’est un travail qui n’est pas forcément fini : la complexité des données et leur appropriation n’est pas un sujet épuisé, leur mise en forme par rapport aux algorithmes est toujours complexe », explique François. 
@@ -73,7 +73,7 @@ Au programme du datadrink de la rentrée, des projets pour innover dans l’admi
 
 Si vous souhaitez présenter une initiative ou une réflexion en cours avec le réseau des data scientists de l’administration, contactez-nous : lab-ia@data.gouv.fr 
 
-** Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA : retour sur une expérimentation
+** Retour sur une expérimentation : Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l'IA 
 
 En stage avec le Lab IA d’Etalab pendant l’été, Florian Laborde, étudiant en sciences des données à Télécom Paris et l’ENS Paris-Saclay, partage les avancées de sa mission pendant l’été : *utiliser l’intelligence artificielle pour mettre en avant les jeux de données ouverts de [[data.gouv.fr][data.gouv.fr]]*. 
 
