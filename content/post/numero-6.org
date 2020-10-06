@@ -16,7 +16,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Les prochains RDVs du Lab IA d'Etalab/ : 
 
-- Prochain datadrink des datascientists de l'administration le 29 octobre de 16h à 17h ! Programme à venir, pour y présenter votre réflexion ou projet IA, contactez-nous : lab-ia@data.gouv.fr
+- Prochain datadrink des datascientists de l'administration le 29 octobre de 16h à 17h30 ! Programme à venir, pour y présenter votre réflexion ou projet IA, contactez-nous : lab-ia@data.gouv.fr
 - L'IA et les métiers du contrôle : Kim Montalibet, datascientist au Lab IA d'Etalab, interviendra lors du [[mailto:https://webikeo.fr/webinar/l-intelligence-artificielle-et-les-metiers-du-controle-opportunites-et-cas-d-usages-dans-les-services-de-l-etat?message=log&redirect=%2Fwebinar%2Fl-intelligence-artificielle-et-les-metiers-du-controle-opportunites-et-cas-d-usages-dans-les-services-de-l-etat%2Flive][webinaire sur les opportunités et cas d'usages dans les services de l'Etat]]. Organisé en partenariat avec la Fing et la préfecture de la région Occitanie, les projets AMI-IA 1 de l'Agence Française de la Biodiversité et de la Direction départementale des territoires et de la mer (DDTM) y présenteront leurs projets. 
 - Pour une IA francophone (PIAF) : 685 contributeurs, 9140 questions-réponses annotées aujourd'hui ! L'annotation continue, inscrivez-vous aux [[https://piaf.etalab.studio/agenda/][prochains ateliers en ligne le 13 octobre]. [[https://piaf.etalab.studio/img/TekPiaf.pdf][Ici]], l’amélioration des choix techniques et de l’architecture de la plateforme PIAF en cours.
 
