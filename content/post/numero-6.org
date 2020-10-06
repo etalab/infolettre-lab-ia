@@ -10,7 +10,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/ : 
 
-- *Zoom sur les projets AMI-IA 2 : Protéger les administrations des cyberattaques (ANSSI)
+- Zoom sur les projets AMI-IA 2 : Protéger les administrations des cyberattaques (ANSSI)
 - Rediffusion : Datadrink de la rentrée et projets data science & IA avec l'INA, Météo France, Etalab et le Ministère du Travail
 - Création du Pôle d'Expertise de la Régulation Numérique : Appuyer techniquement les services de l'Etat dans la supervision des plateformes numériques
 
