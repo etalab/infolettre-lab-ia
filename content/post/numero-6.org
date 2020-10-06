@@ -69,7 +69,7 @@ Les projets du 2ème Appel à Manifestation d’Intérêt en intelligence artifi
 
 ** Rediffusion : Datadrink de la rentrée et projets data science & IA avec l'INA, Météo France, Etalab et le Ministère du Travail
 
-[[https://etalab.github.io/infolettre-lab-ia/img/datadrinksept.jpeg]]
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrinksept.jpg]]
 
 La rediffusion est disponible : [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1600954846141][ici]]
 
