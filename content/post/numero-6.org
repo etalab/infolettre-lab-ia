@@ -79,10 +79,10 @@ La rediffusion est disponible : [[https://visio.incubateur.net/playback/presenta
 
 Les supports de présentations : 
  
-•	[[https://speakerdeck.com/etalabia/20200924-datadrink-ina][« Décrire la représentation des femmes et des hommes dans les JT pendant la crise Covid-19 »]], une approche semi-automatique fondée sur l’analyse des incrustations, par David Doukhan, ingénieur de recherche et coordinateur du projet « Gender Equality Monitor »
-•	[[https://speakerdeck.com/etalabia/20200924-datadrink-meteo-net][« MétéoNet, un jeu de données météorologiques en libre accès »]], par Gwennaelle Larvor du Lab IA de Météo France, un jeu de données météo de référence pour les datascientists 
-•	[[https://speakerdeck.com/etalabia/20200924-datadrink-opendatascience][« Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA »]], par Florian Laborde, étudiant à Telecom-Paris et l’ENS Paris-Saclay, en stage à Etalab 
-•	[[https://speakerdeck.com/etalabia/20200924-datadrink-dgefp][« Ciblage des contrôles de l’activité partielle »]], par Geoffrey Aldebert, Etalab, et Pierre Vercauteren, Organisation de la direction générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail, sur le travail de récupération des données et l’élaboration d’un tableau de bord pour le suivi d’indicateurs sur l’activité partielle dans le contexte de la crise sanitaire
+-	[[https://speakerdeck.com/etalabia/20200924-datadrink-ina][« Décrire la représentation des femmes et des hommes dans les JT pendant la crise Covid-19 »]], une approche semi-automatique fondée sur l’analyse des incrustations, par David Doukhan, ingénieur de recherche et coordinateur du projet « Gender Equality Monitor »
+-	[[https://speakerdeck.com/etalabia/20200924-datadrink-meteo-net][« MétéoNet, un jeu de données météorologiques en libre accès »]], par Gwennaelle Larvor du Lab IA de Météo France, un jeu de données météo de référence pour les datascientists 
+-	[[https://speakerdeck.com/etalabia/20200924-datadrink-opendatascience][« Mettre en avant les jeux de données ouverts de data.gouv.fr grâce à l’IA »]], par Florian Laborde, étudiant à Telecom-Paris et l’ENS Paris-Saclay, en stage à Etalab 
+-	[[https://speakerdeck.com/etalabia/20200924-datadrink-dgefp][« Ciblage des contrôles de l’activité partielle »]], par Geoffrey Aldebert, Etalab, et Pierre Vercauteren, Organisation de la direction générale à l’emploi et à la formation professionnelle (DGEFP), Ministère du Travail, sur le travail de récupération des données et l’élaboration d’un tableau de bord pour le suivi d’indicateurs sur l’activité partielle dans le contexte de la crise sanitaire
 
 Pour présenter votre réflexion ou projet IA pour l’action publique au réseau des datascientists de l’administration au *prochain datadrink le jeudi 29 octobre de 16h à 17h30* (10 minutes suivies d’échanges), contactez-nous ici : lab-ia@data.gouv.fr 
 
