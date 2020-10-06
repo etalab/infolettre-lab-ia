@@ -29,9 +29,6 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Jeux de données, réutilisations, outils : [[https://www.data.gouv.fr/fr/posts/les-nouveautes-data-gouv-fr-de-lete-2020/][les nouveautés data.gouv.fr de l’été 2020]]
 -	Ioana Manolescu, directrice scientifique du Lab IA d’Etalab, a présenté à notre équipe les techniques innovantes utilisées pour le fact-checking et le journalisme de données : [[https://pages.saclay.inria.fr/ioana.manolescu/IoanaManolescu-LabIA-23092020.pdf][le support de présentation ici]]
 -	Un laboratoire participatif « Location Intelligence4Cities and Regions » est organisé par la Commission Européenne  en anglais le mercredi 14 octobre à 11h30 : plus d’infos [[https://joinup.ec.europa.eu/collection/elise-european-location-interoperability-solutions-e-government/event/participatory-lab-location-intelligence4cities-and-regions][ici]]
--	Pour les datascientists intéressés par le traitement automatique du langage naturel et anglophones : le « NLP Summit », deux semaines intensive gratuites de formations (pour débutants et datascientists confirmés), un datathon et des discussions en ligne, du 6 au 16 octobre : [[https://www.nlpsummit.org/?utm_source=ben&utm_medium=twitter&utm_campaign=nlpsummit][ici]]
--	« Reconnaissance faciale, ultime avatar du capitalisme de surveillance : quels enjeux pour la démocratie ? » une conférence de l’INRIA avec Asma Mhalla le vendredi 23 octobre [[https://team.inria.fr/steep/seminars/les-conferences-debats-comprendre-et-agir/#conf24][ici]]
--	« Grand projets numériques et défis écologiques : contradictoires, ou nécessaires ? » le mercredi 7 octobre de 19h à 21h30, séminaire grand public organisé par la Chaire Good In Tech [[https://www.goodintech.org/EventDetails.html?anchor=&id=7][ici]]
 
 L'équipe du Lab IA d'Etalab
 
