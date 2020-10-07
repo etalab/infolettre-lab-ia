@@ -10,7 +10,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/ : 
 
-- Zoom sur les projets AMI-IA 2 : Protéger les administrations des cyberattaques (ANSSI)
+- Zoom sur les projets IA : Protéger les administrations des cyberattaques (ANSSI)
 - Rediffusion : Datadrink de la rentrée et projets data science & IA avec l'INA, Météo France, Etalab et le ministère du Travail
 - Création du Pôle d'expertise de la régulation numérique : Appuyer techniquement les services de l'Etat dans la supervision des plateformes numériques
 
@@ -34,11 +34,11 @@ L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/numero-5/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-** Zoom sur les projets AMI-IA 2 : Protéger les administrations des cyberattaques (ANSSI)
+** Zoom sur les projets IA : Protéger les administrations des cyberattaques (ANSSI)
 
 [[https://etalab.github.io/infolettre-lab-ia/img/cyber.png]]
 
-Areg Baghinyan, membre de l’équipe porteur du projet IA de l’Agence nationale de la sécurité des systèmes d’information (ANSSI) sélectionné dans le cadre de l’[[https://www.modernisation.gouv.fr/home/ami-intelligence-artificielle-15-nouveaux-laureats-se-saisissent-de-lia-pour-leurs-missions-de-service-public][AMI-IA 2]], partage l’avancée de leur projet IA, qui se terminera d’ici janvier 2021 :
+Areg Baghinyan, membre de l’équipe porteur du projet IA de l’Agence nationale de la sécurité des systèmes d’information (ANSSI) accompagné par le Lab IA d'Etalab, partage l’avancée de leur projet IA, qui se terminera d’ici janvier 2021 :
 
 « Notre projet consiste *à identifier les anomalies dans les évènements d’authentification Windows sur des parcs informatiques compromis grâce aux algorithmes de Machine Learning (ML)*. En cas d’attaque informatique sur des ministères ou des opérateurs d'importance vitale (OIV), l’ANSSI peut être sollicitée pour mener des investigations numériques. Les parcs informatiques grandissent de jour en jour, ce qui rend le travail des investigateurs de plus en plus compliqué. La technique des attaquants évolue et la détection par des méthodes classiques n’est plus adaptée dans certains cas. 
 
