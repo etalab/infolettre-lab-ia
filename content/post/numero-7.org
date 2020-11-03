@@ -72,11 +72,11 @@ Au programme, découvrez les cas d’usage d’une IA francophone en collaborati
 
 Les datadrinks, meetups de l’IA dans l’administration, rassemblent une communauté d’agents publics intéressés par l’innovation dans l’administration à l’aide d’outils d’intelligence artificielle. Le dernier datadrink s’est tenu le 29 octobre, avec les interventions qui suivent : 
 
--	Alice Schoenauer Sebag (Inspection générale des finances, MEFR) : [[https://speakerdeck.com/etalabia/20201029-datadrink-igf][l'analyse et la visualisation de la consultation citoyenne sur le revenu universel d'activité grâce à l'outil Cartolabe]], une collaboration avec Philippe Caillou (Equipe TAU, CNRS - INRIA - Univ. Paris-Saclay);
+-	*Alice Schoenauer Sebag (Inspection générale des finances, MEFR)* : [[https://speakerdeck.com/etalabia/20201029-datadrink-igf][l'analyse et la visualisation de la consultation citoyenne sur le revenu universel d'activité grâce à l'outil Cartolabe]], une collaboration avec Philippe Caillou (Equipe TAU, CNRS - INRIA - Univ. Paris-Saclay);
 
--	Nicolas Rolin (Pôle de régulation des plateformes numériques, Direction générale des Entreprises, Ministère de l’Économie et des Finances) : [[https://speakerdeck.com/etalabia/20201029-datadrink-peren][la constitution d'une base de données PEReN par scraping des magasins d'applications mobile]];
+-	*Nicolas Rolin (Pôle de régulation des plateformes numériques, Direction générale des Entreprises, Ministère de l’Économie et des Finances)* : [[https://speakerdeck.com/etalabia/20201029-datadrink-peren][la constitution d'une base de données PEReN par scraping des magasins d'applications mobile]];
 
--	Charlotte Geay (DREES, Ministère des Solidarités et de la Santé) : [[https://speakerdeck.com/etalabia/20201029-datadrink-drees][l’utilisation des données au centre de crise sanitaire pour suivre l’épidémie de Covid]].
+-	*Charlotte Geay (DREES, Ministère des Solidarités et de la Santé)* : [[https://speakerdeck.com/etalabia/20201029-datadrink-drees][l’utilisation des données au centre de crise sanitaire pour suivre l’épidémie de Covid]].
 
 La rediffusion est disponible [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1603982299586][ici]].
 
@@ -85,13 +85,13 @@ Pour présenter votre réflexion ou projet IA à la communauté IA de l’admini
 ** Ressources : Reconnaître et identifier les biais dans vos projets d'intelligence artificielle 
 
 
-Dans le cadre de l’atelier de formation *« Reconnaître et identifier les biais dans vos projets d’intelligence artificielle »*, adressé aux porteurs de projets de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a organisé une formation en ligne avec la collaboration de Valérie Fontaine et Gaetan Goldberg (Défenseur des droits), Philippe Besse (INSA Toulouse, Observatoire sur les impacts sociétaux de l’IA et du numérique) et Jean-Marie John Mathews (Chaire Good in Tech, Institut Mines-Telecom-Sciences Po). 
+Dans le cadre de l’atelier de formation *« Reconnaître et identifier les biais dans vos projets d’intelligence artificielle »*, adressé aux porteurs de projets de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a organisé une formation en ligne avec la collaboration de *Valérie Fontaine et Gaetan Goldberg (Défenseur des droits), Philippe Besse (INSA Toulouse, Observatoire sur les impacts sociétaux de l’IA et du numérique) et Jean-Marie John Mathews (Chaire Good in Tech, Institut Mines-Telecom-Sciences Po)*. 
 
 Nous vous partageons [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613][la rediffusion]] de la séance en plénière et les supports de présentations :
 
--	[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd][[Algorithmes et biais discriminatoires]], présentation de Valérie Fontaine et Gaetan Goldberg 
--	[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse][Risques discriminatoires des algorithmes d’IA]], présentation de Philippe Besse 
--	[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews][Biais sur les données Compas]], présentation de Jean-Marie John-Mathews
+-	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd][[Algorithmes et biais discriminatoires]]*, présentation de Valérie Fontaine et Gaetan Goldberg 
+-	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse][Risques discriminatoires des algorithmes d’IA]]*, présentation de Philippe Besse 
+-	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews][Biais sur les données Compas]]*, présentation de Jean-Marie John-Mathews
 
 Quelques autres ressources utiles : 
 -	[[https://op.europa.eu/fr/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/prodSystem-cellar/language-fr/format-PDF][Les lignes directrices en matière d’éthique pour une IA digne de confiance]], Groupe d’experts de haut niveau sur l’intelligence artificielle, Commission Européenne, avril 2019
