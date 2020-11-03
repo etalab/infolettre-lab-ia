@@ -9,10 +9,10 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
 /Ci-dessous/ : 
-- Appel à projets : développer l’utilisation de la donnée dans votre administration, réunion d’information le mardi 10 novembre, de 14h à 15h30
+- Réunion d'information pour Appel à projets : développer l’utilisation de la donnée dans votre administration
 - Restitutions : Découvrez 5 projets d’IA accompagnés par le Lab IA d’Etalab et la DITP en 2020, tous les jours du 16 au 20 novembre, de 17h à 17h30 
-- Open Lab  PIAF (Pour une IA francophone) : du modèle IA à l’application, le 26 novembre de 9h30 à 12H00
-- Rediffusion : Datadrink de l’automne avec l’Inspection générale des finances, le Pôle de régulation des plateformes numériques, et la cellule de crise sanitaire du Ministère des Solidarités et de la Santé 
+- Open Lab  PIAF (Pour une IA francophone) : du modèle IA à l’application
+- Rediffusion : Datadrink de l’automne 
 - Ressources : Reconnaître et identifier les biais dans vos projets d’intelligence artificielle  
 
 /L'administration recrute/ :
@@ -31,7 +31,7 @@ L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/numero-5/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-** Appel à projets : développer l'utilisation de la donnée dans votre administration
+** Réunion d'information pour appel à projets : développer l'utilisation de la donnée dans votre administration
 
 [[https://etalab.github.io/infolettre-lab-ia/img/relance.jpg]]
 
