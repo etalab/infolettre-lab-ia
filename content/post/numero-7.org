@@ -33,7 +33,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Appel à projets : développer l'utilisation de la donnée dans votre administration
 
-[[https://etalab.github.io/infolettre-lab-ia/img/cyber.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/relance.jpg]]
 
 Dans le cadre du [[https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot][plan de relance]], un volet data au sein de l’enveloppe innovation et transformation numérique. Cet appel à projets s’adresse aux directions d’administration ou opérateurs en charge d’une politique publique, qui souhaitent développer le recours à la donnée dans la décision et la performance publique. 
 
@@ -41,4 +41,63 @@ Ce dispositif est ouvert pour *financer des projets dans le domaine de l'intelli
 
 Une *réunion d’information est organisée mardi 10 novembre de 14h00 à 15h30* pour vous présenter les modalités de l’appel à projets et répondre à vos questions : [[https://www.eventbrite.fr/e/billets-reunion-dinformation-appel-a-projets-cycle-de-vie-de-la-donnee-127000853973][plus d’informations et inscriptions]]. 
 
+** Restitution : Découvrez 5 projets d'IA accompagnés par le Lab IA d'Etalab et la DITP en 2020, tous les jours du 16 au 20 novembre, de 17h à 17h30
+
+[[https://etalab.github.io/infolettre-lab-ia/img/amiia.jpg]]
+
+En 2020, [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][15 projets ont bénéficié de l'accompagnement de la DINUM et de la DITP]], afin de développer un prototype fonctionnel d'intelligence artificielle et d'évaluer les impacts métiers associés à l'utilisation de l'IA.
+
+Pendant une semaine, nous vous proposons de *participer aux restitutions des 5 premiers projets d'expérimentation de l'IA et d'échanger avec leurs équipes*, lors des 5 sessions webinaires qui auront lieu du 16 au 20 novembre.
+
+Chaque jour, les équipes projets présenteront en moins de 10 minutes leurs réalisations, puis échangeront pendant 20 minutes avec les participants autour de ces expérimentations : 
+- 	16 novembre, 17h -17h30 : Faciliter l'accès aux informations sur le patient (CHU de Bordeaux)
+- 	17 novembre, 17h -17h30 : Identifier et regrouper des requêtes similaires pour accélérer les délais de jugement (Conseil d'Etat)
+- 	18 novembre, 17h - 17h30 : Optimiser le traitement des signalements des événements sanitaires indésirables (DGS, ANSM, ANS)
+- 	19 novembre, 17h - 17h30 : Identifier les molécules contaminant l'environnement et profiler les sources de pollutions (INERIS)
+- 	20 novembre, 17h - 17h30 : Développer un outil d'aide à l'implantation des entreprises artisanales de Nouvelle Aquitaine (CRMANA)
+
+L'invitation est ouverte, inscrivez-vous à l'événement pour recevoir les liens de connexion ! [[https://www.eventbrite.fr/e/billets-les-pitchs-5-projets-pour-innover-avec-lia-dans-ladministration-126554861999][Plus d’informations et inscriptions]]
+
+** Open Lab PIAF (Pour une IA Francophone): du modèle IA à l'application, le 26 novembre de 9h30 à 12h 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/piaf.png]]
+
+Depuis 2019, une équipe d'Etalab développe en open-source PIAF, Pour des IA francophones. L'objectif est de produire un moteur de question-réponse qui soit performant en français. *Jeux de données, modèles, solution applicative*, tout est ouvert, avec comme objectifs d'améliorer l'intelligence artificielle francophone et développer des cas d'usages dans l'administration française. 
+
+Au programme, découvrez les cas d’usage d’une IA francophone en collaboration avec service-public.fr, suivis d’échanges et ateliers participatifs. [[https://www.eventbrite.fr/e/billets-open-lab-piaf-pour-une-ia-francophone-du-modele-ia-a-lapplication-126835188463][Plus d’informations et inscriptions]]
+
+** Rediffusion : Datadrink de l'automne 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrink.jpg]]
+
+Les datadrinks, meetups de l’IA dans l’administration, rassemblent une communauté d’agents publics intéressés par l’innovation dans l’administration à l’aide d’outils d’intelligence artificielle. Le dernier datadrink s’est tenu le 29 octobre, avec les interventions qui suivent : 
+
+-	Alice Schoenauer Sebag (Inspection générale des finances, MEFR) : [[https://speakerdeck.com/etalabia/20201029-datadrink-igf][l'analyse et la visualisation de la consultation citoyenne sur le revenu universel d'activité grâce à l'outil Cartolabe]], une collaboration avec Philippe Caillou (Equipe TAU, CNRS - INRIA - Univ. Paris-Saclay);
+
+-	Nicolas Rolin (Pôle de régulation des plateformes numériques, Direction générale des Entreprises, Ministère de l’Économie et des Finances) : [[https://speakerdeck.com/etalabia/20201029-datadrink-peren][la constitution d'une base de données PEReN par scraping des magasins d'applications mobile]];
+
+-	Charlotte Geay (DREES, Ministère des Solidarités et de la Santé) : [[https://speakerdeck.com/etalabia/20201029-datadrink-drees][l’utilisation des données au centre de crise sanitaire pour suivre l’épidémie de Covid]].
+
+La rediffusion est disponible [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1603982299586][ici]].
+
+Pour présenter votre réflexion ou projet IA à la communauté IA de l’administration 10 minutes suivies d’échanges), contactez-nous ici : lab-ia@data.gouv.fr  
+
+** Ressources : Reconnaître et identifier les biais dans vos projets d'intelligence artificielle 
+
+
+Dans le cadre de l’atelier de formation *« Reconnaître et identifier les biais dans vos projets d’intelligence artificielle »*, adressé aux porteurs de projets de l’Appel à Manifestation d’Intérêt en intelligence artificielle (AMI IA 2), le Lab IA a organisé une formation en ligne avec la collaboration de Valérie Fontaine et Gaetan Goldberg (Défenseur des droits), Philippe Besse (INSA Toulouse, Observatoire sur les impacts sociétaux de l’IA et du numérique) et Jean-Marie John Mathews (Chaire Good in Tech, Institut Mines-Telecom-Sciences Po). 
+
+Nous vous partageons [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613][la rediffusion]] de la séance en plénière et les supports de présentations :
+
+-	[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd][[Algorithmes et biais discriminatoires]], présentation de Valérie Fontaine et Gaetan Goldberg 
+-	[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse][Risques discriminatoires des algorithmes d’IA]], présentation de Philippe Besse 
+-	[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews][Biais sur les données Compas]], présentation de Jean-Marie John-Mathews
+
+Quelques autres ressources utiles : 
+-	[[https://op.europa.eu/fr/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1/prodSystem-cellar/language-fr/format-PDF][Les lignes directrices en matière d’éthique pour une IA digne de confiance]], Groupe d’experts de haut niveau sur l’intelligence artificielle, Commission Européenne, avril 2019
+-	[[https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_fr.pdf][Livre Blanc, Intelligence artificielle : une approche européenne axée sur l’excellence et la confiance]], Commission Européenne, février 2020 
+-	[[https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/synth-algos-num-05.06.20.pdf][Algorithmes : prévenir l’automatisation des discriminations]], Défenseur des droits et CNIL, mai 2020 
+-	Le dépôt Github de Philippe Besse incluant les [[https://github.com/wikistat/Fair-ML-4-Ethical-AI][exemples/cas pratiques]] présentés en plénière et [[https://hal.archives-ouvertes.fr/hal-02616963][l’article associé]].
+
+Les autres ressources des ateliers sont disponibles sur le Github du Lab IA d’Etalab [[https://github.com/etalab-ia/ami-ia/blob/master/accompagnement.md][ici]]. 
 
