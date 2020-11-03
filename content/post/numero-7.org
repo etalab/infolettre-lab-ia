@@ -60,7 +60,7 @@ L'invitation est ouverte, inscrivez-vous à l'événement pour recevoir les lien
 
 ** Open Lab PIAF (Pour une IA Francophone): du modèle IA à l'application, le 26 novembre de 9h30 à 12h 
 
-[[https://etalab.github.io/infolettre-lab-ia/img/piaf.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/piaf2.png]]
 
 Depuis 2019, une équipe d'Etalab développe en open-source PIAF, Pour des IA francophones. L'objectif est de produire un moteur de question-réponse qui soit performant en français. *Jeux de données, modèles, solution applicative*, tout est ouvert, avec comme objectifs d'améliorer l'intelligence artificielle francophone et développer des cas d'usages dans l'administration française. 
 
