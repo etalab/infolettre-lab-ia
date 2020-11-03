@@ -89,7 +89,7 @@ Dans le cadre de l’atelier de formation *« Reconnaître et identifier les bia
 
 Nous vous partageons [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1602156756613][la rediffusion]] de la séance en plénière et les supports de présentations :
 
--	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd][[Algorithmes et biais discriminatoires]]*, présentation de Valérie Fontaine et Gaetan Goldberg 
+-	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ddd][Algorithmes et biais discriminatoires]]*, présentation de Valérie Fontaine et Gaetan Goldberg 
 -	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-ph-besse][Risques discriminatoires des algorithmes d’IA]]*, présentation de Philippe Besse 
 -	*[[https://speakerdeck.com/etalabia/20200810-atelierbiaisami-ia-john-mathews][Biais sur les données Compas]]*, présentation de Jean-Marie John-Mathews
 
