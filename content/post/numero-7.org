@@ -9,7 +9,7 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
 /Ci-dessous/ : 
-- Réunion d'information pour Appel à projets : développer l’utilisation de la donnée dans votre administration
+- Appel à projets : développer l’utilisation de la donnée dans votre administration
 - Restitutions : Découvrez 5 projets d’IA accompagnés par le Lab IA d’Etalab et la DITP en 2020, tous les jours du 16 au 20 novembre, de 17h à 17h30 
 - Open Lab  PIAF (Pour une IA francophone) : du modèle IA à l’application
 - Rediffusion : Datadrink de l’automne 
@@ -31,7 +31,7 @@ L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/numero-5/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
-** Réunion d'information pour appel à projets : développer l'utilisation de la donnée dans votre administration
+** Appel à projets : développer l'utilisation de la donnée dans votre administration
 
 [[https://etalab.github.io/infolettre-lab-ia/img/relance.jpg]]
 
