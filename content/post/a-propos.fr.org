@@ -5,7 +5,7 @@
 #+draft: false
 #+tags: 
 
-Pour vous inscrire : [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio]]
+Pour vous inscrire : [[ https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio]]
 
 * Conditions générales d'utilisation
 
