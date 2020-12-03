@@ -61,7 +61,7 @@ Pour vous accompagner dans la réalisation de votre projet d’annotation, ce gu
 3)	Conduire votre campagne d’annotation
 4)	Critères de sélection d’un logiciel d’annotation de documents textuels 
 
-Ce guide sera aussi présenté en ligne au prochain datadrink du Lab IA, le jeudi 10 décembre de 16h à 17h : [[https://www.eventbrite.fr/e/billets-datadrink-de-lhiver-du-lab-ia-etalab-131466081589][inscriptions ici]]
+Ce guide sera aussi présenté en ligne au prochain datadrink du Lab IA, le jeudi 10 décembre de 16h à 17h30 : [[https://www.eventbrite.fr/e/billets-datadrink-de-lhiver-du-lab-ia-etalab-131466081589][inscriptions ici]]
 
 ** Projets AMI IA 2 : Cinq outils développés en 2020 dans l'administration (Rediffusions)
 
