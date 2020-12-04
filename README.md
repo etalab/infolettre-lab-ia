@@ -12,6 +12,8 @@ Voir la présentation du Lab IA : <https://www.etalab.gouv.fr/datasciences-et-in
 - [Numéro 4](https://etalab.github.io/infolettre-lab-ia/numero-4/) (3/8/2020) 
 - [Numéro 5](https://etalab.github.io/infolettre-lab-ia/numero-5/) (3/9/2020)
 - [Numéro 6](https://etalab.github.io/infolettre-lab-ia/numero-6/) (5/10/2020)
+- [Numéro 7](https://etalab.github.io/infolettre-lab-ia/numero-7/) (3/11/2020)
+- [Numéro 8](https://etalab.github.io/infolettre-lab-ia/numero-8/) (3/12/2020)
 
 # Conditions générales d'utilisation
 
