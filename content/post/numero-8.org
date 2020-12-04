@@ -30,7 +30,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Invitation : Datadrink de l'hiver le jeudi 10 décembre de 16h à 17h30
 
-[[https://etalab.github.io/infolettre-lab-ia/img/datadrinkhiver.JPG]]
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrinkhiver.jpg]]
 
 [[https://www.eventbrite.fr/e/billets-datadrink-de-lhiver-du-lab-ia-etalab-131466081589][Inscriptions ici]]
 
@@ -46,7 +46,7 @@ Si vous souhaitez présenter une initiative ou une réflexion en cours dans votr
 
 ** Les guides d'Etalab : préparer et conduire votre campagne d'annotation 
 
-[[https://etalab.github.io/infolettre-lab-ia/img/annotation.jpeg]]
+[[https://etalab.github.io/infolettre-lab-ia/img/annotation.jpg]]
 
 Voir le guide [[https://guides.etalab.gouv.fr/annotation/#introduction-pourquoi-annoter][ici]]
 
