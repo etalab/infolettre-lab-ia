@@ -1,0 +1,84 @@
+#+title: Infolettre Lab IA n°6
+#+date: 2020-11-01
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+L’équipe du Lab IA d’Etalab vous souhaite à toutes et à tous une très bonne année 2021 ! En 2020, vous êtes plus de 400 à avoir rejoint la communauté du Lab IA d’Etalab. Afin de mieux vous connaître, recevoir vos suggestions et prioriser les actions de la communauté pour l’année 2021, on vous invite à prendre quelques minutes pour répondre à ce [https://sgmap.sphinxdeclic.com/d/management/preview.aspx?c=!CfDJ8EXvhFs3wq9Lk-zngccJAyh1RGQBkdO8CKoEegR1Cv88H1vPkaBwE1pTo3M1mZlG5Tcn4yhfnh5r5_4l-g2GJ1ycJRiQ1SsXxDEhrF-6ngTyubBFFE4X9Rj_u4FnbG8D9AfSmyug3TzeYaECR_tg4pY8NXdmmlv67WxPA_Uu8S19][sondage du Lab IA d’Etalab en ligne] : la communauté de l’IA dans l’administration. Merci à tous ceux qui ont déjà participé ! On vous partagera les résultats prochainement. 
+
+[https://sgmap.sphinxdeclic.com/d/management/preview.aspx?c=!CfDJ8EXvhFs3wq9Lk-zngccJAyh1RGQBkdO8CKoEegR1Cv88H1vPkaBwE1pTo3M1mZlG5Tcn4yhfnh5r5_4l-g2GJ1ycJRiQ1SsXxDEhrF-6ngTyubBFFE4X9Rj_u4FnbG8D9AfSmyug3TzeYaECR_tg4pY8NXdmmlv67WxPA_Uu8S19][Sondage de la communauté du Lab IA] : /réponses attendues avant le 27 janvier/
+
+Agents publics, tech ou non tech : deux enquêtes vous concernent!
+- Vous utilisez, concevez ou décidez d’implémenter des algorithmes ? Etalab et Design Friction ont lancé [https://framaforms.org/les-algorithmes-dans-la-fonction-publique-1608193230][une enquête sur les imaginaires autour des algorithmes publics] : /réponses attendues avant le 11 janvier/ 
+-	Votre organisation utilise des solutions d’intelligence artificielle pour améliorer les services publics : partagez votre expérience avec la Commission Européenne qui enquête sur le développement, l’adoption et l’impact de l’IA en Europe : /réponses attendues avant le 21 janvier/
+
+/Ci-dessous/ : 
+
+-	Rediffusion : Datadrink de l’hiver avec la Cour des Comptes, l’Autorité nationale en matière de sécurité et de défense des systèmes d’information et l’Agence Française de Développement 
+-	Mois de l’innovation publique 2020 : retour sur les événements Etalab 
+- Focus sur l’Open Lab PIAF (Pour une intelligence artificielle francophone) : du modèle IA à l’application 
+
+/L'administration recrute/ :
+- [https://jobs.inria.fr/public/classic/fr/offres/2020-03219][Offre de stage] au Lab IA pour étudiants en Master : Détection automatique ou semi-automatique d’entreprises en difficultés ou fragilisées par la crise sanitaire avec le projet « Signaux Faibles », dans le cadre du partenariat entre la DINUM et l’Inria 
+
+/A découvrir/ :
+-	Jeux de données, réutilisations, outils ou articles sur l’open data : [https://www.data.gouv.fr/fr/posts/suivi-des-sorties-novembre-2020-1/][le suivi des sorties de novembre sur data.gouv.fr]
+-	[https://www.data.gouv.fr/fr/posts/retour-sur-levenement-open-data-des-territoires/][Où en est-on de l’open data dans les territoires ?] Retour sur l’événement open data des territoires d’Etalab 
+
+L'équipe du Lab IA d'Etalab
+
+[[https://etalab.github.io/infolettre-lab-ia/numero-6/
+][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
+
+** Rediffusion : Datadrink de l'hiver 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/janvier1.png]]
+
+Rediffusion [https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1607610608693][ici]
+
+Supports de présentations des projets au programme du datadrink de l’hiver : 
+
+•	Bruce Olivaux et Adeline Laulanié (Agence Française de Développement) : [https://speakerdeck.com/etalabia/20201210-datadrink-afd][construction de la première « BDD des Banques Publiques de Développement »]*
+•	Stéphane Clair (Direction des méthodes et des données, Cour des Comptes) : [https://speakerdeck.com/etalabia/20201210-datadrink-cour-des-comptes-programmation-des-communes][constitution et mise à disposition des données de programmation des communes] 
+•	Loic Richier et Anael Beaugnon (Autorité nationale en matière de sécurité et de défense des systèmes d’information) : [https://speakerdeck.com/etalabia/20201210-datadrink-anssi-distiller][extraction d'informations de rapports de Cyber Threat Intelligence]
+
+Ce fut aussi l’occasion de vous présenter le guide d’Etalab [https://guides.etalab.gouv.fr/annotation/#introduction-pourquoi-annoter][« Préparer et conduire votre campagne d’annotation »], présenté par Kim Montalibet, data scientist du Lab IA d’Etalab. 
+
+Si vous souhaitez présenter une initiative ou une réflexion en cours dans votre administration avec le réseau des agents publics et data scientists de l’administration, écrivez-nous ici : lab-ia@data.gouv.fr 
+
+** Mois de l'innovation publique : retour sur les événements d'Etalab 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/janvier2.png]]
+
+En novembre 2020, à l’occasion du Mois de l’innovation publique, Etalab a organisé *douze événements sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques*. Près de 1000 personnes ont été au rendez-vous. 
+
+[https://www.etalab.gouv.fr/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab][Découvrez ici] quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions. 
+
+
+** Focus sur l'Open Lab PIAF : du modèle IA à l'application 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/janvier3.png]]
+
+Rediffusion [https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=48b2421b44161208a69733549d738fc6ce9e3f6b-1606377992311][ici]
+
+Merci à tous pour votre participation et contributions à l’Open Lab PIAF (Pour une IA francophone) du Mois de l’innovation publique le 26 novembre dernier, qui a rassemblé presque 100 participants ! Quelques aperçus de la session :
+
+Comment le projet a-t-il commencé ? Entre octobre 2019 et juin 2020, l’équipe de PIAF a collecté et publié un jeu de données d’entraînement francophone avec plus de 9500 annotations crowdsourcées par plus de 700 contributeurs (voir [http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.673.pdf][ici] la méthodologie et les résultats). 
+
+Depuis juin 2020, l’équipe s’est lancée dans une nouvelle phase : *développer un moteur de questions réponses francophone permettant de favoriser l’appropriation de ce jeu de données francophone par les administrations*. Avec service-public.fr, premier cas d’usage PIAF, il s’agit de passer d’une brique technique à un outil qui puisse être utilisé par les agents et les citoyens. L’équipe de PIAF a mené un travail d’enquête pour imaginer un produit avec des cas d’usages ou sous-produits variés : outils pour l’agent, agent conversationnel ou recherche d’informations pour le citoyen. L’équipe a développé une série d’applications qui pourront être réutilisées par les administrations.
+
+*Les prochaines étapes PIAF* : amélioration des performances, mises en production et lancement d’une offre de service pour les administrations. 
+
+Trois ateliers pendant l’Open Lab ont permis à l’équipe d’enrichir la réflexion sur les prochaines étapes du projet : 
+
+-	*Atelier 1 : Quels cas d’usage pour les algorithmes de question-réponse ?* Les participants ont proposé de nouvelles bases de connaissances à indexer et de nouvelles façons d’interroger PIAFApi : les résultats de cette discussion sont consultables sur le [https://app.klaxoon.com/participate/board/QDEYUPU][board Klaxoon] : intégration avec les applications de messagerie instantanée, génération automatique de mots clés pour améliorer les recherches ou développement d’interfaces vocales. Au cours des discussions, les participants ont parlé des difficultés rencontrées au quotidien dans leur travail d’exploitation de bases de connaissances, liées par exemple au questionnement des bases de données ou à la récupération des informations disponibles dans des PDFs scannés.
+- *Atelier 2 : Quelles pistes d’améliorations techniques ?* Plusieurs pistes ont été discutées pour améliorer le service PIAF, notamment pour enrichir les jeux de données et les requêtes (par exemple, avec l’utilisation d’un dictionnaire de synonymes et acronymes) ; générer automatiquement des questions à partir d’un corpus donné ; rendre reproductible le développement ; ou évaluer les besoins en termes de déploiement, temps de réponse et architecture. 
+- *Atelier 3 : Comment mieux encourager l’IA francophone ouverte ?* Quel est le rôle de l’Etat dans la coordination de l’IA francophone ? Quelle éthique de la contribution et des usages ? Comment mutualiser les données francophones ?  Comment s’assurer que l’IA soit inclusive ? Plusieurs pistes ont été discutées : obtenir des données d’usage en coopération avec des moteurs de recherche, introduire la notion de « données d’intérêt général » sur des questions essentielles, ou mettre ou point des outils concrets pour une IA citoyenne et collaborative.
+
+Pour toute question ou suggestion, écrire à : piaf@data.gouv.fr 
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
+
+L'équipe du Lab IA d'Etalab
