@@ -38,9 +38,9 @@ Rediffusion [[https://visio.incubateur.net/playback/presentation/2.0/playback.ht
 
 Supports de présentations des projets au programme du datadrink de l’hiver : 
 
-•	*Bruce Olivaux et Adeline Laulanié (Agence Française de Développement)* : [[https://speakerdeck.com/etalabia/20201210-datadrink-afd][construction de la première « BDD des Banques Publiques de Développement »]]
-•	*Stéphane Clair (Direction des méthodes et des données, Cour des Comptes)* : [[https://speakerdeck.com/etalabia/20201210-datadrink-cour-des-comptes-programmation-des-communes][constitution et mise à disposition des données de programmation des communes]] 
-•	*Loic Richier et Anael Beaugnon* (Autorité nationale en matière de sécurité et de défense des systèmes d’information) : [[https://speakerdeck.com/etalabia/20201210-datadrink-anssi-distiller][extraction d'informations de rapports de Cyber Threat Intelligence]]
+-	*Bruce Olivaux et Adeline Laulanié (Agence Française de Développement)* : [[https://speakerdeck.com/etalabia/20201210-datadrink-afd][construction de la première « BDD des Banques Publiques de Développement »]]
+-	*Stéphane Clair (Direction des méthodes et des données, Cour des Comptes)* : [[https://speakerdeck.com/etalabia/20201210-datadrink-cour-des-comptes-programmation-des-communes][constitution et mise à disposition des données de programmation des communes]] 
+-	*Loic Richier et Anael Beaugnon* (Autorité nationale en matière de sécurité et de défense des systèmes d’information) : [[https://speakerdeck.com/etalabia/20201210-datadrink-anssi-distiller][extraction d'informations de rapports de Cyber Threat Intelligence]]
 
 Ce fut aussi l’occasion de vous présenter le guide d’Etalab [[https://guides.etalab.gouv.fr/annotation/#introduction-pourquoi-annoter][« Préparer et conduire votre campagne d’annotation »]], présenté par Kim Montalibet, data scientist du Lab IA d’Etalab. 
 
@@ -53,7 +53,6 @@ Si vous souhaitez présenter une initiative ou une réflexion en cours dans votr
 En novembre 2020, à l’occasion du Mois de l’innovation publique, Etalab a organisé *douze événements sur les thèmes de l’ouverture, du partage et de la valorisation des données publiques*. Près de 1000 personnes ont été au rendez-vous. 
 
 [[https://www.etalab.gouv.fr/mois-de-linnovation-publique-2020-retour-sur-les-evenements-detalab][Découvrez ici]] quelques temps forts de ces webinaires et ateliers et accédez aux enregistrements des sessions. 
-
 
 ** Focus sur l'Open Lab PIAF : du modèle IA à l'application 
 
