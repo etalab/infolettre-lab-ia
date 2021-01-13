@@ -32,7 +32,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Rediffusion : Datadrink de l'hiver 
 
-[[https://etalab.github.io/infolettre-lab-ia/img/janvier1.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/janvier1.jpg]]
 
 Rediffusion [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=bfbffc35880da87358915de2c5e5212e15ea0e37-1607610608693][ici]]
 
