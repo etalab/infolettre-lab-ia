@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
     <copyright>Etalab - Direction interministérielle du numérique</copyright>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://etalab.github.io/infolettre-lab-ia/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infolettre Lab IA n°9</title>
+      <link>https://etalab.github.io/infolettre-lab-ia/numero-9/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://etalab.github.io/infolettre-lab-ia/numero-9/</guid>
+      <description>Bonne année 2021 !
+ L’équipe du Lab IA d’Etalab vous souhaite à toutes et à tous une très bonne année ! En 2020, vous êtes plus de 400 à avoir rejoint la communauté du Lab IA d’Etalab. Afin de mieux vous connaître, recevoir vos suggestions et prioriser les actions de la communauté pour l’année 2021, on vous invite à participer à ce sondage du Lab IA d’Etalab : la communauté de l’IA dans l’administration (réponses attendues avant le 27 janvier).</description>
+    </item>
     
     <item>
       <title>Infolettre Lab IA n°8</title>
