@@ -8,7 +8,7 @@
 
 L’équipe du Lab IA d’Etalab vous souhaite à toutes et à tous une très bonne année ! En 2020, vous êtes plus de 400 à avoir rejoint la communauté du Lab IA d’Etalab. Afin de mieux vous connaître, recevoir vos suggestions et prioriser les actions de la communauté pour l’année 2021, on vous invite à participer à ce [[https://sgmap.sphinxdeclic.com/d/management/preview.aspx?c=!CfDJ8EXvhFs3wq9Lk-zngccJAyh1RGQBkdO8CKoEegR1Cv88H1vPkaBwE1pTo3M1mZlG5Tcn4yhfnh5r5_4l-g2GJ1ycJRiQ1SsXxDEhrF-6ngTyubBFFE4X9Rj_u4FnbG8D9AfSmyug3TzeYaECR_tg4pY8NXdmmlv67WxPA_Uu8S19][sondage du Lab IA d’Etalab : la communauté de l’IA dans l’administration]] (/réponses attendues avant le 27 janvier/). Merci à tous ceux qui ont déjà participé ! On vous partagera les résultats prochainement.
 
-/Agents publics, tech ou non tech : deux autres enquêtes vous concernent!/ 
+/Agents publics, tech ou non tech, deux autres enquêtes vous concernent :/ 
 
 - Vous utilisez, concevez ou décidez d’implémenter des algorithmes ? Etalab et Design Friction ont lancé [[https://framaforms.org/les-algorithmes-dans-la-fonction-publique-1608193230][une enquête sur les imaginaires autour des algorithmes publics]] (/réponses attendues avant le 11 janvier/)
 -	Votre organisation utilise des solutions d’intelligence artificielle pour améliorer les services publics : [[https://ec.europa.eu/eusurvey/runner/JRCAIinthePublicSectorSurvey2020#page0][partagez votre expérience avec la Commission Européenne]] qui enquête sur le développement, l’adoption et l’impact de l’IA en Europe (/réponses attendues avant le 21 janvier/)
