@@ -10,14 +10,14 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/ : 
 
--	*Invitation : Edition spéciale des datadrinks et expérimentation de l’IA dans l’administration*
+- *Invitation : Edition spéciale des datadrinks et expérimentation de l’IA dans l’administration*
 - *Ouverture du guichet data de France Relance pour les administrations*
--	*Résultats sondage Lab IA : la communauté de l’IA dans l’administration*  
+- *Résultats sondage Lab IA : la communauté de l’IA dans l’administration*  
 
 /L'administration recrute/ !
 
--	Trois postes sont ouverts au Pôle d’Expertise de la Régulation Numérique (PEReN) : 2 postes de [[https://www.passerelles.economie.gouv.fr/offre-de-emploi/emploi-data-scientist-peren-h-f-sen-peren-149-h-f_3471.aspx][data-scientists]] et  1 poste d'[[https://www.passerelles.economie.gouv.fr/offre-de-emploi/emploi-administrateur-systemes-devops-peren-sen-peren-148-h-f_3469.aspx][administrateur système]]
--	1 poste de [[https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-pole-science-des-donnees-chief-data-scientist-hf-reference-MEF_2020-3324][responsable du pôle Science des données]] (« Chief data scientist ») à l’Inspection générale des finances (IGF)
+- Trois postes sont ouverts au Pôle d’Expertise de la Régulation Numérique (PEReN) : 2 postes de [[https://www.passerelles.economie.gouv.fr/offre-de-emploi/emploi-data-scientist-peren-h-f-sen-peren-149-h-f_3471.aspx][data-scientists]] et  1 poste d'[[https://www.passerelles.economie.gouv.fr/offre-de-emploi/emploi-administrateur-systemes-devops-peren-sen-peren-148-h-f_3469.aspx][administrateur système]]
+- 1 poste de [[https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-pole-science-des-donnees-chief-data-scientist-hf-reference-MEF_2020-3324][responsable du pôle Science des données]] (« Chief data scientist ») à l’Inspection générale des finances (IGF)
 
 /Appels à projets pour agents publics/: 
 - *Lancement du programme "Entrepreneurs d'Intérêt Général" saison 5* : Agents publics, soumettez vos projets numériques aux Entrepreneurs d’intérêt général ! Ouvert aux administrations jusqu’au 7 avril 2021, le progamme EIG vise à transformer durablement le service public par le numérique, grâce au recrutement en interne de nouveaux talents. Nouveauté cette année : en plus des développeurs, datascientists, data engineers, géomaticiens et designers, les administrations peuvent proposer de recruter des profils de juristes du numérique. Recrutés pour 10 mois, ces profils rejoignent votre service et renforcent vos équipes tout en diffusant uen culture numérique dans votre administration. Webinaires de présentation de l’appel à projets les vendredi 12 février de 11h à 12h15 et mardi 2 mars de 14h à 15h15. Lire l'[[https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general][article de présentation de l'appel à projets sur le site d'Etalab]].  
@@ -27,7 +27,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Etalab publie une étude sur les pratiques de publication des codes sources dans l'enseignement supérieur et la recherche [[https://www.etalab.gouv.fr/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche][voir ici]]
 - Détection de la fraude fiscale à l’aide de l’intelligence artificielle, déploiement de radars permettant de repérer les conducteurs qui téléphonent au volant, automatisation à grande échelle des démarches de Pôle Emploi. Ce ne sont là que quelques exemples des nombreuses façons dont les systèmes de décision automatisés affectent la vie quotidienne des citoyens français. Mais à quel prix et pour quels effets ? A quoi ressemble la “société automatisée” dans laquelle nous vivons déjà ? AlgorithmWatch et Bertelsmann Stiftung sont heureux de présenter l'édition française de leur rapport "Automating Society 2020", une incursion sans précédent dans l'utilisation des systèmes automatisés dans 16 pays européens et au niveau de l'Union Européenne, et les débats politiques qui les entourent. Le 9 février 2021 à 10h00, [[https://us02web.zoom.us/webinar/register/WN_w6Hzn4ThT9aEMxaoj2wVzw][inscriptions ici]]
 - Webinaire : Comment faire l'inventaire des algorithmes publics? Etalab vous convie le 11 février prochain [[https://www.etalab.gouv.fr/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab][plus d'infos et inscriptions ici]]
--	Jeux de données, réutilisations, outils ou articles sur l’open data : [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-decembre-2020/][le suivi des sorties de décembre sur data.gouv.fr]]
+- Jeux de données, réutilisations, outils ou articles sur l’open data : [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-decembre-2020/][le suivi des sorties de décembre sur data.gouv.fr]]
 
 L'équipe du Lab IA d'Etalab
 
@@ -44,14 +44,16 @@ En 2020, [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15
 Lors des deux prochains datadrinks en ligne, les équipes projets présenteront en moins de 10 minutes leurs réalisations puis échangeront avec les participants autour de ces expérimentations : 
 
 *Jeudi 11 février de 16h à 17h* 
+
 - *Développer une solution de veille et d'exploitation d'informations pour améliorer la sécurité économique* (Direction générale des entreprises)
 - *Développer l'IA dans le contrôle de légalité dématérialisé* (Direction générale des collectivités locales)
 - *Améliorer le système de pré-plainte en ligne* (Direction générale de la gendarmerie nationale)
 
 *Jeudi 4 mars de 16h à 17h*
--	*Améliorer l'identification de l'établissement employeur dans le recensement de la population* (Institut national de la statistique et des études économiques)
--	*Développer un système d'alerte automatique pour l'aide à la surveillance des travailleurs exposés aux rayonnements ionisants* (Institut de radioprotection et de sureté nucléaire)
--	*Protéger les administrations des cyberattaques* (Agence nationale de la sécurité des systèmes d’information)
+
+- *Améliorer l'identification de l'établissement employeur dans le recensement de la population* (Institut national de la statistique et des études économiques)
+- *Développer un système d'alerte automatique pour l'aide à la surveillance des travailleurs exposés aux rayonnements ionisants* (Institut de radioprotection et de sureté nucléaire)
+- *Protéger les administrations des cyberattaques* (Agence nationale de la sécurité des systèmes d’information)
 
 /En Novembre 2020, cinq autres équipes ont partagé leurs résultats pendant le mois de l'innovation publique : ce sont les projets du CHU de Bordeaux, du Conseil d'Etat, de la DGS, ANSM et ASN, de l'INERIS et de la CRMANA. Les supports de présentation et rediffusions sont disponibles dans l'infolettre du Lab IA de novembre 2020/.
 
@@ -67,10 +69,10 @@ Les projets éligibles sont soit exploratoires, soit en phase de généralisatio
 
 - Pilotage par la donnée (tableau de bord, aide à la décision) 
 - Amélioration de la qualité des données 
--	Intelligence artificielle 
--	Automatisation des échanges de données (exposition des back-offices via API, cycle de vie des référentiels, RPA)
--	Ouverture des données (open data)
--	Archivage des données. 
+- Intelligence artificielle 
+- Automatisation des échanges de données (exposition des back-offices via API, cycle de vie des référentiels, RPA)
+- Ouverture des données (open data)
+- Archivage des données. 
 
 Ce guichet continu, /ouvert à partir du 1er février 2021/, permet de cofinancer à hauteur de 75% des projets d’un montant inférieur à 100 000 euros. Deux appels à projets sont prévus au cours de l’année 2021 pour les projets de plus de 100 000 euros. 
 
@@ -86,10 +88,10 @@ Merci à tous pour votre participation, voici un aperçu de la communauté basé
 
 /Les actions de la communauté IA/
 
--	*Plus de la moitié des participants (53%)* ont déjà participé à un datadrink organisé par le Lab IA. 
--	*96% sont plutôt ou tout à fait satisfaits des infolettres (respectivement 76% et 20%)*. Parmi les recommandations : assurer l’accès aux rediffusions des datadrinks, investir davantage sur la forme avec des lettres moins denses. 
--	*30% des participants ont besoin d’un format clinique du Lab IA*, dans lequel l’équipe du Lab IA prend quelques heures pour réfléchir ensemble à un problème data science ou IA précis. Vous pouvez nous contacter directement pour organiser ces sessions : lab-ia@data.gouv.fr
--	*43% des participants ne pensent pas ou pas du tout qu’il soit utile d’utiliser davantage le moyen de discussion Tchap* dédié aux membres de la communauté IA, 28% pensent que c’est utile, et 30% n’ont pas d’avis tranché. 
+- *Plus de la moitié des participants (53%)* ont déjà participé à un datadrink organisé par le Lab IA. 
+- *96% sont plutôt ou tout à fait satisfaits des infolettres (respectivement 76% et 20%)*. Parmi les recommandations : assurer l’accès aux rediffusions des datadrinks, investir davantage sur la forme avec des lettres moins denses. 
+- *30% des participants ont besoin d’un format clinique du Lab IA*, dans lequel l’équipe du Lab IA prend quelques heures pour réfléchir ensemble à un problème data science ou IA précis. Vous pouvez nous contacter directement pour organiser ces sessions : lab-ia@data.gouv.fr
+- *43% des participants ne pensent pas ou pas du tout qu’il soit utile d’utiliser davantage le moyen de discussion Tchap* dédié aux membres de la communauté IA, 28% pensent que c’est utile, et 30% n’ont pas d’avis tranché. 
 
 *Qu’attendez- vous de la communauté IA de l’administration ?* Parmi les attentes, de l’entraide, des astuces, de la diffusion d’informations, des guides, des retours d’expérience sur les cas d’usage dans l’administration, les projets et techniques utilisés, de l’appui, de l’animation de communauté, du partage de bonnes pratiques -réussites comme échecs-, du partage de mutualisation des marchés, du développement de briques conjointes et partage de briques déjà développées ou modèles utilisés, des infolettres régulières et datadrinks, une assistance contractuelle, une assistance technique, une veille sur la maturité des technologies et réussites d’industrialisation, une mutualisation des ressources pour davantage d’efficacité des projets, un espace d’échange. 
 
@@ -106,6 +108,5 @@ Merci à tous pour votre participation, voici un aperçu de la communauté basé
 [[https://etalab.github.io/infolettre-lab-ia/img/outils.jpg]]
 
 *Parmi les autres outils* : des bases d’entraînement, des cas d’usages et exemples reproductibles, du scoring, de la détection de signaux faibles, des outils de ciblage, de visualisation de données, la siretisation des bases de données, la géolocalisation des données siretisées ou non, des outils d’analyse de biais. 
-
 
 /L’équipe vous remercie pour votre participation./
