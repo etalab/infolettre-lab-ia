@@ -25,6 +25,10 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /A découvrir/ :
 -	Jeux de données, réutilisations, outils ou articles sur l’open data : [[https://www.data.gouv.fr/fr/posts/suivi-des-sorties-decembre-2020/][le suivi des sorties de décembre sur data.gouv.fr]]
+- Etalab publie une étude sur les pratiques de publication des codes sources dans l'enseignement supérieur et la recherche [[https://www.etalab.gouv.fr/les-pratiques-de-publication-des-codes-sources-dans-lenseignement-superieur-et-la-recherche][voir ici]]
+- Détection de la fraude fiscale à l’aide de l’intelligence artificielle, déploiement de radars permettant de repérer les conducteurs qui téléphonent au volant, automatisation à grande échelle des démarches de Pôle Emploi. Ce ne sont là que quelques exemples des nombreuses façons dont les systèmes de décision automatisés affectent la vie quotidienne des citoyens français. Mais à quel prix et pour quels effets ? A quoi ressemble la “société automatisée” dans laquelle nous vivons déjà ? AlgorithmWatch et Bertelsmann Stiftung sont heureux de présenter l'édition française de leur rapport "Automating Society 2020", une incursion sans précédent dans l'utilisation des systèmes automatisés dans 16 pays européens et au niveau de l'Union Européenne, et les débats politiques qui les entourent. Le 9 février 2021 à 10h00, [[https://us02web.zoom.us/webinar/register/WN_w6Hzn4ThT9aEMxaoj2wVzw 
+][inscriptions ici]]
+- Webinaire : Comment faire l'inventaire des algorithmes publics? Etalab vous convie le 11 février prochain [[https://www.etalab.gouv.fr/faire-linventaire-des-algorithmes-publics-point-detape-sur-les-actions-detalab][plus d'infos et inscriptions ici]]
 
 L'équipe du Lab IA d'Etalab
 
