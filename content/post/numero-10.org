@@ -86,10 +86,10 @@ Merci à tous pour votre participation, voici un aperçu de la communauté basé
 
 /Les actions de la communauté IA/
 
-•	*Plus de la moitié des participants (53%)* ont déjà participé à un datadrink organisé par le Lab IA. 
-•	*96% sont plutôt ou tout à fait satisfaits des infolettres (respectivement 76% et 20%)*. Parmi les recommandations : assurer l’accès aux rediffusions des datadrinks, investir davantage sur la forme avec des lettres moins denses. 
-•	*30% des participants ont besoin d’un format clinique du Lab IA*, dans lequel l’équipe du Lab IA prend quelques heures pour réfléchir ensemble à un problème data science ou IA précis. Vous pouvez nous contacter directement pour organiser ces sessions : lab-ia@data.gouv.fr
-•	*43% des participants ne pensent pas ou pas du tout qu’il soit utile d’utiliser davantage le moyen de discussion Tchap* dédié aux membres de la communauté IA, 28% pensent que c’est utile, et 30% n’ont pas d’avis tranché. 
+-	*Plus de la moitié des participants (53%)* ont déjà participé à un datadrink organisé par le Lab IA. 
+-	*96% sont plutôt ou tout à fait satisfaits des infolettres (respectivement 76% et 20%)*. Parmi les recommandations : assurer l’accès aux rediffusions des datadrinks, investir davantage sur la forme avec des lettres moins denses. 
+-	*30% des participants ont besoin d’un format clinique du Lab IA*, dans lequel l’équipe du Lab IA prend quelques heures pour réfléchir ensemble à un problème data science ou IA précis. Vous pouvez nous contacter directement pour organiser ces sessions : lab-ia@data.gouv.fr
+-	*43% des participants ne pensent pas ou pas du tout qu’il soit utile d’utiliser davantage le moyen de discussion Tchap* dédié aux membres de la communauté IA, 28% pensent que c’est utile, et 30% n’ont pas d’avis tranché. 
 
 *Qu’attendez- vous de la communauté IA de l’administration ?* Parmi les attentes, de l’entraide, des astuces, de la diffusion d’informations, des guides, des retours d’expérience sur les cas d’usage dans l’administration, les projets et techniques utilisés, de l’appui, de l’animation de communauté, du partage de bonnes pratiques -réussites comme échecs-, du partage de mutualisation des marchés, du développement de briques conjointes et partage de briques déjà développées ou modèles utilisés, des infolettres régulières et datadrinks, une assistance contractuelle, une assistance technique, une veille sur la maturité des technologies et réussites d’industrialisation, une mutualisation des ressources pour davantage d’efficacité des projets, un espace d’échange. 
 
