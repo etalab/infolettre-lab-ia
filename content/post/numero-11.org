@@ -71,14 +71,14 @@ Lors des deux derniers datadrinks en ligne, les équipes projets ont présenté 
 
 *[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1613054364621][Rediffusion du datadrink du jeudi 11 février]]* 
 
-- *Développer une solution de veille et d'exploitation d'informations pour améliorer la sécurité économique* (Direction générale des entreprises): [[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dge][support de présentation]]
-- *Développer l'IA dans le contrôle de légalité dématérialisé* (Direction générale des collectivités locales):[[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dgcl?slide=2][support de présentation]]
-- *Améliorer le système de pré-plainte en ligne* (Direction générale de la gendarmerie nationale):[[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dggn][support de présentation]]
+- *Développer une solution de veille et d'exploitation d'informations pour améliorer la sécurité économique* (Direction générale des entreprises):  [[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dge][support de présentation]]
+- *Développer l'IA dans le contrôle de légalité dématérialisé* (Direction générale des collectivités locales): [[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dgcl?slide=2][support de présentation]]
+- *Améliorer le système de pré-plainte en ligne* (Direction générale de la gendarmerie nationale): [[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dggn][support de présentation]]
 
 *[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1614869087212][Rediffusion du datadrink du jeudi 4 mars]]*
 
-- *Améliorer l'identification de l'établissement employeur dans le recensement de la population* (Institut national de la statistique et des études économiques):[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-insee][support de présentation]]
-- *Développer un système d'alerte automatique pour l'aide à la surveillance des travailleurs exposés aux rayonnements ionisants* (Institut de radioprotection et de sureté nucléaire):[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-irsn][support de présentation]]
-- *Protéger les administrations des cyberattaques* (Agence nationale de la sécurité des systèmes d’information):[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-anssi][support de présentation]]
+- *Améliorer l'identification de l'établissement employeur dans le recensement de la population* (Institut national de la statistique et des études économiques): [[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-insee][support de présentation]]
+- *Développer un système d'alerte automatique pour l'aide à la surveillance des travailleurs exposés aux rayonnements ionisants* (Institut de radioprotection et de sureté nucléaire): [[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-irsn][support de présentation]]
+- *Protéger les administrations des cyberattaques* (Agence nationale de la sécurité des systèmes d’information): [[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-anssi][support de présentation]]
 
 /En Novembre 2020, cinq autres équipes ont partagé leurs résultats pendant le mois de l'innovation publique : ce sont les projets du CHU de Bordeaux, du Conseil d'Etat, de la DGS, ANSM et ASN, de l'INERIS et de la CRMANA. Les supports de présentation et rediffusions sont disponibles dans l'infolettre du Lab IA de novembre 2020/.
