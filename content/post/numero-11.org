@@ -16,7 +16,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
  
 /L'administration recrute/ !
 
-- Trois postes sont à pourvoir avec la Haute Autorité de santé : [[https://www.has-sante.fr/jcms/p_3237213/fr/ingenieur-donnees-h/f-direction-generale-dir-cdd-de-36-mois[ingénieur(e) données]], [[https://www.has-sante.fr/jcms/p_3237220/fr/ingenieur-donnees-massives-en-sante-h/f-direction-generale-dir-cdd-de-36-mois[ingénieur(e) pour les données massives en santé]], et [[https://www.has-sante.fr/jcms/p_3237201/fr/data-scientist-traitement-du-langage-h/f-direction-generale-dir-cdd-de-36-mois[data scientist NLP]] 
+- Trois postes sont à pourvoir avec la Haute Autorité de santé : [[https://www.has-sante.fr/jcms/p_3237213/fr/ingenieur-donnees-h/f-direction-generale-dir-cdd-de-36-mois][ingénieur(e) données]], [[https://www.has-sante.fr/jcms/p_3237220/fr/ingenieur-donnees-massives-en-sante-h/f-direction-generale-dir-cdd-de-36-mois][ingénieur(e) pour les données massives en santé]], et [[https://www.has-sante.fr/jcms/p_3237201/fr/data-scientist-traitement-du-langage-h/f-direction-generale-dir-cdd-de-36-mois][data scientist NLP]] 
 
 /A découvrir/ :
 - L’État recherche des profils du numérique : l’appel à candidature pour [[https://www.etalab.gouv.fr/acc-eig5][la nouvelle promotion des Entrepreneurs d'Intérêt Général ]]est lancé! 
@@ -31,7 +31,7 @@ L'équipe du Lab IA d'Etalab
 
 ** Rétrospective 2020 : Lab IA, datascience et intelligence artificielle pour l’administration 
 
-[[https://etalab.github.io/infolettre-lab-ia/img/labia.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/labIA.png]]
 
 ** Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration 
 
