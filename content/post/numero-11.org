@@ -51,15 +51,15 @@ Après une année de préfiguration en 2019, le Lab IA s’est développé en 20
 2.	Développer des ressources mutualisées en intelligence artificielle au bénéfice des administrations ; 
 3.	Animer l’écosystème IA de l’administration 
 
-On vous partage nos avancées dans la [[rétrospective 2020 #1 d’Etalab ici !][https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration]]
+On vous partage nos avancées dans la rétrospective 2020 #1 d’Etalab [[ici!][https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration]]
 
 Cet article fait partie d’une série de rétrospectives d’Etalab de l’année 2020 accessibles ici :
 
-•	Rétrospective #2/6 : [[https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres][ l’accompagnement à l’ouverture des codes sources et à l’utilisation de logiciels libres]]
-•	Rétrospective #3/6 : [[https://www.etalab.gouv.fr/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques][les données publiques au service de la gestion de crise et du pilotage des politiques publiques]]
-•	Rétrospective Rét#4/6 : [[https://www.etalab.gouv.fr/les-api-au-service-de-la-simplification-des-demarches-en-ligne][les API au service de la simplification des démarches en ligne]]
-•	Rétrospective #5/6 : [[https://www.etalab.gouv.fr/eig-2020][ accompagner la transformation numérique des administrations – les défis du programme EIG en 2020]]
-•	Rétrospective #6/6 : [[https://www.etalab.gouv.fr/eig-2020][les actions d’Etalab pour un sage responsable des algorithmes publics]]
+-	Rétrospective #2/6 : [[https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres][ l’accompagnement à l’ouverture des codes sources et à l’utilisation de logiciels libres]]
+-	Rétrospective #3/6 : [[https://www.etalab.gouv.fr/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques][les données publiques au service de la gestion de crise et du pilotage des politiques publiques]]
+-	Rétrospective Rét#4/6 : [[https://www.etalab.gouv.fr/les-api-au-service-de-la-simplification-des-demarches-en-ligne][les API au service de la simplification des démarches en ligne]]
+-	Rétrospective #5/6 : [[https://www.etalab.gouv.fr/eig-2020][ accompagner la transformation numérique des administrations – les défis du programme EIG en 2020]]
+-	Rétrospective #6/6 : [[https://www.etalab.gouv.fr/eig-2020][les actions d’Etalab pour un sage responsable des algorithmes publics]]
 
 ** Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration 
 
