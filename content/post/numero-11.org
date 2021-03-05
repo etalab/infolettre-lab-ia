@@ -29,9 +29,37 @@ L'équipe du Lab IA d'Etalab
 
 [[https://etalab.github.io/infolettre-lab-ia/img/10ans.png]]
 
+RDV tout au long de l’année pour fêter les 10 ans d’Etalab : [[https://www.etalab.gouv.fr/2011-2021-rdv-tout-au-long-de-lannee-pour-feter-les-10-ans-detalab][voir le blogpost ici]]
+
+Le jeudi 4 mars, nous avons ouvert un cycle d’événements à découvrir tout au long de l’année pour fêter la donnée publique et imaginer ensemble les prochaines années, avec une première table ronde autour de *la contribution de la donnée à la transformation numérique publique*.  
+
+Au programme, une discussion avec Amélie de Montchalin, Ministre de la Transformation et de la Fonction publique, et 
+•	Sébastien Soriano, Directeur général de l’IGN
+•	Anne Duclos-Grisier, Directrice de l’information légale et administrative
+•	Eric Bothorel, Député des Côtes d’Armor
+•	Guillaume Rozier, Fondateur du CovidTracker 
+•	Laure Lucchesi, Directrice d’Etalab 
+
+L’enregistrement sera disponible sur la [[chaîne dailymotion de la DINUM][dailymotion.com/dinum]] et [[celle d’Etalab][dailymotion.com/etalab]].
+
 ** Rétrospective 2020 : Lab IA, datascience et intelligence artificielle pour l’administration 
 
 [[https://etalab.github.io/infolettre-lab-ia/img/labIA.png]]
+
+Après une année de préfiguration en 2019, le Lab IA s’est développé en 2020 autour de trois grandes missions : 
+1.	Accompagner des administrations pour expérimenter et déployer l’intelligence artificielle ;
+2.	Développer des ressources mutualisées en intelligence artificielle au bénéfice des administrations ; 
+3.	Animer l’écosystème IA de l’administration 
+
+On vous partage nos avancées dans la [[rétrospective 2020 #1 d’Etalab ici !][https://www.etalab.gouv.fr/retrospective-2020-1-6-lab-ia-datascience-et-intelligence-artificielle-pour-ladministration]]
+
+Cet article fait partie d’une série de rétrospectives d’Etalab de l’année 2020 accessibles ici :
+
+•	Rétrospective #2/6 : [[https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres][ l’accompagnement à l’ouverture des codes sources et à l’utilisation de logiciels libres]]
+•	Rétrospective #3/6 : [[https://www.etalab.gouv.fr/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques][les données publiques au service de la gestion de crise et du pilotage des politiques publiques]]
+•	Rétrospective Rét#4/6 : [[https://www.etalab.gouv.fr/les-api-au-service-de-la-simplification-des-demarches-en-ligne][les API au service de la simplification des démarches en ligne]]
+•	Rétrospective #5/6 : [[https://www.etalab.gouv.fr/eig-2020][ accompagner la transformation numérique des administrations – les défis du programme EIG en 2020]]
+•	Rétrospective #6/6 : [[https://www.etalab.gouv.fr/eig-2020][les actions d’Etalab pour un sage responsable des algorithmes publics]]
 
 ** Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration 
 
