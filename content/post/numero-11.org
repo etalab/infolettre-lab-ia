@@ -1,0 +1,56 @@
+#+title: Infolettre Lab IA n°11
+#+date: 2021-05-03
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
+
+/Ci-dessous/ : 
+
+-	*2011-2021 : RDV tout au long de l’année pour fêter les 10 ans d’Etalab* 
+-	*Rétrospective 2020 : Lab IA, datascience et intelligence artificielle pour l’administration* 
+-	*Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration* 
+ 
+/L'administration recrute/ !
+
+- Trois postes sont à pourvoir avec la Haute Autorité de santé : [[https://www.has-sante.fr/jcms/p_3237213/fr/ingenieur-donnees-h/f-direction-generale-dir-cdd-de-36-mois[ingénieur(e) données]], [[https://www.has-sante.fr/jcms/p_3237220/fr/ingenieur-donnees-massives-en-sante-h/f-direction-generale-dir-cdd-de-36-mois[ingénieur(e) pour les données massives en santé]], et [[https://www.has-sante.fr/jcms/p_3237201/fr/data-scientist-traitement-du-langage-h/f-direction-generale-dir-cdd-de-36-mois[data scientist NLP]] 
+
+/A découvrir/ :
+- L’État recherche des profils du numérique : l’appel à candidature pour [[https://www.etalab.gouv.fr/acc-eig5][la nouvelle promotion des Entrepreneurs d'Intérêt Général ]]est lancé! 
+
+L'équipe du Lab IA d'Etalab
+
+[[https://etalab.github.io/infolettre-lab-ia/numero-10/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
+
+** 2011-2021 : RDV tout au long de l’année pour fêter les 10 ans d’Etalab
+
+[[https://etalab.github.io/infolettre-lab-ia/img/10ans.png]]
+
+** Rétrospective 2020 : Lab IA, datascience et intelligence artificielle pour l’administration 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/labia.png]]
+
+** Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration 
+
+[[https://etalab.github.io/infolettre-lab-ia/img/amiia2.png]]
+
+En 2020, [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][15 projets ont bénéficié de l'accompagnement]] de la DINUM et de la DITP, afin de développer un prototype fonctionnel d'intelligence artificielle et d'évaluer les impacts métiers associés à l'utilisation de l'IA. 
+
+Lors des deux derniers datadrinks en ligne, les équipes projets ont présenté en moins de 10 minutes leurs réalisations. Voici les supports de présentation et liens de rediffusion :
+
+*[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1613054364621][Rediffusion du datadrink du jeudi 11 février]]* 
+
+- *Développer une solution de veille et d'exploitation d'informations pour améliorer la sécurité économique* (Direction générale des entreprises)[[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dge][support de présentation]]
+- *Développer l'IA dans le contrôle de légalité dématérialisé* (Direction générale des collectivités locales)[[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dgcl?slide=2][support de présentation]]
+- *Améliorer le système de pré-plainte en ligne* (Direction générale de la gendarmerie nationale)[[https://speakerdeck.com/etalabia/20210211-datadrink-ami-ia-dggn][support de présentation]]
+
+*[[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1614869087212][Rediffusion du datadrink du jeudi 4 mars]]*
+
+- *Améliorer l'identification de l'établissement employeur dans le recensement de la population* (Institut national de la statistique et des études économiques)[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-insee][support de présentation]]
+- *Développer un système d'alerte automatique pour l'aide à la surveillance des travailleurs exposés aux rayonnements ionisants* (Institut de radioprotection et de sureté nucléaire)[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-irsn][support de présentation]]
+- *Protéger les administrations des cyberattaques* (Agence nationale de la sécurité des systèmes d’information)[[https://speakerdeck.com/etalabia/20210304-datadrink-ami-ia-anssi][support de présentation]]
+
+/En Novembre 2020, cinq autres équipes ont partagé leurs résultats pendant le mois de l'innovation publique : ce sont les projets du CHU de Bordeaux, du Conseil d'Etat, de la DGS, ANSM et ASN, de l'INERIS et de la CRMANA. Les supports de présentation et rediffusions sont disponibles dans l'infolettre du Lab IA de novembre 2020/.
