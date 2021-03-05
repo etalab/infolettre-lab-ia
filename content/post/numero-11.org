@@ -19,7 +19,8 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Trois postes sont à pourvoir avec la Haute Autorité de santé : [[https://www.has-sante.fr/jcms/p_3237213/fr/ingenieur-donnees-h/f-direction-generale-dir-cdd-de-36-mois][ingénieur(e) données]], [[https://www.has-sante.fr/jcms/p_3237220/fr/ingenieur-donnees-massives-en-sante-h/f-direction-generale-dir-cdd-de-36-mois][ingénieur(e) pour les données massives en santé]], et [[https://www.has-sante.fr/jcms/p_3237201/fr/data-scientist-traitement-du-langage-h/f-direction-generale-dir-cdd-de-36-mois][data scientist NLP]] 
 
 /A découvrir/ :
-- L’État recherche des profils du numérique : l’appel à candidature pour [[https://www.etalab.gouv.fr/acc-eig5][la nouvelle promotion des Entrepreneurs d'Intérêt Général ]]est lancé! 
+- L'article sur les lauréats du premier appel à projets "Utilisation de la donnée dans votre administration" vient d'être publié [[https://numerique.gouv.fr/actualites/france-relance-volet-developper-utilisation-de-la-donnee-dans-votre-administration-finance-18-projets/][ici]]
+- L’État recherche des profils du numérique : l’appel à candidature pour [[https://www.etalab.gouv.fr/acc-eig5][la nouvelle promotion des Entrepreneurs d'Intérêt Général]] est lancé! 
 
 L'équipe du Lab IA d'Etalab
 
@@ -40,7 +41,7 @@ Au programme, une discussion avec Amélie de Montchalin, Ministre de la Transfor
 •	Guillaume Rozier, Fondateur du CovidTracker 
 •	Laure Lucchesi, Directrice d’Etalab 
 
-L’enregistrement sera disponible sur la [[https://www.dailymotion.com/dinum][chaîne dailymotion de la DINUM]] et [[https://www.dailymotion.com/etalab][celle d’Etalab]].
+L’enregistrement sera disponible sur la [[https://www.dailymotion.com/dinum[[chaîne dailymotion de la DINUM]] et [[https://www.dailymotion.com/etalab][celle d’Etalab]]. Plus d'infos à venir sur [[https://twitter.com/Etalable][compte Twitter d'Etalab]].
 
 ** Rétrospective 2020 : Lab IA, datascience et intelligence artificielle pour l’administration 
 
