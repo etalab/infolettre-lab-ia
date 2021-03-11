@@ -58,11 +58,11 @@ On vous partage nos avancées dans la rétrospective 2020 #1 d’Etalab [[https:
 
 Cet article fait partie d’une série de rétrospectives d’Etalab de l’année 2020 accessibles ici :
 
-- #2/6 :: [[https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres][ l’accompagnement à l’ouverture des codes sources et à l’utilisation de logiciels libres]]
-- #3/6 :: [[https://www.etalab.gouv.fr/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques][les données publiques au service de la gestion de crise et du pilotage des politiques publiques]]
-- #4/6 :: [[https://www.etalab.gouv.fr/les-api-au-service-de-la-simplification-des-demarches-en-ligne][les API au service de la simplification des démarches en ligne]]
-- #5/6 :: [[https://www.etalab.gouv.fr/eig-2020][ accompagner la transformation numérique des administrations – les défis du programme EIG en 2020]]
-- #6/6 :: [[https://www.etalab.gouv.fr/eig-2020][les actions d’Etalab pour un sage responsable des algorithmes publics]]
+- #2/6 : [[https://www.etalab.gouv.fr/retrospective-2020-2-6-laccompagnement-a-louverture-des-codes-sources-et-lutilisation-de-logiciels-libres][l’accompagnement à l’ouverture des codes sources et à l’utilisation de logiciels libres]]
+- #3/6 : [[https://www.etalab.gouv.fr/les-donnees-publiques-au-service-de-la-gestion-de-crise-et-du-pilotage-des-politiques-publiques][les données publiques au service de la gestion de crise et du pilotage des politiques publiques]]
+- #4/6 : [[https://www.etalab.gouv.fr/les-api-au-service-de-la-simplification-des-demarches-en-ligne][les API au service de la simplification des démarches en ligne]]
+- #5/6 : [[https://www.etalab.gouv.fr/eig-2020][accompagner la transformation numérique des administrations – les défis du programme EIG en 2020]]
+- #6/6 : [[https://www.etalab.gouv.fr/eig-2020][les actions d’Etalab pour un sage responsable des algorithmes publics]]
 
 ** Rediffusion : Datadrinks et restitution des projets d’IA dans l’administration 
 
