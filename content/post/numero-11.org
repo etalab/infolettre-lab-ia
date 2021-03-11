@@ -24,7 +24,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 L'équipe du Lab IA d'Etalab
 
-[[https://etalab.github.io/infolettre-lab-ia/numero-10/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
+[[https://etalab.github.io/infolettre-lab-ia/numero-11/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
 ** 2011-2021 : RDV tout au long de l’année pour fêter les 10 ans d’Etalab
 
