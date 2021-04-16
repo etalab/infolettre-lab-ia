@@ -28,7 +28,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 L'équipe du Lab IA d'Etalab
 
-[[https://etalab.github.io/infolettre-lab-ia/numero-11/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
+[[https://etalab.github.io/infolettre-lab-ia/numero-12/][Afficher la version en ligne]] / [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][S'inscrire à l'infolettre du Lab IA]] / [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][Se désinscrire]] 
 
 ** Au programme du prochain datadrink en ligne - 28 avril 16h30-17h30
 
@@ -48,7 +48,7 @@ Inscrivez-vous [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-
 
 Après l'outil de pseudonymisation, puis PIAF, le Lab IA lance cette année un *nouvel outil mutualisé*, dont l'objectif est de permettre de numériser (ou plus précisément d'/OCRiser/) des documents administratifs et d'en extraire des informations. N'hésitez pas à nous écrire (lab-ia@data.gouv.fr) pour nous faire part de vos besoins à ce sujet.
 
-Les administrations ont en effet régulièrement besoin d’exploiter en masse des documents administratifs sous des formats non directement utilisables (PDF scannés, images, etc…). L’information contenue dans ces documents, pour être exploitée, doit passer par des étapes de *reconnaissance optique de caractère (/OCR/)*, d'*extraction* et de *structuration*, qui sont vite très chronophages si elles doivent être réalisées à la main. Pour cela, nous envisageons de créer un outil qui permette de traiter en masse des documents (ex : des bulletins de salaires), en fournissant en sortie un jeu de données structurées (avec par exemple pour colonnes Nom, Prénom, Rémunération, etc…).
+Les administrations ont en effet régulièrement besoin d’exploiter en masse des documents administratifs sous des formats non directement utilisables (PDF scannés, images, etc…). L’information contenue dans ces documents, pour être exploitée, doit passer par des étapes de *reconnaissance optique de caractère (OCR)*, d'*extraction* et de *structuration*, qui sont vite très chronophages si elles doivent être réalisées à la main. Pour cela, nous envisageons de créer un outil qui permette de traiter en masse des documents (ex : des bulletins de salaires), en fournissant en sortie un jeu de données structurées (avec par exemple pour colonnes Nom, Prénom, Rémunération, etc…).
 
 
 ** Exploiter les jeux de données ouverts avec le machine learning
