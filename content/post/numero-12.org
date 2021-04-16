@@ -11,7 +11,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 /Ci-dessous/ : 
 
 - *Programme du prochain datadrink du 28 avril*
-- *Le Lab IA lance un nouvel outil mutualisé*
+- *Le Lab IA investigue un nouvel outil mutualisé*
 - *Exploiter les jeux de données ouverts avec le machine learning*
  
 /L'administration recrute/ !
@@ -43,10 +43,9 @@ Inscrivez-vous [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-
 - Simon Lebastard et Vincent Viers (*startup d'Etat Signaux Faibles*) : outil d’analyse prédictive des difficultés des entreprises
 
 
+** Le Lab IA investigue un nouvel outil mutualisé
 
-** Le Lab IA lance un nouvel outil mutualisé
-
-Après l'outil de pseudonymisation, puis PIAF, le Lab IA lance cette année un *nouvel outil mutualisé*, dont l'objectif est de permettre de numériser (ou plus précisément d'OCRiser) des documents administratifs et d'en extraire des informations. N'hésitez pas à nous écrire ([[lab-ia@data.gouv.fr]]) pour nous faire part de vos besoins à ce sujet.
+Après l'outil de pseudonymisation, puis PIAF, le Lab IA lance cette année en investigation un *nouvel outil mutualisé*, dont l'objectif est de permettre de numériser (ou plus précisément d'OCRiser) des documents administratifs et d'en extraire des informations. N'hésitez pas à nous écrire ([[lab-ia@data.gouv.fr]]) pour nous faire part de vos besoins à ce sujet.
 
 Les administrations ont en effet régulièrement besoin d’exploiter en masse des documents administratifs sous des formats non directement utilisables (PDF scannés, images, etc…). L’information contenue dans ces documents, pour être exploitée, doit passer par des étapes de *reconnaissance optique de caractère (OCR)*, d'*extraction* et de *structuration*, qui sont vite très chronophages si elles doivent être réalisées à la main. Pour cela, nous envisageons de créer un outil qui permette de traiter en masse des documents (ex : des bulletins de salaires), en fournissant en sortie un jeu de données structurées (avec par exemple pour colonnes Nom, Prénom, Rémunération, etc…).
 
@@ -54,18 +53,21 @@ Les administrations ont en effet régulièrement besoin d’exploiter en masse d
 ** Exploiter les jeux de données ouverts avec le machine learning
 
 
-De nombreux jeux de données sont disponibles sur data.gouv.fr et leur utilisation pour des application de machine learning est sous-exploitée. Il n'est en effet pas toujours évident de déterminer si ces jeux de données sont adaptés à des algorithmes d'apprentissage automatiques. S'ils le sont, se pose la question des performances atteignables pour la tâche à entraîner.
+De nombreux jeux de données sont disponibles sur data‧gouv.fr et leur utilisation pour des application de machine learning est sous-exploitée. Il n'est en effet pas toujours évident de déterminer si ces jeux de données sont adaptés à des algorithmes d'apprentissage automatiques. S'ils le sont, se pose la question des performances atteignables pour la tâche à entraîner.
 
-Pour vous aider à répondre à ces questions, nous vous proposons une première version d'un *Inventaire de jeux de données de data.gouv.fr pour le Machine Learning*, que vous pouvez consulter [[https://pad.incubateur.net/s/PnYaKNDJb][ici]].
+Pour vous aider à répondre à ces questions, nous vous proposons une première version d'un *Inventaire de jeux de données de data‧gouv.fr pour le Machine Learning*, que vous pouvez consulter [[https://pad.incubateur.net/s/PnYaKNDJb][ici]].
 
 Vous y trouverez :
-- une liste des datasets que nous avons identifié comme étant exploitables par des algorithmes de Machine Learning, regroupés par tâche (régression, classification, séries temporelles).
+- une liste des datasets que nous avons identifiés comme étant exploitables par des algorithmes de machine learning, regroupés par tâche (régression, classification, séries temporelles).
 - un *profiling statistique* de chaque dataset, qui vous permettra de voir en un clin d’oeil “à quoi ressemble” le dataset (nombre et caractéristiques de ses variables etc.) et d’avoir un résumé de ses statistiques descriptives.
-- les résultats de l’entraînement et du test automatique d’*algorithmes* classiques de *Machine Learning* sur ces données.
+- les résultats de l’entraînement et du test automatique d’*algorithmes* classiques de *machine learning* sur ces données.
 
 Ce catalogue est actuellement en cours de construction.
 
-Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data.gouv.fr]] (l'inscription à l'infolettre de data.gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]]).
+Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data‧gouv.fr]] (l'inscription à l'infolettre de data‧gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]]).
 
 Un site web est en cours de réalisation, il permettra de filtrer les jeux de données selon différents critères et proposera des exemples de réutilisations et le code source associé.
+
+
+
 
