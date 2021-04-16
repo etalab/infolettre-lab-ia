@@ -32,15 +32,15 @@ L'équipe du Lab IA d'Etalab
 
 ** Au programme du prochain datadrink en ligne - 28 avril 16h30-17h30
 
-[[https://etalab.github.io/infolettre-lab-ia/img/datadrink - 28042021.png]]
+[[https://etalab.github.io/infolettre-lab-ia/img/datadrink28042021.png]]
 
 Inscrivez-vous [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-150773530689][ici]].
 
-- Julian Le Deunf (Service Hydrographique et Océanographique de la Marine) : améliorer la production des données de cartographie sous-marine en apprenant des corrections apportées par les agents pour automatiser une partie du processus
+- Julian Le Deunf (*Service Hydrographique et Océanographique de la Marine*) : améliorer la production des données de cartographie sous-marine en apprenant des corrections apportées par les agents pour automatiser une partie du processus
 
-- Frédéric Comte et Marc Hufschmitt (SSP Datalab de l'INSEE ) : améliorer la statistique publique à l’aide de nouvelles techniques et outils de traitement de données
+- Frédéric Comte et Marc Hufschmitt (*SSP Datalab de l'INSEE* ) : améliorer la statistique publique à l’aide de nouvelles techniques et outils de traitement de données
 
-- Simon Lebastard et Vincent Viers (startup d'Etat Signaux Faibles) : outil d’analyse prédictive des difficultés des entreprises
+- Simon Lebastard et Vincent Viers (*startup d'Etat Signaux Faibles*) : outil d’analyse prédictive des difficultés des entreprises
 
 
 
