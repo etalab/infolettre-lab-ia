@@ -15,7 +15,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - *Exploiter les jeux de données ouverts avec le machine learning*
  
 /L'administration recrute/ !
-- [[][]]
+- Le pôle PEREN recherche un data scientist, consulez l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=580302&idOrigine=502&LCID=1036&offerReference=MEF_2021-3837][ici]]. 
 - [[][]]
 
 /Evenements à venir/ :
@@ -68,6 +68,6 @@ Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers
 
 Un site web est en cours de réalisation, il permettra de filtrer les jeux de données selon différents critères et proposera des exemples de réutilisations et le code source associé.
 
-
+Si vous avez des événements, des offres d'emploi ou des projets que vous souhaitez partager avec la communauté IA de l'administration, n'hésitez pas à nous écrire : [[lab-ia@data.gouv.fr]]. 
 
 
