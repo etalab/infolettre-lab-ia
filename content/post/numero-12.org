@@ -23,7 +23,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Prochain RDV des 10 ans Etalab: rétrofutur. Inscription [[https://app.livestorm.co/dinum-12/retrofutur-10ans-opendata?type=detailed][ici]]
 
 /A découvrir/ :
-- Un second appel à projets du volet [[(https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot]["Utilisation de la donnée dans votre administration" (ITN5)]] de France Relance permet de financer des projets sera ouvert du 21 avril au 21 mai 2021 pour des projets de plus de 100 000 euros. Un guichet est actuellement ouvert pour cofinancer les projets de moins de 100 000 euros. Vous pouvez consulter [[https://numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/][ici]] la liste des projets lauréats du premier appel à projets.
+- Un second appel à projets du volet [[(https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot]["Utilisation de la donnée dans votre administration" (ITN5)]] de France Relance permet de financer des projets sera ouvert du 21 avril au 21 mai 2021 pour des projets de plus de 100 000 euros. Un guichet est actuellement ouvert pour cofinancer les projets de moins de 100 000 euros. Vous pouvez consulter [[https://numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/][ici]] pour connaître la liste des projets lauréats du premier appel à projets.
 
 
 L'équipe du Lab IA d'Etalab
@@ -51,7 +51,7 @@ Après l'outil de pseudonymisation, puis PIAF, le Lab IA lance cette année un n
 Les administrations ont en effet régulièrement besoin d’exploiter en masse des documents administratifs sous des formats non directement utilisables (PDF scannés, images, etc…). L’information contenue dans ces documents, pour être exploitée, doit passer par des étapes de reconnaissance optique de caractère (OCR), d'extraction et de structuration, qui sont vite très chronophages si elles doivent être réalisées à la main. Pour cela, nous envisageons de créer un outil qui permette de traiter en masse des documents (ex : des bulletins de salaires), en fournissant en sortie un jeu de données structurées (avec par exemple pour colonnes Nom, Prénom, Rémunération, etc…).
 
 
-## Exploiter les jeux de données ouverts avec le machine learning
+** Exploiter les jeux de données ouverts avec le machine learning
 
 
 De nombreux jeux de données sont disponibles sur data.gouv.fr et leur utilisation pour des application de machine learning est sous-exploitée. Il n'est en effet pas toujours évident de déterminer si ces jeux de données sont adaptés à des algorithmes d'apprentissage automatiques. S'ils le sont, se pose la question des performances atteignables pour la tâche à entraîner.
