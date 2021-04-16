@@ -12,7 +12,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 - *Programme du prochain datadrink du 28 avril*
 - *Le Lab IA lance un nouvel outil mutualisé*
-- *Exploiter les jeux de données ouverts avec le machine learning *
+- *Exploiter les jeux de données ouverts avec le machine learning*
  
 /L'administration recrute/ !
 - [[][]]
