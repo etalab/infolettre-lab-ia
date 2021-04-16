@@ -65,7 +65,7 @@ Vous y trouverez :
 
 Ce catalogue est actuellement en cours de construction.
 
-Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data.gouv.fr]] (l'inscription à l'infolettre de data.gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]].
+Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data.gouv.fr]] (l'inscription à l'infolettre de data.gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]]).
 
 Un site web est en cours de réalisation, il permettra de filtrer les jeux de données selon différents critères et proposera des exemples de réutilisations et le code source associé.
 
