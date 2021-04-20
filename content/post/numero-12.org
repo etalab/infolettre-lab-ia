@@ -13,7 +13,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - *Programme du prochain datadrink du 28 avril*
 - *Le Lab IA investigue un nouvel outil mutualisé*
 - *Exploiter les jeux de données ouverts avec le machine learning*
-- *Hackaton Covid le 23 et 24 avril*
+- *« Hackathon Covid » : rejoignez les 23 et 24 avril 2021 l’ensemble des acteurs engagés dans la lutte contre la pandémie !*
  
 /L'administration recrute/ !
 - Le pôle PEREN recherche un data scientist, consulez l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=580302&idOrigine=502&LCID=1036&offerReference=MEF_2021-3837][ici]]. 
