@@ -21,6 +21,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 /Evenements à venir/ :
 - Datadrink le 28 avril 16h30-17h30 : inscription [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-150773530689][ici]]
 - Prochain RDV des 10 ans Etalab: rétrofutur. Inscription [[https://app.livestorm.co/dinum-12/retrofutur-10ans-opendata?type=detailed][ici]]
+- Etalab et le Lab IA interviennent à la prochaine [[https://csvconf.com/speakers/][csv conf]] pour présenter l'outil CSV detective le 4 mai à 16h et pour parler des travaux sur "Machine learning with Open Data" le 5 mai à 17h20.
 
 /A découvrir/ :
 - Un second appel à projets du volet [[https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot]["Utilisation de la donnée dans votre administration" (ITN5)]] de France Relance permet de financer des projets sera ouvert du 21 avril au 21 mai 2021 pour des projets de plus de 100 000 euros. Un guichet est actuellement ouvert pour cofinancer les projets de moins de 100 000 euros. Vous pouvez consulter [[https://numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/][ici]] la liste des projets lauréats du premier appel à projets.
@@ -64,7 +65,7 @@ Vous y trouverez :
 
 Ce catalogue est actuellement en cours de construction.
 
-Le catalogue sera présenté lors de la  du 6 mai [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data‧gouv.fr]] (l'inscription à l'infolettre de data‧gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]]).
+Le catalogue sera présenté lors de la  du 5 mai à 17h20 [[https://csvconf.com/speakers/][csv conf]] et le 17 mai dans le cadre du mois de la réutilisation de la donnée du [[https://www.data.gouv.fr/fr/posts/lancement-du-10e-printemps-de-data-gouv-fr/][Printemps de data‧gouv.fr]] (l'inscription à l'infolettre de data‧gouv.fr se fait par [[https://infolettres.etalab.gouv.fr/subscribe/rn7y93le1][ici]]).
 
 Un site web est en cours de réalisation, il permettra de filtrer les jeux de données selon différents critères et proposera des exemples de réutilisations et le code source associé.
 
