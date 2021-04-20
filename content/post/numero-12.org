@@ -89,11 +89,11 @@ Quatre défis sont prévus pour lesquels vous pouvez contribuer et proposer tout
 - Mesurer les *risques* et favoriser les *comportements vertueux*.
  
 Tous les profils sont les bienvenus :
-- *spécialistes* de la donnée (data analyst, data scientist, etc.),
-- *développeurs* dont les compétences en programmation permettront de donner vie au projet de leur équipe,
-- *designers* et autres *concepteurs d’usage*, capables de penser l’intégration de solutions dans le quotidien des utilisateurs,
-- *chercheurs* capables de mobiliser un savoir scientifique au profit d’un projet,
-- *citoyens* souhaitant faire part de leurs besoins de solutions en s’engageant activement dans une équipe
+- *Spécialistes* de la donnée (data analyst, data scientist, etc.),
+- *Développeurs* dont les compétences en programmation permettront de donner vie au projet de leur équipe,
+- *Designers* et autres *concepteurs d’usage*, capables de penser l’intégration de solutions dans le quotidien des utilisateurs,
+- *Chercheurs* capables de mobiliser un savoir scientifique au profit d’un projet,
+- *Citoyens* souhaitant faire part de leurs besoins de solutions en s’engageant activement dans une équipe
 
 
 ** Ecrivez-nous 
