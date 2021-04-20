@@ -76,17 +76,17 @@ Un site web est en cours de réalisation, il permettra de filtrer les jeux de do
 
 Administrations, institutions et acteurs de la société civile se réuniront le 23 et 24 avril prochain pour un marathon de 48H de conception et de développement, animé par la Direction Interministérielle de la Transformation Publique avec le soutien du Ministère des solidarités et de la santé, dans le cadre de la préparation du 3ème plan d’action *“gouvernement ouvert”* de la France. *Objectif : créer les outils et les solutions pour lutter contre la pandémie.*
  
-Ce hackathon se déroulera dans deux salles d’un même espace virtuel. La salle plénière accueillera une série d’interventions sur les différents usages des données COVID-19 et les enjeux liés. Ces interventions seront retransmises en direct et accessibles à tous. La salle de travail, accessible sur inscription,  est ouverte à tous ceux qui, détenteurs d’une idée, d’une compétence, d’un savoir-faire ou d’une curiosité pour les data, souhaitent créer des solutions communes de lutte contre la pandémie.
+Ce hackathon se déroulera dans deux salles d’un même espace virtuel. La *salle plénière* accueillera une série d’interventions sur *les différents usages des données COVID-19 et les enjeux liés*. Ces interventions seront retransmises en direct et accessibles à tous. La *salle de travail*, accessible sur inscription,  est ouverte à tous ceux qui, détenteurs d’une idée, d’une compétence, d’un savoir-faire ou d’une curiosité pour les data, souhaitent *créer des solutions communes de lutte contre la pandémie*.
 
 Pour en savoir plus sur l’événement :  [[https://hackathon-covid.fr/][https://hackathon-covid.fr/]]
  
 Un évènement animé par la DITP avec le soutien du Ministère des solidarités et de la santé, et la participation de Datactivist, d’Adios Corona, Bayes Impact, C Ways, Collectif CoData, CovidTracker, CRI, Data For Good, la DINUM, Du Côté de la Sciences, Etalab, Health Data Hub, Just One Giant Lab, Latitudes, Liberté Living Lab et Modcov19.
  
 Quatre défis sont prévus pour lesquels vous pouvez contribuer et proposer toutes vos idées :
-- Mieux accompagner les victimes de la Covid à court et long terme,
-- Fluidifier la campagne de vaccination,
-- Suivre différemment l’évolution de la pandémie,
-- Mesurer les risques et favoriser les comportements vertueux.
+- Mieux *accompagner les victimes* de la Covid à court et long terme,
+- Fluidifier la *campagne de vaccination*,
+- Suivre différemment l’*évolution de la pandémie*,
+- Mesurer les *risques* et favoriser les *comportements vertueux*.
  
 Tous les profils sont les bienvenus :
 - *spécialistes* de la donnée (data analyst, data scientist, etc.),
