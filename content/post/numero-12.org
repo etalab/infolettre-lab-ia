@@ -18,8 +18,8 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 /L'administration recrute/ !
 - Le pôle PEREN recherche un data scientist, consulez l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=580302&idOrigine=502&LCID=1036&offerReference=MEF_2021-3837][ici]]. 
 - Après une étape de test auprès de plusieurs administrations, le projet [[https://piaf.etalab.studio/][PIAF]] entre dans une phase d'expansion et recrute afin d'industrialiser les briques dévelopées (automatisation des process, passage à l'échelle...). Les deux profils (en freelance) souhaités sont :
-- *Dev fullstack senior* avec une appétence infra => Python, VueJS, Docker et Elasticsearch
-- *Data-Scientist* sachant aussi développer => Python, NLP en particulier les Sentence Embeddings & Question-Answering (type BERT models)
+   - *Dev fullstack senior* avec une appétence infra => Python, VueJS, Docker et Elasticsearch
+   - *Data-Scientist* sachant aussi développer => Python, NLP en particulier les Sentence Embeddings & Question-Answering (type BERT models)
 Contacter l'équipe piaf pour en savoir plus : [[piaf@data.gouv.fr]]
 
 /Evenements à venir/ :
