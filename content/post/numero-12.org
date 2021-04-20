@@ -96,6 +96,8 @@ Tous les profils sont les bienvenus :
 - *citoyens* souhaitant faire part de leurs besoins de solutions en s’engageant activement dans une équipe
 
 
+** Ecrivez-nous 
+
 Si vous avez des événements, des offres d'emploi ou des projets que vous souhaitez partager avec la communauté IA de l'administration, n'hésitez pas à nous écrire : [[lab-ia@data.gouv.fr]]. 
 
 
