@@ -15,7 +15,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - *Appel aux administrations pour proposer à des étudiants polytechniciens des projets en sciences des données*
  
 
-## Prochains événements: 
+/Prochains événements/ : 
 
 - Le prochain datadrink aura lieu le 1er juillet de 16h30 à 17h30 (inscription [ici](https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-159392187323 ) 
     - Aurélia Rostaing (Archives Nationales) et Alix Chague (INRIA) : Lectaurep, un projet de reconnaissance d'écriture manuscrite sur les répertoires de notaires. 
@@ -25,26 +25,26 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Algorithmes publics & design spéculatif : restitution des travaux d'Etalab et de Design Friction : Inscription [[https://app.livestorm.co/dinum-12/algorithmes-publics-and-design-speculatif-restitution-des-travaux-detalab-et-de-design-friction?type=detailed][ici]].
 
 
-## Offres d'emploi 
+/L'administration recrute!/ : 
 
 - Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=635272&idOrigine=502&LCID=1036&offerReference=2021-635272][ici]] 
 - Etalab recrute une développeuse ou un développeur front. Voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]] 
 - Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité. Voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]
 
 
-## A consulter
+/A consulter/ :
 - [[https://blog.beta.gouv.fr/general/2021/06/10/data-science-a-beta-3-questions-a-se-poser-avant-de-se-lancer/][Article]] de Vincent Viers, data scientist transverse à Beta.gouv, sur la data science dans les serivces publics. 
 - Un mooc sur le machine learning avec scikit-learn en Python : [[https://www.inria.fr/en/mooc-scikit-learn][inscription]] et [[https://inria.github.io/scikit-learn-mooc/][site du mooc]]
 - Pour les amateurs de R, un ensemble de ressources pour la data science dans le domaine de la santé publique: [[https://rviews.rstudio.com/2021/06/02/r-for-public-health][R for public health]]
 
 
-### Site internet du Lab IA
+** Site internet du Lab IA
 
 Le Lab IA vient de publier [[https://www.etalab.gouv.fr/lab-ia][son site]] sur le blog d'Etalab. Vous y trouverez une présentation générale de nos missions, de l'équipe, des projets accompagnés, des outils mutualisés et de la communauté. 
 
 N'hésitez pas à partager autour de vous. 
 
-### Appel à projets étudiants 
+** Appel à projets étudiants 
 
 Le LabIA compte proposer à des étudiants polytechniciens des projets en sciences des données issus des problématiques de l'administration française. Les étudiants sont en dernière années d'étude et ce projet compte pour la validation de leur année. Ils travailleront sur le sujet à partir du 15 septembre 2021 pendant 6 mois à raison de 1 jour par semaine, encadrés par des enseignants chercheurs de l'Inria et de l'Ecole polytechnique. 
 
