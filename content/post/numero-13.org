@@ -50,26 +50,26 @@ Le LabIA compte proposer à des étudiants polytechniciens des projets en scienc
 
 Les projets permettent par exemple de :
 
-* Réaliser une étude bibliographique pour un certain type de problème susceptible d'être résolu avec des techniques IA,
-* Expérimenter avec des données réelles et des méthodes existantes, en identifier les forces et les faiblesses,
-* Proposer des extensions ou des optimisations permettant d'améliorer les résultats.
+- Réaliser une étude bibliographique pour un certain type de problème susceptible d'être résolu avec des techniques IA,
+- Expérimenter avec des données réelles et des méthodes existantes, en identifier les forces et les faiblesses,
+- Proposer des extensions ou des optimisations permettant d'améliorer les résultats.
 Par le passé, ces projets réalisés par des étudiants brillants et motivés ont conduit à des résultats intéressants et exploitables. 
 
 Cette année, nous pouvons proposer jusqu'à 9 projets étudiants. Nous faisons donc appel à vous : si vous avez des sujets que vous aimeriez approfondir ou explorer et qui pourraient intéresser ces étudiants, n'hésitez pas à nous en faire part avant le 20 Juin. 
 
 Les chercheurs encadrants potentiels sont spécialisés dans :
 
-* le traitement automatique du langage,
-* la génération de graphes de connaissances à partir de données non structurées (des textes par exemple) et/ou hétérogènes (pdf, documents excel, html ...)
-* et l'interrogation et l'exploitation de graphes de données.
+- le traitement automatique du langage,
+- la génération de graphes de connaissances à partir de données non structurées (des textes par exemple) et/ou hétérogènes (pdf, documents excel, html ...)
+- et l'interrogation et l'exploitation de graphes de données.
 Les applications sont multiples, dans le fact checking, la détection de liens entre entités (voir l'outil ConnectionLens), la détection d'utilisateurs malveillants (trolls) ... 
 
 Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https://team.inria.fr/cedar/][https://team.inria.fr/cedar/]] ou les profils des enseignants chercheurs qui encadreront le projet : 
 
-* [[https://acanadiotis.github.io/home/][Angelos Anadiotis]]
-* [[https://oanabalalau.com/][Oana Balalau]]
-* [[https://sites.google.com/site/davidebuscaldi][Davide Buscaldi]]
-* [[https://pages.saclay.inria.fr/ioana.manolescu/][Ioana Manolescu]]
+- [[https://acanadiotis.github.io/home/][Angelos Anadiotis]]
+- [[https://oanabalalau.com/][Oana Balalau]]
+- [[https://sites.google.com/site/davidebuscaldi][Davide Buscaldi]]
+- [[https://pages.saclay.inria.fr/ioana.manolescu/][Ioana Manolescu]]
 
 ** Rediffusion des 2 précédents datadrinks 
 
