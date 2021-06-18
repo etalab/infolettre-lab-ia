@@ -76,7 +76,7 @@ Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https:
 Vous pouvez retrouver l'ensemble des liens de rediffision de nos datadrink en ligne sur la page [[https://www.etalab.gouv.fr/communaute][communauté du Lab IA]]. 
 
 
-Vous pouvez (re)-visionner [ici](https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1622125252813 ) l'édition du 27 mai 2021. 
+Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1622125252813][ici]] l'édition du 27 mai 2021. 
  
 Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210527-datadrink-apideces-minint][API décès, ministère de l’Intérieur]], [[https://speakerdeck.com/etalabia/20210527-datadrink-courdecassation][le Défi EIG Label, Cour de Cassation]], 
 [[https://speakerdeck.com/etalabia/20210527-datadrink-dgml-labia][Marchine learning et données ouvertes, Lab IA d’Etalab]]
