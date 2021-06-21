@@ -80,7 +80,7 @@ Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/
 [[https://speakerdeck.com/etalabia/20210527-datadrink-dgml-labia][Marchine learning et données ouvertes (Lab IA d’Etalab)]]
 
 
-Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1619619366410][ici]] l'édition du 28 avril 2021. Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210428-datadrink-shom][projet AMI IA du 
+Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1619619366410][ici]] l'édition du 28 avril 2021. Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210428-datadrink-shom][projet TRAITLIA du 
 SHOM]], [[https://speakerdeck.com/etalabia/20210428-datadrink-sspdatalab-insee][défi EIG du SSP Datalab]] et [[https://speakerdeck.com/etalabia/20210428-datadrink-signaux-faibles][Signaux Faibles]].
  
 N’hésitez pas à nous écrire (lab-ia@data.gouv.fr) si vous souhaitez présenter un projet lors d’un prochain datadrink.
