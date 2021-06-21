@@ -17,7 +17,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Prochains événements/ : 
 
-- Le prochain datadrink aura lieu le 1er juillet de 16h30 à 17h30 (inscription [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-159392187323][ici]] 
+- Le prochain datadrink aura lieu le 1er juillet de 16h30 à 17h30 (inscription [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-159392187323][ici]]) 
     - Aurélia Rostaing (Archives Nationales) et Alix Chague (INRIA) : Lectaurep, un projet de reconnaissance d'écriture manuscrite sur les répertoires de notaires. 
     - Christine Fong (Ministère de l'Ecologie): Utiliser le traitement du langage naturel pour l'appui à la rédaction des avis de l'autorité environnementale
     - Pavel Soriano (Lab IA Etalab): L'outil Base de connaissance mis en place pour partager les connaissances techniques sur les projets entre les membres d'une équipe. 
