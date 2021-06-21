@@ -27,9 +27,9 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /L'administration recrute !/ : 
 
-- Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-son-charge-de-developpement][ici]] 
-- Etalab recrute une développeuse ou un développeur front. Voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]] 
-- Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité. Voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]
+- Le lab IA recrute un.e chargé.e de mission (voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-son-charge-de-developpement][ici]]).
+- Etalab recrute une développeuse ou un développeur front (voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]]).
+- Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité (voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]).
 
 
 /A consulter/ :
