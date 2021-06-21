@@ -12,7 +12,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 - *Programme du prochain datadrink du 1er juillet*
 - *Le Lab IA publie son site sur le blog Etalab*
-- *Appel aux administrations pour proposer à des étudiants polytechniciens des projets en sciences des données*
+- *Appel aux administrations à proposer des projets en sciences des données à des étudiants polytechniciens *
  
 
 /Prochains événements/ : 
@@ -25,9 +25,9 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Algorithmes publics & design spéculatif : restitution des travaux d'Etalab et de Design Friction : Inscription [[https://app.livestorm.co/dinum-12/algorithmes-publics-and-design-speculatif-restitution-des-travaux-detalab-et-de-design-friction?type=detailed][ici]].
 
 
-/L'administration recrute!/ : 
+/L'administration recrute !/ : 
 
-- Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=635272&idOrigine=502&LCID=1036&offerReference=2021-635272][ici]] 
+- Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-son-charge-de-developpement][ici]] 
 - Etalab recrute une développeuse ou un développeur front. Voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]] 
 - Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité. Voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]
 
@@ -46,22 +46,22 @@ N'hésitez pas à partager autour de vous.
 
 ** Appel à projets étudiants 
 
-Le LabIA compte proposer à des étudiants polytechniciens des projets en sciences des données issus des problématiques de l'administration française. Les étudiants sont en dernière années d'étude et ce projet compte pour la validation de leur année. Ils travailleront sur le sujet à partir du 15 septembre 2021 pendant 6 mois à raison de 1 jour par semaine, encadrés par des enseignants chercheurs de l'Inria et de l'Ecole polytechnique. 
+Le Lab IA compte proposer à des étudiants polytechniciens des projets en sciences des données issus des problématiques de l'administration française. Les étudiants sont en dernière années d'étude et ce projet compte pour la validation de leur année. Ils travailleront sur le sujet à partir du 15 septembre 2021 pendant 6 mois à raison de 1 jour par semaine, encadrés par des enseignants chercheurs de l'Inria et de l'Ecole polytechnique. 
 
 Les projets permettent par exemple de :
 
 - Réaliser une étude bibliographique pour un certain type de problème susceptible d'être résolu avec des techniques IA,
-- Expérimenter avec des données réelles et des méthodes existantes, en identifier les forces et les faiblesses,
+- Expérimenter des méthodes existantes avec des données réelles, en identifier les forces et les faiblesses,
 - Proposer des extensions ou des optimisations permettant d'améliorer les résultats.
 Par le passé, ces projets réalisés par des étudiants brillants et motivés ont conduit à des résultats intéressants et exploitables. 
 
-Cette année, nous pouvons proposer jusqu'à 9 projets étudiants. Nous faisons donc appel à vous : si vous avez des sujets que vous aimeriez approfondir ou explorer et qui pourraient intéresser ces étudiants, n'hésitez pas à nous en faire part avant le 20 Juin. 
+Cette année, nous pouvons proposer jusqu'à 9 projets étudiants. Nous faisons donc appel à vous : si vous avez des sujets que vous aimeriez approfondir ou explorer et qui pourraient intéresser ces étudiants, n'hésitez pas à nous en faire part avant le 9 juillet. 
 
 Les chercheurs encadrants potentiels sont spécialisés dans :
 
 - le traitement automatique du langage,
 - la génération de graphes de connaissances à partir de données non structurées (des textes par exemple) et/ou hétérogènes (pdf, documents excel, html ...)
-- et l'interrogation et l'exploitation de graphes de données.
+- l'interrogation et l'exploitation de graphes de données.
 Les applications sont multiples, dans le fact checking, la détection de liens entre entités (voir l'outil ConnectionLens), la détection d'utilisateurs malveillants (trolls) ... 
 
 Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https://team.inria.fr/cedar/][https://team.inria.fr/cedar/]] ou les profils des enseignants chercheurs qui encadreront le projet : 
@@ -76,9 +76,7 @@ Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https:
 Vous pouvez retrouver l'ensemble des liens de rediffision de nos datadrink en ligne sur la page [[https://www.etalab.gouv.fr/communaute][communauté du Lab IA]]. 
 
 
-Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1622125252813][ici]] l'édition du 27 mai 2021. 
- 
-Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210527-datadrink-apideces-minint][API décès, ministère de l’Intérieur]], [[https://speakerdeck.com/etalabia/20210527-datadrink-courdecassation][le Défi EIG Label, Cour de Cassation]], 
+Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1622125252813][ici]] l'édition du 27 mai 2021. Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210527-datadrink-apideces-minint][API décès, ministère de l’Intérieur]], [[https://speakerdeck.com/etalabia/20210527-datadrink-courdecassation][le Défi EIG Label, Cour de Cassation]], 
 [[https://speakerdeck.com/etalabia/20210527-datadrink-dgml-labia][Marchine learning et données ouvertes, Lab IA d’Etalab]]
 
 
