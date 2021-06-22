@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Infolettre Lab IA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-Fr</language>
-    <copyright>Etalab - Direction interministérielle du numérique</copyright>
-    
-	<atom:link href="https://etalab.github.io/infolettre-lab-ia/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Etalab - Direction interministérielle du numérique</copyright><atom:link href="https://etalab.github.io/infolettre-lab-ia/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
