@@ -24,7 +24,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - Algorithmes publics & design spéculatif : restitution des travaux d'Etalab et de Design Friction : Inscription [[https://app.livestorm.co/dinum-12/algorithmes-publics-and-design-speculatif-restitution-des-travaux-detalab-et-de-design-friction?type=detailed][ici]].
 
 
-/L'administration recrute !/ : 
+/L'administration recrute !/
 
 - Le lab IA recrute un.e chargé.e de mission (voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-son-charge-de-developpement][ici]]).
 - Etalab recrute une développeuse ou un développeur front (voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]]).
