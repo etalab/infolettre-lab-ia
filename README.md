@@ -2,7 +2,7 @@ L'infolettre du Lab IA est publiée par [Etalab](https://www.etalab.gouv.fr/).
 
 Pour vous y inscrire : <https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio>
 
-Voir la présentation du Lab IA : <https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle>
+Voir la présentation du Lab IA : <https://www.etalab.gouv.fr/lab-ia>
 
 # Numéros précédents
 
