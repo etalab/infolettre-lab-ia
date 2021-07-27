@@ -1,5 +1,5 @@
-#+title: Infolettre Lab IA n°13
-#+date: 2021-06-18
+#+title: Infolettre Lab IA n°14
+#+date: 2021-07-27
 #+author: Etalab
 #+layout: post
 #+draft: false
@@ -10,64 +10,60 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/ : 
 
-- *Programme du prochain datadrink du 1er juillet*
-- *Le Lab IA publie son site sur le blog Etalab*
-- *Appel aux administrations pour proposer à des étudiants polytechniciens des projets en sciences des données*
+- *Programme du prochain datadrink de la rentrée le 9 septembre*
+- *A la rentrée, le Lab IA lancera un nouvel accompagnement IA*
+- *Retour sur la journée de présentation des stagiaires Lab IA*
+- *Revisionner le dernier datadrink*
  
+ 
+/L'administration recrute !/
 
-## Prochains événements: 
+* Le Lab IA recrute son lead data scientist. Voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-sa-ou-son-lead-data-scientist][ici]]
+* SignauxFaibles recrute. Voir l'offre [[https://beta.gouv.fr/recrutement/2021/07/01/un.e.data.scientist.signaux-faibles.html][ici]]
+* Le datalab du ministère de l'Intérieur recrute 
+    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-75---data-engineer-hf-reference-MINT_BS075ACA-28510/][offre]] pour un data engineer 
+    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-bld-75---data-scientist-hf-reference-MINT_BS075ACA-28512/][offre]] pour un data scientist 
+    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-architecte-75---devops-au-laboratoire-de-la-donnee-hf-reference-MINT_BS075ACA-28504/][offre]] pour un dev ops 
+* Le SGDSN recrute (à confirmer, contact Paul-Antoine)
+* Le ministère de la Défense recrute un expert de haut niveau. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=658716&idOrigine=502&LCID=1036&offerReference=2021-658716][ici]].
+* Stage en computer vision au ministère de l'Intérieur. Voir l'offre [[https://www.pass.fonction-publique.gouv.fr/offre/data-scientist-computer-vision][ici]].
 
-- Le prochain datadrink aura lieu le 1er juillet de 16h30 à 17h30 (inscription [ici](https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-159392187323 )) 
-    - Aurélia Rostaing (Archives Nationales) et Alix Chague (INRIA) : Lectaurep, un projet de reconnaissance d'écriture manuscrite sur les répertoires de notaires. 
-    - Christine Fong (Ministère de l'Ecologie): Utiliser le traitement du langage naturel pour l'appui à la rédaction des avis de l'autorité environnementale
-    - Pavel Soriano (Lab IA Etalab): L'outil Base de connaissance mis en place pour partager les connaissances techniques sur les projets entre les membres d'une équipe. 
+/Une initiative de la mission Talents de la DINUM pour attirer les profils juniors /
 
-- Algorithmes publics & design spéculatif : restitution des travaux d'Etalab et de Design Friction : Inscription [[https://app.livestorm.co/dinum-12/algorithmes-publics-and-design-speculatif-restitution-des-travaux-detalab-et-de-design-friction?type=detailed][ici]].
-
-
-## Offres d'emploi 
-
-- Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=635272&idOrigine=502&LCID=1036&offerReference=2021-635272][ici]] 
-- Etalab recrute une développeuse ou un développeur front. Voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]] 
-- Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité. Voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]
-
-
-## A consulter
-- [[https://blog.beta.gouv.fr/general/2021/06/10/data-science-a-beta-3-questions-a-se-poser-avant-de-se-lancer/][Article]] de Vincent Viers, data scientist transverse à Beta.gouv, sur la data science dans les serivces publics. 
-- Un mooc sur le machine learning avec scikit-learn en Python : [[https://www.inria.fr/en/mooc-scikit-learn][inscription]] et [[https://inria.github.io/scikit-learn-mooc/][site du mooc]]
-- Pour les amateurs de R, un ensemble de ressources pour la data science dans le domaine de la santé publique: [[https://rviews.rstudio.com/2021/06/02/r-for-public-health][R for public health]]
+L’opération #VisMonJob est lancée, elle vise à améliorer la notoriété des administrations en tant qu’employeur du numérique auprès des juniors. Des étudiants en M1/M2 se formant au numérique viendront passer une journée en immersion dans les services de l’Etat, à la rencontre de nos collaborateurs-ambassadeurs. Inscription [[https://sgmap.sphinxdeclic.com/surveyserver/s/MGTK-HQJWYFPJ/VisMonJob-ambassadeurs][ici]]. 
 
 
-### Site internet du Lab IA
+/Prochains événements/ : 
+Le datadrink de la rentrée aura lieu le jeudi 9 septembre de 16h30 à 17h30. Inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-163210068709][ici]]. 
+Au programme: 
+- Valentin Barrière (Commission Européenne) : prédire l’utilisation des terres agricoles à partir de données satellites (avec Food protection).
+- Clément Biron, Elsa Trujillo, Martin Ratinaud (mission Beta.gouv et Ambassadeur du Numérique): évaluer et chiffrer les campagnes de manipulation de l’information sur Twitter (suivi de hashtags, visualisation des campagnes, détection de bots).
+- Oana Balalau (INRIA): analyser l'impact de la propagande dans six grands forums politiques sur Reddit, qui ciblent un public diversifié aux États-Unis et au Royaume-Uni
 
-Le Lab IA vient de publier [[https://www.etalab.gouv.fr/lab-ia][son site]] sur le blog d'Etalab. Vous y trouverez une présentation générale de nos missions, de l'équipe, des projets accompagnés, des outils mutualisés et de la communauté. 
 
-N'hésitez pas à partager autour de vous. 
+** A la rentrée, le Lab IA lancera un nouvel accompagnement IA 
 
-### Appel à projets étudiants 
+Le Lab IA lancera en septembre un appel à candidatures pour permettre aux admnistrations lauréates de bénéficier d'un accompagnement recherche en Intellifence Artificielle. Petit frère de l'AMI IA, l'accompagnement recherche s'inscrit dans la collaboration que la DINUM et l'Inria ont entamée en 2020. 
 
-Le LabIA compte proposer à des étudiants polytechniciens des projets en sciences des données issus des problématiques de l'administration française. Les étudiants sont en dernière années d'étude et ce projet compte pour la validation de leur année. Ils travailleront sur le sujet à partir du 15 septembre 2021 pendant 6 mois à raison de 1 jour par semaine, encadrés par des enseignants chercheurs de l'Inria et de l'Ecole polytechnique. 
+L'accompagnement recherche permettra aux datascientist de l'administration de bénéficier du soutien de chercheurs et d'ingénieurs de recherche de l'Inria pendant une durée de un an. Pour les datascientists de l'administration, cet accompagnement sera l'occasion de prendre du recul sur leurs défis et d'explorer de nouvelles approches à leurs problématiques, dont certaines peuvent se révéler trop complexes ou ambitieuses pour être traitées dans l'emploi du temps quotidien. Pour les chercheurs, cet accompagenement leur permettra de tester leurs méthodes sur de nouveaux jeux de données et de contribuer à des missions de service public. Nous pensons que ce format mènera à des collaborations fructueuses entre l'administration française et le centre de recherche prestigieux qu'est Inria. 
 
-Les projets permettent par exemple de :
+Pour participer, il vous faudra décrire votre problématique et son contexte, expliquer en quoi l'IA permet d'apporter une solution au problème et fournir un descriptif de vos données pour la première semaine du mois d'octobre. L'équipe du Lab IA sélectionnera ensuite les équipes Inria qui travailleront sur le projet pour commencer les projets au début de l'année 2022. Nous informererons des modalités de candidatures à la rentrée (les candidatures seront à déposer sur Démarches Simplifiées de début septembre à début octobre). 
 
-* Réaliser une étude bibliographique pour un certain type de problème susceptible d'être résolu avec des techniques IA,
-* Expérimenter avec des données réelles et des méthodes existantes, en identifier les forces et les faiblesses,
-* Proposer des extensions ou des optimisations permettant d'améliorer les résultats.
-Par le passé, ces projets réalisés par des étudiants brillants et motivés ont conduit à des résultats intéressants et exploitables. 
+** Retour sur la journée de présentation des stagiaires Lab IA
 
-Cette année, nous pouvons proposer jusqu'à 9 projets étudiants. Nous faisons donc appel à vous : si vous avez des sujets que vous aimeriez approfondir ou explorer et qui pourraient intéresser ces étudiants, n'hésitez pas à nous en faire part avant le 20 Juin. 
+Le Lab IA, dont l'une des missions principales est d'accompagner les administrations dans la mise en place de solutions d'Intelligence Artificielle, reçoit des demandes d'aide de la part de datascientists de l'administration sur des sujets spécifiques. Nous avons plusieurs moyens d'appuyer les équipes data sciences de l'administration : clinique de l'IA, mise en relation avec d'autres équipes ayant rencontré des problématiques similaires, fléchage vers des dispositifs d'accompagnement, mise en place de stages ou de missions dédiées. 
 
-Les chercheurs encadrants potentiels sont spécialisés dans :
+En ce moment, trois stagiaires encadrés par Oana Balalau, chercheuse à l'Inria et membre du Lab IA,  travaillent sur des problématiques que des administrations ont remontées au LabIA. Vendredi 9 Juillet dernier, une première réunion de restitution s'est tenue afin de partager les avancements de ces stages. 
 
-* le traitement automatique du langage,
-* la génération de graphes de connaissances à partir de données non structurées (des textes par exemple) et/ou hétérogènes (pdf, documents excel, html ...)
-* et l'interrogation et l'exploitation de graphes de données.
-Les applications sont multiples, dans le fact checking, la détection de liens entre entités (voir l'outil ConnectionLens), la détection d'utilisateurs malveillants (trolls) ... 
+Abdenour Chaoui, qui travaille sur l'amélioration de la brique PIAF, nous a présenté les algorithmes de re-ranking de documents sur lesquels il planche depuis plusieures semaines. Ces algorithmes permettront à PIAF de retrouver plus efficacement les documents pertinents dans une base de connaissance pour répondre à la question d'un utilisateur. 
 
-Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https://team.inria.fr/cedar/][https://team.inria.fr/cedar/]] ou les profils des enseignants chercheurs qui encadreront le projet : 
+Thomas Meunier, qui travaille sur les algorithmes de Signaux Faibles, nous a présenté son investigation des différents algorithmes qui pourraient rendre le modèle de Signaux Faibles plus robuste à la crise sanitaire. Ces travaux permettront à terme de mieux cibler les entreprises en difficulté afin de déclencher des dispositifs d'aide avant que l'entreprise ne fasse faillite, et ainsi faciliter le travail des agents sur le terrain. 
 
-* [[https://acanadiotis.github.io/home/][Angelos Anadiotis]]
-* [[https://oanabalalau.com/][Oana Balalau]]
-* [[https://sites.google.com/site/davidebuscaldi][Davide Buscaldi]]
-* [[https://pages.saclay.inria.fr/ioana.manolescu/][Ioana Manolescu]]
+Lors de la prochaine édition de cette réunion de restitution, Maya Touzari nous présentera son travail avec le BRGM avec qui elle met en place un agent conversationnel permettant de renseigner les utilisateurs sur l'état de l'eau dans leur région via la plateforme Hub'eau. 
 
+** Revisionner le dernier datadrink 
+
+Vous pouvez retrouver l'ensemble des liens de rediffision de nos datadrink en ligne sur la page [[https://www.etalab.gouv.fr/communaute][communauté du Lab IA]]. 
+
+Vous pouvez (re)-visionner [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=227cbb7905fce775cffaaa01d64d65a8c89bff85-1625149326635][ici]] l'édition du 1er juillet 2021. Les supports de présentation sont à retrouver via les liens suivants : [[https://speakerdeck.com/etalabia/20210701-datadrink-lectaurep][Lectaurep]], [[https://speakerdeck.com/etalabia/20210701-datadrink-mte-ecolab][projet NLP de l'Ecolab]], 
+[[https://speakerdeck.com/etalabia/20210701-datadrink-knoweledgebase-labia][la base de connaissance du Lab IA]].
