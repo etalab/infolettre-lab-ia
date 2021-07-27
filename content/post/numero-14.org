@@ -1,0 +1,73 @@
+#+title: Infolettre Lab IA n°13
+#+date: 2021-06-18
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
+
+/Ci-dessous/ : 
+
+- *Programme du prochain datadrink du 1er juillet*
+- *Le Lab IA publie son site sur le blog Etalab*
+- *Appel aux administrations pour proposer à des étudiants polytechniciens des projets en sciences des données*
+ 
+
+## Prochains événements: 
+
+- Le prochain datadrink aura lieu le 1er juillet de 16h30 à 17h30 (inscription [ici](https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-159392187323 )) 
+    - Aurélia Rostaing (Archives Nationales) et Alix Chague (INRIA) : Lectaurep, un projet de reconnaissance d'écriture manuscrite sur les répertoires de notaires. 
+    - Christine Fong (Ministère de l'Ecologie): Utiliser le traitement du langage naturel pour l'appui à la rédaction des avis de l'autorité environnementale
+    - Pavel Soriano (Lab IA Etalab): L'outil Base de connaissance mis en place pour partager les connaissances techniques sur les projets entre les membres d'une équipe. 
+
+- Algorithmes publics & design spéculatif : restitution des travaux d'Etalab et de Design Friction : Inscription [[https://app.livestorm.co/dinum-12/algorithmes-publics-and-design-speculatif-restitution-des-travaux-detalab-et-de-design-friction?type=detailed][ici]].
+
+
+## Offres d'emploi 
+
+- Le lab IA recrute un.e chargé.e de mission. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=635272&idOrigine=502&LCID=1036&offerReference=2021-635272][ici]] 
+- Etalab recrute une développeuse ou un développeur front. Voir l'offre [[https://www.data.gouv.fr/fr/posts/data-gouv-fr-recrute-une-developpeuse-ou-un-developpeur-front/][ici]] 
+- Offre de poste data scientist confirmé au Secrétariat Général de la Défense et de la Sécurité. Voir l'offre [[https://www.linkedin.com/jobs/view/2577265590/][ici]]
+
+
+## A consulter
+- [[https://blog.beta.gouv.fr/general/2021/06/10/data-science-a-beta-3-questions-a-se-poser-avant-de-se-lancer/][Article]] de Vincent Viers, data scientist transverse à Beta.gouv, sur la data science dans les serivces publics. 
+- Un mooc sur le machine learning avec scikit-learn en Python : [[https://www.inria.fr/en/mooc-scikit-learn][inscription]] et [[https://inria.github.io/scikit-learn-mooc/][site du mooc]]
+- Pour les amateurs de R, un ensemble de ressources pour la data science dans le domaine de la santé publique: [[https://rviews.rstudio.com/2021/06/02/r-for-public-health][R for public health]]
+
+
+### Site internet du Lab IA
+
+Le Lab IA vient de publier [[https://www.etalab.gouv.fr/lab-ia][son site]] sur le blog d'Etalab. Vous y trouverez une présentation générale de nos missions, de l'équipe, des projets accompagnés, des outils mutualisés et de la communauté. 
+
+N'hésitez pas à partager autour de vous. 
+
+### Appel à projets étudiants 
+
+Le LabIA compte proposer à des étudiants polytechniciens des projets en sciences des données issus des problématiques de l'administration française. Les étudiants sont en dernière années d'étude et ce projet compte pour la validation de leur année. Ils travailleront sur le sujet à partir du 15 septembre 2021 pendant 6 mois à raison de 1 jour par semaine, encadrés par des enseignants chercheurs de l'Inria et de l'Ecole polytechnique. 
+
+Les projets permettent par exemple de :
+
+* Réaliser une étude bibliographique pour un certain type de problème susceptible d'être résolu avec des techniques IA,
+* Expérimenter avec des données réelles et des méthodes existantes, en identifier les forces et les faiblesses,
+* Proposer des extensions ou des optimisations permettant d'améliorer les résultats.
+Par le passé, ces projets réalisés par des étudiants brillants et motivés ont conduit à des résultats intéressants et exploitables. 
+
+Cette année, nous pouvons proposer jusqu'à 9 projets étudiants. Nous faisons donc appel à vous : si vous avez des sujets que vous aimeriez approfondir ou explorer et qui pourraient intéresser ces étudiants, n'hésitez pas à nous en faire part avant le 20 Juin. 
+
+Les chercheurs encadrants potentiels sont spécialisés dans :
+
+* le traitement automatique du langage,
+* la génération de graphes de connaissances à partir de données non structurées (des textes par exemple) et/ou hétérogènes (pdf, documents excel, html ...)
+* et l'interrogation et l'exploitation de graphes de données.
+Les applications sont multiples, dans le fact checking, la détection de liens entre entités (voir l'outil ConnectionLens), la détection d'utilisateurs malveillants (trolls) ... 
+
+Pour plus d'information, vous pouvez consulter la page du laboratoire : [[https://team.inria.fr/cedar/][https://team.inria.fr/cedar/]] ou les profils des enseignants chercheurs qui encadreront le projet : 
+
+* [[https://acanadiotis.github.io/home/][Angelos Anadiotis]]
+* [[https://oanabalalau.com/][Oana Balalau]]
+* [[https://sites.google.com/site/davidebuscaldi][Davide Buscaldi]]
+* [[https://pages.saclay.inria.fr/ioana.manolescu/][Ioana Manolescu]]
+
