@@ -18,15 +18,15 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
  
 /L'administration recrute !/
 
-* Le Lab IA recrute son lead data scientist. Voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-sa-ou-son-lead-data-scientist][ici]]
-* SignauxFaibles recrute. Voir l'offre [[https://beta.gouv.fr/recrutement/2021/07/01/un.e.data.scientist.signaux-faibles.html][ici]]
-* Le datalab du ministère de l'Intérieur recrute 
-    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-75---data-engineer-hf-reference-MINT_BS075ACA-28510/][offre]] pour un data engineer 
-    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-bld-75---data-scientist-hf-reference-MINT_BS075ACA-28512/][offre]] pour un data scientist 
-    * une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-architecte-75---devops-au-laboratoire-de-la-donnee-hf-reference-MINT_BS075ACA-28504/][offre]] pour un dev ops 
-* Le SGDSN recrute (à confirmer, contact Paul-Antoine)
-* Le ministère de la Défense recrute un expert de haut niveau. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=658716&idOrigine=502&LCID=1036&offerReference=2021-658716][ici]].
-* Stage en computer vision au ministère de l'Intérieur. Voir l'offre [[https://www.pass.fonction-publique.gouv.fr/offre/data-scientist-computer-vision][ici]].
+- Le Lab IA recrute son lead data scientist. Voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-sa-ou-son-lead-data-scientist][ici]]
+- SignauxFaibles recrute. Voir l'offre [[https://beta.gouv.fr/recrutement/2021/07/01/un.e.data.scientist.signaux-faibles.html][ici]]
+- Le datalab du ministère de l'Intérieur recrute 
+    - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-75---data-engineer-hf-reference-MINT_BS075ACA-28510/][offre]] pour un data engineer 
+    - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-bld-75---data-scientist-hf-reference-MINT_BS075ACA-28512/][offre]] pour un data scientist 
+    - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-architecte-75---devops-au-laboratoire-de-la-donnee-hf-reference-MINT_BS075ACA-28504/][offre]] pour un dev ops 
+- Le SGDSN recrute (à confirmer, contact Paul-Antoine)
+- Le ministère de la Défense recrute un expert de haut niveau. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=658716&idOrigine=502&LCID=1036&offerReference=2021-658716][ici]].
+- Stage en computer vision au ministère de l'Intérieur. Voir l'offre [[https://www.pass.fonction-publique.gouv.fr/offre/data-scientist-computer-vision][ici]].
 
 /Une initiative de la mission Talents de la DINUM pour attirer les profils juniors /
 
