@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://etalab.github.io/infolettre-lab-ia/en/categories/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://etalab.github.io/infolettre-lab-ia/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://etalab.github.io/infolettre-lab-ia/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://etalab.github.io/infolettre-lab-ia/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://etalab.github.io/infolettre-lab-ia/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,5 +38,4 @@
                 href="https://etalab.github.io/infolettre-lab-ia/en/tags/"
                 />
   </url>
-  
 </urlset>
