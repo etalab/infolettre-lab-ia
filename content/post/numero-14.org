@@ -11,7 +11,6 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 /Ci-dessous/ : 
 
 - *Programme du prochain datadrink de la rentrée le 9 septembre*
-- *A la rentrée, le Lab IA lancera un nouvel accompagnement IA*
 - *Retour sur la journée de présentation des stagiaires Lab IA*
 - *Revisionner le dernier datadrink*
  
@@ -24,7 +23,6 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
     - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-75---data-engineer-hf-reference-MINT_BS075ACA-28510/][offre]] pour un data engineer 
     - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-bld-75---data-scientist-hf-reference-MINT_BS075ACA-28512/][offre]] pour un data scientist 
     - une [[https://place-emploi-public.gouv.fr/offre-emploi/dnum-sdit-labd-architecte-75---devops-au-laboratoire-de-la-donnee-hf-reference-MINT_BS075ACA-28504/][offre]] pour un dev ops 
-- Le SGDSN recrute (à confirmer, contact Paul-Antoine)
 - Le ministère de la Défense recrute un expert de haut niveau. Voir l'offre [[https://place-ep-recrute.talent-soft.com/Pages/Offre/detailoffre.aspx?idOffre=658716&idOrigine=502&LCID=1036&offerReference=2021-658716][ici]].
 - Stage en computer vision au ministère de l'Intérieur. Voir l'offre [[https://www.pass.fonction-publique.gouv.fr/offre/data-scientist-computer-vision][ici]].
 
@@ -40,14 +38,6 @@ Au programme:
 - *Clément Biron, Elsa Trujillo, Martin Ratinaud* (mission Beta.gouv et Ambassadeur du Numérique) : évaluer et chiffrer les campagnes de manipulation de l’information sur Twitter (suivi de hashtags, visualisation des campagnes, détection de bots).
 - *Oana Balalau (INRIA)* : analyser l'impact de la propagande dans six grands forums politiques sur Reddit, qui ciblent un public diversifié aux États-Unis et au Royaume-Uni
 
-
-** A la rentrée, le Lab IA lancera un nouvel accompagnement IA 
-
-Le Lab IA lancera en septembre un appel à candidatures pour permettre aux admnistrations lauréates de bénéficier d'un accompagnement recherche en Intellifence Artificielle. Petit frère de l'AMI IA, l'*accompagnement recherche* s'inscrit dans la collaboration que la DINUM et l'Inria ont entamée en 2020. 
-
-L'accompagnement recherche permettra aux datascientist de l'administration de *bénéficier du soutien de chercheurs et d'ingénieurs de recherche de l'Inria* pendant une durée de un an. Pour les datascientists de l'administration, cet accompagnement sera l'occasion de prendre du recul sur leurs défis et d'explorer de nouvelles approches à leurs problématiques, dont certaines peuvent se révéler trop complexes ou ambitieuses pour être traitées dans l'emploi du temps quotidien. Pour les chercheurs, cet accompagenement leur permettra de tester leurs méthodes sur de nouveaux jeux de données et de contribuer à des missions de service public. Nous pensons que ce format mènera à des *collaborations fructueuses* entre l'*administration française* et le centre de recherche prestigieux qu'est *Inria*. 
-
-Pour participer, il vous faudra décrire votre problématique et son contexte, expliquer en quoi l'IA permet d'apporter une solution au problème et fournir un descriptif de vos données pour la première semaine du mois d'octobre. L'équipe du Lab IA sélectionnera ensuite les équipes Inria qui travailleront sur le projet pour commencer les projets au *début de l'année 2022*. Nous vous informererons des modalités de candidatures à la rentrée (les candidatures seront à déposer sur Démarches Simplifiées de début septembre à début octobre). 
 
 ** Retour sur la journée de présentation des stagiaires Lab IA
 
