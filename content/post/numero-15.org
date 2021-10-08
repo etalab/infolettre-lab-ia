@@ -17,7 +17,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 - *Revisionner le dernier datadrink*
  
 
-/ Prochains événements / 
+/Prochains événements/ 
 - Datadrink le 21 octobre de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1)][ici]]
     - Nicolas Stefanovitch et Guillaume Jacquet (Commission Européenne):  Le Text Mining comme support pour l'analyse de consultations publiques 
     - Philippe Besse (Professeur émérite à l'INSA Toulouse): Quelles implications la future réglementation de l'IA au niveau européen (telle que présentée notamment dans l'Artificial Intelligent Act) aura-t-elle sur le travail du data scientist  ? 
@@ -72,7 +72,7 @@ Lisez [[https://www.etalab.gouv.fr/publication-du-rapport-dinum-insee-12-recomma
 
 Les feuilles de route ministérielles en matière de politique de la donnée, des algorithmes et des codes sources ont été publiées fin septembre. 
 
-Lisez [[https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer][ici]] le billet de blog Etalab à ce sujet. Les feuilles de routes sont téléchargeables sur data.gouv.fr [ici](https://www.data.gouv.fr/fr/datasets/politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-feuilles-de-route-ministerielles/ ).
+Lisez [[https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer][ici]] le billet de blog Etalab à ce sujet. Les feuilles de routes sont téléchargeables sur data.gouv.fr [[https://www.data.gouv.fr/fr/datasets/politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-feuilles-de-route-ministerielles/][ici]].
 
 
 ** Rediffusion du dernier datadrink 
