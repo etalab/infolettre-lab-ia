@@ -55,7 +55,7 @@ Un premier type de besoin est celui de traiter des documents courts, de contenu 
 
 Un deuxième besoin concerne le traitement de documents textuels longs, de contenu et de forme hétérogènes, où le contenu textuel (vocabulaire, constructions syntaxiques, cooccurrences...) est plus important que la spatialisation du texte pour favoriser la reconnaissance. 
 
-Nous avons prévu dans un premier temps de nous concentrer de nous concentrer sur le premier type de besoin, mais nous prevoyons d'intégrer le deuxième de besoin à notre feuille de route. 
+Nous avons prévu dans un premier temps de nous concentrer sur le premier type de besoin, mais nous prevoyons d'intégrer le deuxième de besoin à notre feuille de route. 
 
 N'hésitez pas à nous écrire à lab-ia@data.gouv.fr pour nous faire part de vos cas d'usage. 
 
