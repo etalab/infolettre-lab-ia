@@ -18,7 +18,7 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
  
 
 /Prochains événements/ 
-- Datadrink le 21 octobre de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1)][ici]]
+- Datadrink le 21 octobre de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1)][ici]])
     - Nicolas Stefanovitch et Guillaume Jacquet (Commission Européenne):  Le Text Mining comme support pour l'analyse de consultations publiques 
     - Philippe Besse (Professeur émérite à l'INSA Toulouse): Quelles implications la future réglementation de l'IA au niveau européen (telle que présentée notamment dans l'Artificial Intelligent Act) aura-t-elle sur le travail du data scientist  ? 
     
