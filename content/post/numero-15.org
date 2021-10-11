@@ -46,7 +46,7 @@ OCR-Xtract est le nouvel outil mutualisé du Lab IA. Son but ? Faciliter le *tra
 Le constat est le suivant : les administrations ont régulièrement besoin de *traiter en masse des documents administratifs* sous des formats non directement exploitables (PDF scannés, images, etc…). Exploiter ces informations devient vite *très chronophage* sans l'aide de traitements automatisés.
 OCR-Xtract vise à  proposer aux administrations une solution d'*OCR et d'extraction d'informations* permettant de traiter en masse des documents administratifs.  C'est un projet ouvert : les résultats seront publiés et pourront être utilisés par tous.
 
-Ce premier OpenLab avait pour objectif de rassembler une communauté d'utilisateurs potentiels et de mieux connaître les besoins et cas d'usage dans ce domaine. 
+Ce premier OpenLab avait pour objectif de rassembler une *communauté d'utilisateurs potentiels* et de mieux connaître les *besoins* et *cas d'usage* dans ce domaine. 
 
 Deux typologies de besoin ressortent des cas d'usages qui nous ont été partagés. 
 
