@@ -12,13 +12,14 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 - *Programme du prochain datadrink d'octobre et annonce du datadrink de novembre en présentiel*
 - *Retour sur l'OpenLab OCR-Xtract du 7 octobre*
+- *Derniers jours pour candidater à l'AMI Accompagnement Recherche*
 - *Publication du rapport INSEE-DINUM sur les compétences data dans l'administration*
 - *Publication des 15 feuilles de routes ministérielles*
 - *Revisionner le dernier datadrink*
  
 
 /Prochains événements/ 
-- Datadrink le *21 octobre* de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1)][ici]])
+- Datadrink le *21 octobre* de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1][ici]])
     - Nicolas Stefanovitch et Guillaume Jacquet (Commission Européenne):  Le *Text Mining* comme support pour l'*analyse de consultations publiques* 
     - Philippe Besse (Professeur émérite à l'INSA Toulouse): Quelles implications la future réglementation de l'IA au niveau européen (telle que présentée notamment dans l'Artificial Intelligent Act) aura-t-elle sur le travail du data scientist  ? 
     
@@ -61,7 +62,7 @@ N'hésitez pas à nous écrire à [[lab-ia@data.gouv.fr][lab-ia@data.gouv.fr]] p
 
 ** Derniers jours pour les candidatures AMI Accompagnement Recherche
 
-Vendredi 15 Novembre, nous fermons les candidatures pour l'Appel à Manifestation d'Intérêt Accompagnement Recherche ! Il vous reste quelques jours pour terminer vos dossiers, nous restons à votre disposition pour tout complément d'information. Le jury se tiendra le 09 Novembre. Plus d'informations sur [notre blog post](https://www.etalab.gouv.fr/administrations-candidatez-a-laccompagnement-recherche-du-lab-ia)
+Vendredi 15 octobre, nous fermons les candidatures pour l'Appel à Manifestation d'Intérêt Accompagnement Recherche ! Il vous reste quelques jours pour terminer vos dossiers, nous restons à votre disposition pour tout complément d'information. Le jury se tiendra le 9 novembre. Vous pouvez trouver plus d'informations sur [[https://www.etalab.gouv.fr/administrations-candidatez-a-laccompagnement-recherche-du-lab-ia][notre blog post]].
 
 
 ** Le rapport INSEE-Dinum sur les compétences data dans l'administration
