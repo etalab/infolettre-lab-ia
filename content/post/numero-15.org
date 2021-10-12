@@ -59,12 +59,16 @@ Nous avons prévu dans un premier temps de nous concentrer sur le premier type d
 N'hésitez pas à nous écrire à [[lab-ia@data.gouv.fr][lab-ia@data.gouv.fr]] pour nous faire part de vos cas d'usage. 
 
 
+** Derniers jours pour les candidatures AMI Accompagnement Recherche
+
+Vendredi 15 Novembre, nous fermons les candidatures pour l'Appel à Manifestation d'Intérêt Accompagnement Recherche ! Il vous reste quelques jours pour terminer vos dossiers, nous restons à votre disposition pour tout complément d'information. Le jury se tiendra le 09 Novembre. Plus d'informations sur [notre blog post](https://www.etalab.gouv.fr/administrations-candidatez-a-laccompagnement-recherche-du-lab-ia)
+
+
 ** Le rapport INSEE-Dinum sur les compétences data dans l'administration
 
 Un rapport, qui découle d'une mission conjointe de la DINUM et de l'INSEE, a été publié fin septembre 2021, afin d'*évaluer qualitativement et quantitativement les expertises disponibles au sein de l’État dans le domaine de la donnée*, les besoins des administrations et la capacité à faire face à l’accroissement de ces besoins. Il forumule également des recommendations pour dynamiser et valoriser les compétences de la donées dans le secteur public. 
 
 Lisez [[https://www.etalab.gouv.fr/publication-du-rapport-dinum-insee-12-recommandations-pour-dynamiser-la-gestion-et-la-valorisation-des-competences-data][ici]] le billet de blog Etalab sur le sujet, vous y trouverez également le lien pour télécharger le rapport. 
-
 
 
 ** Les feuilles de route des ministères
