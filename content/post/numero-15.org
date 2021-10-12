@@ -60,9 +60,9 @@ Nous avons prévu dans un premier temps de nous concentrer sur le premier type d
 N'hésitez pas à nous écrire à [[lab-ia@data.gouv.fr][lab-ia@data.gouv.fr]] pour nous faire part de vos cas d'usage. 
 
 
-** Derniers jours pour les candidatures AMI Accompagnement Recherche
+** Derniers jours pour candidater à l'AMI Accompagnement Recherche
 
-Vendredi 15 octobre, nous fermons les candidatures pour l'Appel à Manifestation d'Intérêt Accompagnement Recherche ! Il vous reste quelques jours pour terminer vos dossiers, nous restons à votre disposition pour tout complément d'information. Le jury se tiendra le 9 novembre. Vous pouvez trouver plus d'informations sur [[https://www.etalab.gouv.fr/administrations-candidatez-a-laccompagnement-recherche-du-lab-ia][notre blog post]].
+*Vendredi 15 octobre*, nous fermons les candidatures pour l'*Appel à Manifestation d'Intérêt Accompagnement Recherche* ! Il vous reste quelques jours pour terminer vos dossiers, nous restons à votre disposition pour tout complément d'information. Le jury se tiendra le *9 novembre*. Vous pouvez trouver plus d'informations sur [[https://www.etalab.gouv.fr/administrations-candidatez-a-laccompagnement-recherche-du-lab-ia][notre blog post]].
 
 
 ** Le rapport INSEE-Dinum sur les compétences data dans l'administration
