@@ -53,7 +53,7 @@ Vous êtes chercheur, agent public, étudiant, citoyen, spécialiste de l'IA ou 
 
 ** Les candidatures au 3ème appel à projets "Utilisation de la donnée dans votre administration" de France Relance sont ouvertes 
 
-Un troisième (et dernier) appel à projets du volet *"Utilisation de la donnée dans votre administration" (ITN5)* de France est relance est ouvert aux candidatures jusqu'au 19 novembre. Cet appel à projets est destiné aux directions d'administration ou aux opérateur en charge d'une politique publique souhaitant développer le recours à la donnée dans la décision et la performance publique. Cet appel à projets permet de cofinancer à hauteur de 75% les *projets de plus de 300 000 euros* en coût total. Un guichet ouvert en continu jusqu'à fin 2022 permet de cofinancer les projets de moins de 100 000 euros.  
+Un troisième (et dernier) appel à projets du volet *"Utilisation de la donnée dans votre administration" (ITN5)* de France est relance est ouvert aux candidatures jusqu'au 19 novembre. Cet appel à projets est destiné aux directions d'administration ou aux opérateur en charge d'une politique publique souhaitant développer le recours à la donnée dans la décision et la performance publique. Cet appel à projets permet de cofinancer à hauteur de 75% les *projets de plus de 300 000 euros* en coût total. Un guichet ouvert en continu jusqu'à fin 2022 permet de cofinancer les projets de moins de 300 000 euros.  
 
 
 Nous vous proposons de présenter votre projet et d'obtenir des retours d'un membre de l'équipe Plan de Relance le *mercredi 10 novembre de 10h30 à 12h*. Vous pouvez vous inscrire [[https://www.eventbrite.fr/e/billets-ateliers-utilisation-de-la-donnee-dans-votre-administration-203953439227][ici]].
