@@ -1,5 +1,5 @@
-#+title: Infolettre Lab IA n°15
-#+date: 2021-10-8
+#+title: Infolettre Lab IA n°16
+#+date: 2021-11-5
 #+author: Etalab
 #+layout: post
 #+draft: false
@@ -10,77 +10,65 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 /Ci-dessous/ : 
 
-- *Programme du prochain datadrink d'octobre et annonce du datadrink de novembre en présentiel*
-- *Retour sur l'OpenLab OCR-Xtract du 7 octobre*
-- *Publication du rapport INSEE DINUM sur les compétences data dans l'administration*
-- *Publication des 15 feuilles de routes ministérielles*
+- *Programme du prochain datadrink de novembre en présentiel*
+- *OpenLab Onyxia le 6 décembre au Lieu de la transformation publique*
+- *Les candidatures au 3ème appel à projets "Utilisation de la donnée dans votre administration" de France Relance sont ouvertes*
 - *Revisionner le dernier datadrink*
  
 
-## Les événements 
-- Datadrink le 21 octobre de 16h30 à 17h30 (inscriptions [[https://www.eventbrite.fr/e/billets-datadrink-du-lab-ia-etalab-184986639017?keep_tld=1)][ici]]
-    - Nicolas Stefanovitch et Guillaume Jacquet (Commission Européenne):  Le Text Mining comme support pour l'analyse de consultations publiques 
-    - Philippe Besse (Professeur émérite à l'INSA Toulouse): Quelles implications la future réglementation de l'IA au niveau européen (telle que présentée notamment dans l'Artificial Intelligent Act) aura-t-elle sur le travail du data scientist  ? 
+/Prochains événements/ 
+
+- Appel à projets "Utilisation de la donnée" - Ateliers pour présenter votre projet à un membre de l'équipe le mercredi 10 novembre de 10h30 à 12h en ligne. Inscription [[https://www.eventbrite.fr/e/billets-ateliers-utilisation-de-la-donnee-dans-votre-administration-203953439227][ici]].
+- Datadrink en présentiel le 19 novembre de 16h30 à 18h au Lieu de la transformation publique. Inscription [[https://www.eventbrite.fr/e/billets-datadrink-de-novembre-195897142627][ici]]. Pour ceux qui ne pourraient pas venir, une rediffusion webinaire est prévue. Inscrivez-vous pour recevoir le lien de rediffusion. 
+    - Lucas Verney (PEReN) : conception d’un outil d’anonymisation (locale) des données d’utilisateurs de plateformes numériques afin de leur permettre de contribuer des informations sectorielles aux administrations.
+    - Alexis Eidelman et Danielle Bourlange (INSEE) : présentation des recommandations du rapport INSEE-DINUM sur la valorisation des compétences data dans l'administration. 
     
-Le second sujet étant vaste, nous ne prévoyons que deux interventions pour cette session, afin de dédier plus temps à la deuxième intervention et aux échanges associés. 
+Le second sujet étant vaste, nous ne prévoyons que deux interventions pour cette session, afin de dédier plus temps à la deuxième intervention et aux échanges associés.  Les présentations seront suivies d'un moment convivial. 
 
-- Datadrink le 19 novembre en présentiel : nous vous proposons de nous retrouver en présentiel pour cette édition, au Lieu de la Transformation publique, le vendredi 19 novembre de 16h30 à 18h. Les présentations seront suivies d'un moment convivial. Le programme est à venir. 
-
-
-### L'administration recrute des data scientists
-
-- Le pôle données de la Cour des comptes recrute un data scientist : https://profilpublic.fr/jobs/data-scientist-h-f-2/
-- La haute autorité de santé recrute un data scientist spécialisé en visualisation de données : https://www.has-sante.fr/jcms/p_3282848/fr/datascientist-dataviz-h/f-direction-generale-dir-cdd-de-24-mois
-- Le service statistique ministériel de la sécurité intérieure recrute un data scientist : https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-sur-l-insecurite-et-la-delinquance-au-sein-du-projet-diffusion--reference-2021-693348/
-- La DNUM des ministères sociaux recrute un chef de projets data sciences et IA : https://place-emploi-public.gouv.fr/offre-emploi/2021-712068/
-- Le Lab Santé recrute un data scientist senior : https://place-emploi-public.gouv.fr/offre-emploi/senior-datascientist-hf-reference-2021-709127/
+- OpenLab Onyxia le 6 décembre 14h-17h au Lieu de la transformation publique avec l'INSEE. Plus de détails et inscriptions [[https://www.eventbrite.fr/e/billets-openlab-onyxia-n1-203811223857][ici]]. 
 
 
-### Le rapport INSEE Dinum
+/L'administration recrute des data scientists !/ 
+- Le Lab IA recrute son lead data scientist : https://www.etalab.gouv.fr/le-lab-ia-recrute-sa-ou-son-lead-data-scientist 
+- Ingénieur d’études en production, traitement, analyse de données et enquêtes à l’observatoire à l'Université Paris-Saclay: https://www.emploipublic.fr/offre-emploi/offre-emploi-ingenieur-d-etudes-en-production-traitement-analyse-de-donnees-et-enquetes-a-l-observatoire-h-f-o-408373
+
+** OpenLab Onyxia le 6 décembre au Lieu de la transformation publique
+
+Retrouvez [[https://www.eventbrite.fr/e/billets-openlab-onyxia-n1-203811223857][ici]] la page de l'événement pour vous inscire. 
+
+[[https://onyxia.lab.sspcloud.fr/home][Onyxia]] est une plateforme mutualisée de traitement de données. Le datalab de l'INSEE propose aux statisticiens et aux data scientists de l’État un catalogue de services et un environnement de travail simple, rapide et collaboratif, permettant de lancer facilement ses outils et d’y connecter ses données et son code.
+
+Au-delà des ressources techniques, le projet représente une opportunité pour les statisticiens publics de découvrir et d’adopter de nouvelles méthodes de travail. Il est aussi utilisé à des fins de formations et d’auto-formations.
+
+Ce premier OpenLab, organisé conjointement par l'INSEE et le Lab IA d'Etalab, a pour objectif de rassembler une communauté d'utilisateurs potentiels, d'obtenir des retours utilisateurs et de mieux connaitre vos besoins et cas d'usage afin d'orienter les futurs développements.
+
+Au programme :
+
+- Présentation de l'outil Onyxia
+- Ateliers
+- Échanges et restitution
+
+Vous êtes chercheur, agent public, étudiant, citoyen, spécialiste de l'IA ou non ? Venez participer au projet !
 
 
+** Les candidatures au 3ème appel à projets "Utilisation de la donnée dans votre administration" de France Relance sont ouvertes 
 
-Un rapport, qui découle d'une mission conjointe de la DINUM et de l'INSEE, a été publié fin septembre 2021, afin d'évaluer qualitativement et quantitativement les expertises disponibles au sein de l’État dans le domaine de la donnée, les besoins des administrations et la capacité à faire face à l’accroissement de ces besoins. Il forumule également des recommendations pour dynamiser et valoriser les compétences de la donées dans le secteur public. 
-
-Lisez [[https://www.etalab.gouv.fr/publication-du-rapport-dinum-insee-12-recommandations-pour-dynamiser-la-gestion-et-la-valorisation-des-competences-data][ici]] le billet de blog Etalab sur le sujet, vous y trouverez également le lien pour télécharger le rapport. 
-
+Un troisième (et dernier) appel à projets du volet "Utilisation de la donnée dans votre administration" (ITN5) de France est relance est ouvert aux candidatures jusqu'au 19 novembre. Cet appel à projets est destiné aux directions d'administration ou aux opérateur en charge d'une politique publique souhaitant développer le recours à la donnée dans la décision et la performance publique. Cet appel à projets permet de cofinancer à hauteur de 75% les projets de plus de 300 000 euros en coût total. Un guichet ouvert en continu jusqu'à fin 2022 permet de cofinancer les projets de moins de 100 000 euros.  
 
 
+Nous vous proposons de présenter votre projet et d'obtenir des retours d'un membre de l'équipe Plan de Relance le mercredi 10 novembre de 10h30 à 12h. Vous pouvez vous inscrire [[https://www.eventbrite.fr/e/billets-ateliers-utilisation-de-la-donnee-dans-votre-administration-203953439227][ici]].
+L'événement se tiendra en ligne (les détails de connexion vous serons communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de l'inscription).  Afin que nous puissions organiser au mieux ces ateliers, pouvez-vous nous indiquer par mail à plan-de-relance@data.gouv.fr d'ici le 9 novembre à 15h si vous souhaitez présenter un projet lors de cet atelier. Le cas échéant, merci de nous indiquer le nom de votre administration et une brève description du projet. 
 
-### Les feuilles de route des ministères
+Ce dispositif vous est ouvert afin d'améliorer grâce à la donnée l'efficacité de l'action publique, développer une culture de la donnée, ou encore accroître la qualité des données mises à disposition du public ou d'autres administrations.
+Plus d'informations sur [[https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot][la page dédiée]] du site France Relance.
+Vous pouvez contacter l'équipe en charge du volet «Utilisation de la donnée dans votre administration» du Plan de Relance numérique via plan-de-relance@data.gouv.fr. 
 
-Les feuilles de route ministérielles en matière de politique de la donnée, des algorithmes et des codes sources ont été publiées fin septembre. 
-
-Lisez [[https://www.etalab.gouv.fr/politique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-strategies-ministerielles-et-500-actions-pour-accelerer][ici]] le billet de blog Etalab à ce sujet. Les feuilles de routes sont téléchargeables sur data.gouv.fr [ici](https://www.data.gouv.fr/fr/datasets/politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources-15-feuilles-de-route-ministerielles/ ).
-
-
-### Retours sur l'OpenLab OCR-Xtract
-
-Le 7 octobre dernier, s'est tenu le premier OpenLab sur l'outil OCR-Xtract. Vous avez été une quarantaine à participer et nous vous remercions pour vos précieuses contributions. 
-
-OCR-Xtract est le nouvel outil mutualisé du Lab IA. Son but ? Faciliter le traitement de documents administratifs grâce à de la Reconnaissance Optique de Caractère (OCR) et des technologies d'extraction d'informations.
-Le constat est le suivant : les administrations ont régulièrement besoin de traiter en masse des documents administratifs sous des formats non directement exploitables (PDF scannés, images, etc…). 
-Exploiter ces informations devient vite très chronophage sans l'aide de traitements automatisés.
-OCR-Xtract vise à  proposer aux administrations une solution d'OCR et d'extraction d'informations permettant de traiter en masse des documents administratifs.  C'est un projet ouvert : les résultats seront publiés et pourront être utilisés par tous.
-Ce premier OpenLab avait pour objectif de rassembler une communauté d'utilisateurs potentiels et de mieux connaître les besoins et cas d'usage dans ce domaine. 
-
-
-Deux typologies de besoin ressortent des cas d'usages qui nous ont été partagés. 
-Un premier type de besoin est celui de traiter des documents courts, de contenu et de forme relativement homogènes, où la localisation du texte joue un rôle important pour la classification des différents types d'informations à extraire. C'est le cas pour  le traitement des pièces d'identités (CNI, passeports, permis de conduire...), de documents de type bulletins de salaire, factures, de formulaires (Cerfa, déclarations sociales...). 
-Un deuxième besoin concerne le traitement de documents textuels longs, de contenu et de forme hétérogènes, où le contenu textuel (vocabulaire, constructions syntaxiques, cooccurrences...) est plus important que la spatialisation du texte pour favoriser la reconnaissance. 
-
-Nous avons prévu dans un premier temps de nous concentrer de nous concentrer sur le premier type de besoin, mais nous prevoyons d'intégrer le deuxième de besoin à notre feuille de route. 
-
-N'hésitez pas à nous écrire à lab-ia@data.gouv.fr pour nous faire part de vos cas d'usage. 
-
-
-
-
-### Rediffusion du dernier datadrink 
+** Rediffusion du dernier datadrink
 
 Vous pouvez revoir le datadrink du 9 septembre 
-[[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/3f0ef841bc93cc5b892daa1197e861d0ef76569a-1631197191735][ici]]. 
+[[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/3f0ef841bc93cc5b892daa1197e861d0ef76569a-1634825927607][ici]]. 
 
-- Valentin Barrière et Martin Claverie (Commission Européenne):  prédire l’utilisation des terres agricoles en fusionnant des données satellites avec les données des rotations de cultures. Retrouvez la présentation [[https://speakerdeck.com/etalabia/datadrink-09092021-commission-europeenne][ici]]
-- Clément Biron, Elsa Trujillo, Martin Ratinaud (mission Beta.gouv et Ambassadeur du Numérique): évaluer et chiffrer les campagnes de manipulation de l’information sur Twitter (suivi de hashtags, visualisation des campagnes, détection de bots).
-- Oana Balalau (INRIA): analyser l'impact de la propagande dans six grands forums politiques sur Reddit, qui ciblent un public diversifié aux États-Unis et au Royaume-Uni. Retrouvez la présentation [[https://speakerdeck.com/etalabia/datadrink-09092021-inria][ici]]
+- Nicolas Stefanovitch et Guillaume Jacquet (Commission Européenne):  Le Text Mining comme support pour l'analyse de consultations publiques. Retrouvez la présentation [[https://speakerdeck.com/etalabia/20211021-datadrink-textmining-ce][ici]].
+- Philippe Besse (Professeur émérite à l'INSA Toulouse): Quelles implications la future réglementation de l'IA au niveau européen (telle que présentée notamment dans l'Artificial Intelligent Act) aura-t-elle sur le travail du data scientist  ? Retrouvez la présentation [[https://speakerdeck.com/etalabia/20211021-datadrink-besse-risquesia][ici]].
+
+
