@@ -32,6 +32,7 @@ Le second sujet étant vaste, nous ne prévoyons que deux interventions pour cet
 - Le Lab IA recrute son *lead data scientist* : voir l'offre [[https://www.etalab.gouv.fr/le-lab-ia-recrute-sa-ou-son-lead-data-scientist][ici]]. 
 - Ingénieur d’études en production, traitement, analyse de données et enquêtes à l’observatoire à l'Université Paris-Saclay : voir l'offre [[https://www.emploipublic.fr/offre-emploi/offre-emploi-ingenieur-d-etudes-en-production-traitement-analyse-de-donnees-et-enquetes-a-l-observatoire-h-f-o-408373][ici]].
 - Viginum recrute des *Data Scientists* : voir les offres [[https://place-emploi-public.gouv.fr/offre-emploi/data-analyst--data-scientist-hf-reference-2021-741896][ici]] et [[https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-junior-hf-reference-2021-741889][ici]].
+- La direction des plateformes du Conseil supérieur de l'audivisuel (CSA) recrute [[https://www.csa.fr/Informer/Informations-publiques-et-ressources-humaines/Rejoindre-le-CSA/Charge.e-de-mission-Technologies-des-plateformes-en-ligne-et-regulation-a-la-Direction-des-plateformes-en-ligne2][un⋅e ingénieur⋅e numérique]].
 
 ** OpenLab Onyxia le 6 décembre au Lieu de la transformation publique
 
