@@ -1,5 +1,5 @@
 #+title: Infolettre Lab IA n°16
-#+date: 2021-11-5
+#+date: 2021-11-05
 #+author: Etalab
 #+layout: post
 #+draft: false
