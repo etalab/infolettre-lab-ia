@@ -1,5 +1,5 @@
 #+title: Infolettre Lab IA n°15
-#+date: 2021-10-8
+#+date: 2021-10-08
 #+author: Etalab
 #+layout: post
 #+draft: false
