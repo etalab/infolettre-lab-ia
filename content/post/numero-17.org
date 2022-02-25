@@ -8,21 +8,17 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
-/Ci-dessous/ : 
-
-- *Programme du prochain datadrink de mars*
-- * Intelligence artificielle : 5 lauréats de l’appel à manifestation d’intérêt “Accompagnement recherche” !*
 
 
- 
+  
+** Les événements 
+
+- Prochain datadrink du 17 mars. Au programme : 
 
 ** L'administration recrute
 
 * L'agence nationale de la sécurité informatique recrute un ingénieur des données : https://talents.ssi.gouv.fr/offresdemploi/ingenieur-responsable-technique-de-la-conception-d-outils-d-analyse-en-investigation-numerique-f-h
- 
-** Les événements 
 
-- Prochain datadrink du 17 mars. Au programme : 
 
 ** Ressources 
 
@@ -36,9 +32,9 @@ Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscrib
 
 
 Après les deux premiers appels à manifestation d’intérêt pour expérimenter l’IA dans l’administration, le Lab IA a lancé, le 6 septembre 2021, un AMI « Accompagnement Recherche ». Cet AMI répond à trois finalités 
-* Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui travaille en étroite collaboration avec la DINUM depuis avril 2020 ;
-* Lever les éventuels verrous technologiques rencontrées par les administrations lauréates dans l’implémentation d’une solution IA à leurs besoins existants ;
-* Mettre la recherche en intelligence artificielle au service de la transformation publique.
+- Faire bénéficier les lauréats de l’expertise des partenariats privilégiés du Lab IA issus du monde de la recherche, notamment avec l’Inria qui travaille en étroite collaboration avec la DINUM depuis avril 2020 ;
+- Lever les éventuels verrous technologiques rencontrées par les administrations lauréates dans l’implémentation d’une solution IA à leurs besoins existants ;
+- Mettre la recherche en intelligence artificielle au service de la transformation publique.
 
 ** 5 lauréats de tous horizons sur des sujets variés :
 
@@ -71,12 +67,12 @@ A l’issue de l’accompagnement, le Lab IA et le lauréat auront un retour d�
 /Composition du jury/
 
 Le jury de sélection était composé des membres suivants : 
-* Laure Lucchesi, Directrice de Etalab
-* Bertrand Braunschweig, Ex-Directeur de la mission Inria de coordination du programme national de recherche en intelligence artificielle
-* Ioana Manolescu, Directrice scientifique du Lab IA
-* Paul-Antoine Chevalier, Responsable du Lab IA
-* Oana Balalau, Chercheuse Inria
-* Robin Reynaud, Chef de projet Lab IA
+- Laure Lucchesi, Directrice de Etalab
+- Bertrand Braunschweig, Ex-Directeur de la mission Inria de coordination du programme national de recherche en intelligence artificielle
+- Ioana Manolescu, Directrice scientifique du Lab IA
+- Paul-Antoine Chevalier, Responsable du Lab IA
+- Oana Balalau, Chercheuse Inria
+- Robin Reynaud, Chef de projet Lab IA
 
 ** A vos idées !
 Le printemps n'est pas si loin, le bon moment pour l'InfoLettre du Lab IA de faire peau neuve !
