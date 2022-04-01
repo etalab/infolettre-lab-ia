@@ -1,0 +1,266 @@
+#+title: Infolettre Lab IA n°18
+#+date: 2022-02-25
+#+author: Etalab
+#+layout: post
+#+draft: true
+
+L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
+
+Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][vous désinscrire]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
+[[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_be02e7e0332b421edc37b57075c631e8.jpg]]
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_44372500eb6c02d8814b4c4727ea48b1.png]]
+Zoom sur un projet IA
+   :PROPERTIES:
+   :CUSTOM_ID: zoom-sur-un-projet-ia
+   :END:
+
+*Zoom sur le baromètre de la science ouverte - MESRI/Université de
+Lorraine /Laetitia Bracco, Data librarian à l'Université de Lorraine/*
+
+*Quel est le parcours qui vous a menée au projet du baromètre de la
+science ouverte ?* Après des études d'histoire, j'ai commencé comme
+bibliothécaire pendant 4 ans à l'Université de Haute-Alsace avant de
+devenir conservatrice des bibliothèques à l'Université de Lorraine. J'y
+occupe le poste de Data librarian (bibliothécaire de la donnée), dont
+les missions consistent principalement à aider les chercheurs à bien
+gérer les données au cours de leur recherche. Par la suite, j'ai
+également intégré l'équipe bibliométrie, au sein de l'Université de
+Loraine, en charge de la production d'indicateurs sur l'impact de la
+diffusion de la production scientifique.
+
+Mon travail au niveau local m'a conduit à animer, au niveau national, le
+groupe de travail sur la science ouverte spécialisé sur les données du
+consortium Couperin, composé de 12 personnes. Ce groupe produit des
+supports d'accompagnement, des fiches pratiques ou encore des webinaires
+à destination des établissements et organismes de l'enseignement
+supérieur et de la recherche (toutes les infos
+[[https://www.couperin.org/science-ouverte/ressources-du-gtso/groupe-donnees][ici]]).
+Par exemple, nous avons réalisé une fiche pour savoir comment former les
+doctorants aux données de la recherche.
+
+*Comment est né le projet ?* Le MESRI a mis en place le Baromètre
+français de la science ouverte en 2019 (lien
+[[https://barometredelascienceouverte.esr.gouv.fr/][ici]]). L'idée était
+de produire des indicateurs sur l'ouverture des publications
+scientifiques françaises par année, par discipline, par éditeur...
+
+Mon objectif était de décliner ce baromètre au niveau local mais ce
+n'était pas simple. Je me suis moi-même formée au langage Python pour ce
+projet. En juin 2020, le premier baromètre local pour l'Université de
+Lorraine est sorti. Je voulais produire quelque chose d'utile pour la
+communauté. J'ai mis le code en open source pour qu'il soit réutilisé
+par les autres universités. Une quinzaine d'établissements l'ont repris.
+J'accompagnais les universités au-delà de l'ouverture du code.
+
+La déclinaison du projet au niveau local a bien pris. Une nouvelle
+version du baromètre a été ouverte par le ministère en 2022, version qui
+prend à présent en compte nativement la possibilité de déclinaison au
+niveau local (voir l'exemple lorrain
+[[https://scienceouverte.univ-lorraine.fr/barometre-lorrain-de-la-science-ouverte/][ici]]).
+
+Le ministère a proposé à l'Université de Lorraine de piloter la nouvelle
+version pour 2023 et j'ai été nommée chef de projet. Cette version
+proposera des indicateurs d'ouverture non seulement sur les publications
+mais aussi sur les données de la recherche et les logiciels. C'est un
+point important car bien souvent on entend le terme "science ouverte" de
+manière restrictive alors que c'est un ensemble de publications, de
+données et de logiciels.
+
+*Quelles sont les étapes du projet ?* Le projet se déroule en deux
+étapes : - De septembre 2021 à septembre 2022 : nous commençons par
+détecter les données de recherche et logiciels mentionnés dans les
+publications (sur un échantillon de 10 000 publications, la moitié au
+moins fait mention d'un logiciel). On utilise pour cela le logiciel
+"GROBID" (https://github.com/kermitt2/grobid/) et le logiciel "Softcite
+software mention recognizer"
+(https://github.com/ourresearch/software-mentions). Ils sont en open
+source. Ils ont été développés par Patrice Lopez, de la société Science
+Miner. Cette technologie a déjà été utilisée par HAL
+(https://hal.archives-ouvertes.fr/) qui est un portail scientifique de
+publications en accès ouvert, et qui est ici fortement développée ;
+
+- De septembre 2022 à septembre 2023 : il s'agira de détecter des
+  données et codes non liés aux publications. Ils sont répartis dans de
+  nombreuses bases différentes qui seront interrogées par moissonnage.
+  Ensuite les métadonnées seront récupérées. L'outil Affiliation matcher
+  développé par le MESRI permettra de rattacher les jeux de données et
+  logiciels aux institutions dans lesquels ils ont été produits et donc
+  de limiter notre étude aux productions françaises
+  (https://github.com/dataesr/matcher-affiliation).
+
+L'objectif est d'affiner cet outil et de le rendre plus robuste.
+
+*Avez-vous déjà pu mesurer l'impact du projet ?* Pour le moment,
+l'impact du projet est difficile à mesurer car nous n'avons pas encore
+d'indicateurs complets. En revanche, son impact sera important en termes
+de prise de conscience d'ouvrir les données et les logiciels. Ce projet
+permettra de mesurer l'impact des politiques publiques et de fournir des
+indicateurs aux chercheurs.
+
+Le projet permettra aux établissements d'avoir des indicateurs au niveau
+local, ce qui est important pour permettre de faire bouger les
+politiques portées sur le terrain.
+
+Plus largement, le projet montre également la capacité d'innovation au
+niveau local qui peut permettre d'améliorer un projet élaboré au niveau
+national.
+
+*Quelles sont les prochaines étapes du projet ?* La prochaine étape
+consistera à réaliser un corpus de publications le plus complet
+possible. Sur ce corpus, il s'agira de détecter les mentions de données
+et de logiciels, ce que nous avons déjà fait sur un échantillon de 10
+000 publications.
+
+*Quels sont selon vous les clés de la réussite de ce type de projet ?*
+Tout d'abord, il faut bien anticiper les questions de marché public qui
+étaient importantes sur notre projet. Nous avons des réunions de travail
+régulières même courtes de 30 minutes avec l'équipe projet toutes les
+semaines. Il est préférable d'avoir une équipe projet réduite. Nous
+sommes huit : Eric Jeangirard, Anne L'Hôte et Emmanuel Weisenburger au
+MESRI, Jean-François Lutz, Aricia Bassinet et moi-même à l'Université de
+Lorraine, Patrice Lopez de la société Science-Miner, Laurent Romary
+d'Inria. Nous avons également fait appel à la société Octo avec qui nous
+faisons des points plus espacés. Plus généralement, il faut toujours
+garder le cap pour surmonter les obstacles et maintenir le calendrier.
+Il est important de bien rester concentrés sur la finalité du projet qui
+est avant tout d'être utile.
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_2e1f918d834bcf825989a4b02d5422cd.png]]
+L'actu du Lab IA
+   :PROPERTIES:
+   :CUSTOM_ID: lactu-du-lab-ia
+   :END:
+
+- *Lancement du programme 10%*
+
+Issu d'une recommandation d'un rapport Dinum/Insee publié en septembre
+2021, le programme 10% est piloté par le Lab IA, rattaché au département
+Etalab au sein de la direction interministérielle du numérique.
+
+Il vise à mettre en place une communauté d'experts de la donnée
+consacrant une partie de leur temps de travail à des projets d'intérêt
+partagé à une échelle interministérielle.
+
+Le programme 10% répond à trois objectifs : - [ ] Encourager le travail
+interministériel entre pairs - [ ] Renforcer l'attractivité de
+l'État-employeur et faciliter la mobilité entre ministères - [ ]
+Fidéliser les experts de la donnée déjà en poste
+
+Un atelier d'idéation visant à recueillir des idées de projets d'intérêt
+commun se tiendra le lundi 16 mai 2022.
+
+Si vous avez des idées de projets ou voulez en savoir plus sur le
+programme 10%, n'hésitez pas à nous contacter : lab-ia@data.gouv.fr
+
+- *Retour sur le datadrink du 17 mars 2022*
+
+Le datadrink du 17 mars a mis en lumière deux beaux projets : - [ ] Le
+projet Basegun, une solution d'IA permettant d'identifier et classer
+instantanément une arme sur le terrain présenté par le laboratoire des
+données du Ministère de l'Intérieur. - [ ] Un cas d'usage de XAI (IA
+explicable) à la CNIL dans la perspective des futurs audits
+algorithmiques prévus par le projet européen
+
+A voir ou à revoir [[https://www.etalab.gouv.fr/communaute/][ici]] !
+
+- *Le Lab IA publie l'inventaire de ses modèles pré-entraînés
+  d'apprentissage !*
+
+La publication de l'inventaire des modèles pré-entraînés d'apprentissage
+automatique (machine learning) fait partie des actions de la feuille de
+route du Ministère de la Transformation et de la Fonction Publique.
+
+Ce jeux de données recense les différents algorithmes entrainés à date
+par le Lab IA dans le cadre du développement de ses outils mutualisés.
+
+Pour en savoir plus, rendez-vous sur le site d'Etalab
+[[https://www.data.gouv.fr/fr/datasets/inventaire-des-modeles-pre-entraines-dapprentissage-du-lab-ia-detalab/][ici]]
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_5ff92a9d79d4c626621233a04351c505.png]]
+Bon à savoir
+   :PROPERTIES:
+   :CUSTOM_ID: bon-à-savoir
+   :END:
+
+Le consortium big science a lancé l'entraînement d'un nouveau modèle de
+langage géant
+https://bigscience.notion.site/BigScience-176B-Model-Training-ad073ca07cdf479398d5f95d88e218c4
+##
+[[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_d3196fee5b6c5331dce66ed3d6b223b9.png]]
+A venir *16 avril à 16h30 : Datadrink* Au programme : * Laetitia Bracco,
+Data librarian à l'Université de Lorraine et Anne L'Hôte, data engineer
+au MESRI, présenteront *le baromètre de la science ouverte* dont
+l'objectif est de proposer des indicateurs d'ouverture non seulement sur
+les publications scientifiques mais aussi sur les données de la
+recherche et les logiciels * Gautier Poupeau de l'Institut national de
+l'audiovisuel présentera *un projet d'analyse des flux médiatiques et de
+production d'indicateurs* en vue d'enrichir le débat public sur le sujet
+de la représentativité dans les médias * Romain Pipart de la Direction
+générale des douanes et des droits indirects présentera *un projet de
+détection non instrusive par scanner afin de contrôler les flux de
+e-commerce*
+
+Inscription
+[[https://www.eventbrite.fr/e/billets-datadrink-du-14-avril-2022-309391798197][ici]]
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_cef2deec0c9680b9f2dbeb6e1d90a034.png]]
+Ça recrute dans l'administration !
+   :PROPERTIES:
+   :CUSTOM_ID: ça-recrute-dans-ladministration
+   :END:
+
+*Le programme EIG recherche des data scientists,
+développeurs/développeuses et data engineers !* Si vous connaissez
+autour de vous des profils issus du privé qui ont envie de concevoir des
+outils pour résoudre un défi du service public, accompagner la
+transformation numérique des administrations et y diffuser les valeurs
+de l'open data et de l'open source, n'hésitez pas à leur faire passer
+l'info. Candidatures jusqu'au 3 avril ! Tous les détails
+[[https://www.welcometothejungle.com/fr/companies/entrepreneurs-d-interet-general/jobs/data-scientist_paris?q=e72cd87a77acddcefbdcbe837ddef080&o=555631&e=companies_jobs][ici]]
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_a663a2620e0489590dc4d648f61c5110.png]]
+Quoi d'autre à Etalab ?
+   :PROPERTIES:
+   :CUSTOM_ID: quoi-dautre-à-etalab
+   :END:
+
+- *Les lauréats de la première promotion de l'Accélérateur d'initiatives
+  citoyennes sont connus !*
+
+Lundi 14 mars 2022 ont été dévoilés les 9 lauréats de l'Accélérateur
+d'initiatives citoyennes. Ces projets ont été sélectionnés parmi 187
+candidatures grâce à un dispositif associant citoyens et agents publics.
+Portés par des citoyens ou des associations, ils partagent tous une même
+ambition : œuvrer pour l'intérêt général. Ils bénéficieront à ce titre
+d'un accompagnement de la DITP et de la DINUM dans leur développement.
+
+Découvrez [[https://citoyens.transformation.gouv.fr/laureats.html][ici]]
+leurs objectifs et les premiers apports possibles identifiés par le
+programme d'accélération.
+
+A vos agendas ! Le prochain appel à candidatures sera lancé cet été.
+
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9dfe9369e49cc3ba7ced9bc08f6e79e0.png]]
+Appel à vos idées
+   :PROPERTIES:
+   :CUSTOM_ID: appel-à-vos-idées
+   :END:
+
+Pour la prochaine newsletter, l'équipe du lab IA fait appel à vos idées.
+Faites nous part de vos propositions pour alimenter nos prochaines
+rubriques sur les sujets suivants :
+
+- ☐ un outil/une méthode de travail utile à tous dans la conduite d'un
+  projet IA
+- ☐ un projet IA impactant et concret mené dans la sphère publique
+- ☐ un parcours inspirant d'une/d'un datascientist/expert de la donnée
+  dans le secteur public
+- ☐ Des évenements à venir ou une une actualité sur l'IA dans la sphère
+  publique
+- ☐ Des offres d'emploi ou formations proposées à l'interministériel
+  dans le domaine de l'IA
+
+Nous nous ferons un plaisir de mettre en lumière vos propositions !
+
+Notre contact : lab-ia@data.gouv.fr.
