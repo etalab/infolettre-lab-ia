@@ -11,11 +11,7 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][vous désinscrire]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_44372500eb6c02d8814b4c4727ea48b1.png]]
-Zoom sur un projet IA
-   :PROPERTIES:
-   :CUSTOM_ID: zoom-sur-un-projet-ia
-   :END:
+** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_44372500eb6c02d8814b4c4727ea48b1.png]] Zoom sur un projet IA
 
 *Zoom sur le baromètre de la science ouverte - MESRI/Université de
 Lorraine /Laetitia Bracco, Data librarian à l'Université de Lorraine/*
