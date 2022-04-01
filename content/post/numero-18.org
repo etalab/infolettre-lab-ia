@@ -4,10 +4,12 @@
 #+layout: post
 #+draft: true
 
+[[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_be02e7e0332b421edc37b57075c631e8.jpg]]
+
 L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualités du Lab IA d'Etalab, *les échanges, expérimentations, rencontres et outils autour de l'usage des données et de l'IA pour améliorer l'action publique*. Elle s’adresse à la communauté du Lab IA : participants aux [[https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes][AMI IA 1 et 2]], data scientists de l'administration, chercheurs et agents publics intéressés par la science des données et l'IA.
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][vous désinscrire]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
-[[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_be02e7e0332b421edc37b57075c631e8.jpg]]
+
 
 ** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_44372500eb6c02d8814b4c4727ea48b1.png]]
 Zoom sur un projet IA
