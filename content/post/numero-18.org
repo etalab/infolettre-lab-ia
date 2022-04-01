@@ -1,5 +1,5 @@
 #+title: Infolettre Lab IA n°18
-#+date: 2022-02-25
+#+date: 2022-04-01
 #+author: Etalab
 #+layout: post
 #+draft: false
@@ -10,8 +10,7 @@ L'infolettre du Lab IA est une lettre d'information mensuelle sur les actualité
 
 Vous pouvez vous y inscrire depuis [[https://infolettres.etalab.gouv.fr/subscribe/lab-ia@mail.etalab.studio][ce lien]], [[https://infolettres.etalab.gouv.fr/unsubscribe/lab-ia@mail.etalab.studio][vous désinscrire]], [[https://etalab.github.io/infolettre-lab-ia/][lire les infolettres précédentes]] et proposer des contenus pour les prochaines éditions.
 
-
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_44372500eb6c02d8814b4c4727ea48b1.png]] Zoom sur un projet IA
+** Zoom sur un projet IA
 
 *Zoom sur le baromètre de la science ouverte - MESRI/Université de
 Lorraine /Laetitia Bracco, Data librarian à l'Université de Lorraine/*
@@ -124,7 +123,7 @@ garder le cap pour surmonter les obstacles et maintenir le calendrier.
 Il est important de bien rester concentrés sur la finalité du projet qui
 est avant tout d'être utile.
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_2e1f918d834bcf825989a4b02d5422cd.png]] L'actu du Lab IA
+** L'actu du Lab IA
 
 - *Lancement du programme 10%*
 
@@ -171,11 +170,11 @@ par le Lab IA dans le cadre du développement de ses outils mutualisés.
 Pour en savoir plus, rendez-vous sur le site d'Etalab
 [[https://www.data.gouv.fr/fr/datasets/inventaire-des-modeles-pre-entraines-dapprentissage-du-lab-ia-detalab/][ici]]
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_5ff92a9d79d4c626621233a04351c505.png]] Bon à savoir
+** Bon à savoir
 
 Le consortium [[https://bigscience.huggingface.co/][big science]] a lancé l'entraînement d'un nouveau [[https://bigscience.notion.site/BigScience-176B-Model-Training-ad073ca07cdf479398d5f95d88e218c4][modèle de langage géant]]. Vous pouvez suivre l'avancée de l'entraînement sur le compte [[https://twitter.com/BigScienceLLM][Twitter]].
 
-## [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_d3196fee5b6c5331dce66ed3d6b223b9.png]] A venir 
+** A venir 
 
 * 16 avril à 16h30 : Datadrink
   * Au programme : 
@@ -196,7 +195,7 @@ e-commerce*
 Inscription
 [[https://www.eventbrite.fr/e/billets-datadrink-du-14-avril-2022-309391798197][ici]]
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_cef2deec0c9680b9f2dbeb6e1d90a034.png]] Ça recrute dans l'administration !
+** Ça recrute dans l'administration !
 
 *Le programme EIG recherche des data scientists,
 développeurs/développeuses et data engineers !* Si vous connaissez
@@ -207,7 +206,7 @@ de l'open data et de l'open source, n'hésitez pas à leur faire passer
 l'info. Candidatures jusqu'au 3 avril ! Tous les détails
 [[https://www.welcometothejungle.com/fr/companies/entrepreneurs-d-interet-general/jobs/data-scientist_paris?q=e72cd87a77acddcefbdcbe837ddef080&o=555631&e=companies_jobs][ici]]
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_a663a2620e0489590dc4d648f61c5110.png]] Quoi d'autre à Etalab ?
+**  Quoi d'autre à Etalab ?
 
 - *Les lauréats de la première promotion de l'Accélérateur d'initiatives
   citoyennes sont connus !*
@@ -225,7 +224,7 @@ programme d'accélération.
 
 A vos agendas ! Le prochain appel à candidatures sera lancé cet été.
 
-** [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_9dfe9369e49cc3ba7ced9bc08f6e79e0.png]] Appel à vos idées
+** Appel à vos idées
 
 Pour la prochaine newsletter, l'équipe du lab IA fait appel à vos idées.
 Faites nous part de vos propositions pour alimenter nos prochaines
