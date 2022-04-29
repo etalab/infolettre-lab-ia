@@ -66,10 +66,7 @@ par les contrôleurs, sans intervention récurrente de datascientists et
 d'informaticiens.
 
 *Concrètement, sur quelle technologie repose le projet ?* Le MVP du
-projet CIPIA repose sur trois bases de données de l'ANFR : 
-* une qui regroupe l'historique des configurations matérielles des sites ; 
-* une qui regroupe l'historique des configurations fréquentielles des sites ; 
-* une qui regroupe l'historique des contrôles déjà réalisés.
+projet CIPIA repose sur trois bases de données de l'ANFR : * une qui regroupe l'historique des configurations matérielles des sites ; * une qui regroupe l'historique des configurations fréquentielles des sites ; * une qui regroupe l'historique des contrôles déjà réalisés.
 
 Concrètement, nous croisons ces données afin de trouver des
 corrélations. Ces éléments sont enrichis par les retours des contrôleurs
