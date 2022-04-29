@@ -1,0 +1,216 @@
+#+title: Infolettre Lab IA n°19
+#+date: 2022-04-29
+#+author: Etalab
+#+layout: post
+#+draft: false
+
+[[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_be02e7e0332b421edc37b57075c631e8.jpg]]
+
+** A l'agenda
+   :PROPERTIES:
+   :CUSTOM_ID: a-lagenda
+   :END:
+
+- *Onyxia lance ses rendez-vous communautaires* baptisés Onyxia
+  Scale'Up. Ces rendez-vous mensuels se tiendront tous les deuxièmes
+  vendredis de chaque mois de 10h30 à 12h00. Prochaine date : le 13 Mai
+  2022 de 10h30 à 12h00 autour du sujet " intégration et gestion d'API
+  avec Onyxia". Pour s'inscrire :
+  https://docs.sspcloud.fr/actualites/onyxia-scaleup-les-rendez-vous-communautaires-onyxia
+
+- *DataDrink du mois de mai* : (date à venir). N'hésitez pas à nous
+  proposer des idées de projets à valoriser. Vous pouvez nous faire vos
+  propositions par mail : lab-ia@data.gouv.fr
+
+- *Lancement du programme 10 %* Issu d'une recommandation d'un rapport
+  Dinum/Insee publié en septembre 2021, le programme 10% est piloté par
+  le Lab IA, rattaché au département Etalab au sein de la direction
+  interministérielle du numérique. Il vise à mettre en place une
+  communauté d'experts de la donnée consacrant une partie de leur temps
+  de travail à des projets d'intérêt partagé à une échelle
+  interministérielle. Un atelier d'idéation visant à recueillir des
+  idées de projets d'intérêt commun se tiendra le lundi 16 mai 2022. Si
+  vous avez des idées de projets ou voulez en savoir plus sur le
+  programme 10%, n'hésitez pas à nous contacter : lab-ia@data.gouv.fr
+
+** Zoom sur un projet IA
+
+Zoom sur le projet *CIPIA* (ciblage des inspections par l'IA)porté par
+l'Agence nationale des fréquences.
+
+- Coordination générale du projet : Cédric Nozet : responsable du
+  datalab de l'ANFR
+- Partie métier :
+  - Tony Guilbot : responsable national de la coordination du contrôle
+    de conformité de l'ANFR
+  - Pierre Guinio : responsable national adjoint de la coordination du
+    contrôle de conformité de l'ANFR
+
+****A quels besoins répond le projet ?**** Les cibles potentielles de
+contrôle des sites radioélectriques sont très nombreuses (plus de 80 000
+sites et 450 000 fréquences émises). Or l'effectif dédié à ces contrôles
+aujourd'hui est de 16 ETP. Le ciblage des sites contrôlés repose
+essentiellement sur l'expérience et la connaissance des contrôleurs.
+Nous avions besoin d'optimiserle ciblage de nos contrôles inopinés..
+
+*Quel a été le déclencheur du projet ?* En 2019, nous avons participé à
+la première vague du dispositif Challenges IA, organisé par la DGE et
+opéré par BPI. L'objectif était de tester le potentiel de l'IA pour
+identifier les sites radioélectriques les plus susceptibles de révéler
+des anomalies à fort impact. Les résultats des contrôles terrain ont été
+encourageants et nous avons voulu étendre le périmètre fonctionnel de la
+preuve de concept réalisée lors des Challenges IA et développer un
+produit minimum viable. Nous avons donc déposé un dossier dans le cadre
+du plan de relance (ITN5) avec la volonté d'intégrer les anomalies liées
+aux fréquences hertziennes, d'optimiser les méthodes d'IA pour mieux
+tenir compte de la taille des réseaux des exploitants et des types
+d'antennes et de proposer un produit qui puisse être utilisé directement
+par les contrôleurs, sans intervention récurrente de datascientists et
+d'informaticiens.
+
+*Concrètement, sur quelle technologie repose le projet ?* Le MVP du
+projet CIPIA repose sur trois bases de données de l'ANFR : * une qui
+regroupe l'historique des configurations matérielles des sites * une qui
+regroupe l'historique des configurations fréquentielles des sites * une
+qui regroupe l'historique des contrôles déjà réalisés
+
+Concrètement, nous croisons ces données afin de trouver des
+corrélations. Ces éléments sont enrichis par les retours des contrôleurs
+sur la justesse des prédictions des anomalies. Ces retours sont pris en
+compte par une analyse des données renseignées dans l'application
+utilisée par les contrôleurs, sans saisie supplémentaire.
+
+*Quels sont les impacts du projet, notamment sur le travail des
+contrôleurs ?* En s'appuyant sur les résultats produits par le POC
+obtenus dans le cadre des Challenges IA, nous avions déjà constaté une
+augmentation de 18% du nombre de visites avec anomalie. Concernant
+l'impact des résultats du projet CIPIA, il est encore un peu tôt pour
+les mesurer précisément, la phase de tests sur le terrain ayant commencé
+début Avril 2022. Mais d'ores et déjà, nous avons constaté que des
+installations réputées conformes ne l'étaient pas. L'application nous
+conduit vers des sites prometteurs. En plus de l'implémentation
+d'algorithmes d'IA, nous avons intégré des fonctionnalités « métier »
+dans la solution qui facilitent également le travail des contrôleurs et
+améliore leur efficacité.
+
+*Quelle est la date de sortie de projet ?* Très prochainement. Le projet
+devrait sortir début juillet.
+
+*Pourrait-il s'appliquer à d'autres domaines ?* Il y a des
+problématiques similaires de contrôles de conformité dans la sphère
+publique. Dans le privé, il existe également de nombreux champs
+d'application notamment pour les exploitants de réseaux radioélectriques
+et plus largement d'installations industrielles. A notre connaissance,
+ce projet n'a pas d'équivalent à l'étranger dans notre domaine
+d'activité.
+
+*Quelles sont les conditions importantes pour mener à bien ce type de
+projet ?* Le binôme « métier du contrôle/connaissance de l'analyse des
+données » a été une condition indispensable à la réalisation du projet.
+Nous sommes complémentaires dans nos rôles. Nous avons été appuyés par
+un prestataire expert de l'IA. Ce regard extérieur nous a aidé à bien
+comprendre les possibilités et les limites des algorithmes utilisés. Un
+aspect à ne pas sous-estimer est le temps nécessaire pour fournir des
+données utilisables par des méthodes d'IA, même avec des bases de
+données régulièrement vérifiées et mises à jour. Par exemple, les
+extractions demandées ne sont pas nécessairement dans un format usuel
+pour les équipes IT. Il peut être nécessaire de retraiter les
+informations disponibles dans les bases pour disposer de « labels »
+indispensables aux algorithmes d'IA pour la phase d'apprentissage. Sur
+ce type de projet, une phase exploratoire est importante pour comprendre
+puis tester concrètement l'intérêt de l'utilisation de nouvelles
+technologies. Les phases de tests sur le terrain avec un outil proche de
+celui qui pourrait être mise à disposition des équipes métier nous
+semble indispensable pour juger de la pertinence des choix fonctionnels
+et ergonomiques, et plus largement, de l'acceptation de l'outil par les
+équipes. Il est donc également important d'impliquer largement les
+équipes qui vont utiliser l'outil au quotidien sur le terrain, et au
+regard de cette implication attendue, de se montrer à l'écoute et
+disponible. La recherche de financements pour des projets permettant
+d'explorer l'intérêt de nouvelles technologies et de nouvelles
+organisations du travail, projets bien souvent non couverts par les
+dotations, nécessite enfin d'être proactif pour se tenir informé des
+dispositifs existants ou à venir.
+
+** Bon à savoir
+
+- *La CNIL publie un ensemble de ressources sur l'IA pour le grand
+  public et les professionnels*
+
+Dans le cadre de ses missions d'information et de protection des droits,
+d'accompagnement vers la conformité et d'anticipation et d'innovation,
+la CNIL propose un ensemble de contenus consacrés à l'IA.
+
+Ces ressources s'inscrivent dans une stratégie européenne visant à
+stimuler l'excellence dans le domaine de l'intelligence artificielle,
+ainsi que des règles destinées à garantir la fiabilité de ces
+technologies. Il s'agit en particulier d'élaborer un cadre réglementaire
+solide pour l'IA fondé sur les droits de l'Homme et les valeurs
+fondamentales et ainsi instaurer la confiance des citoyens européens.
+
+Déclinées en fonction des différents publics, les ressources mises à
+disposition par la CNIL sont accessibles à partir des espaces «
+Particuliers » et « Professionnels » du site cnil.fr.
+
+Pour approfondir, le lien
+[[https://www.cnil.fr/fr/intelligence-artificielle-ia][ici]]
+
+- *La commission nationale consultative des Droits de l'Homme a publié
+  le 7 avril 2022 un avis relatif à l'impact de l'intelligence
+  artificielle sur les droits fondamentaux* :
+
+Elle recommande, d'une part, d'interdire certains usages de l'IA jugés
+trop attentatoires aux droits fondamentaux, tels que le scoring social
+ou l'identification biométrique à distance des personnes dans l'espace
+public et les lieux accessibles au public. D'autre part, elle recommande
+de faire peser sur les utilisateurs d'un système d'IA des exigences en
+mesure de garantir le respect des droits fondamentaux : une étude
+d'impact, une consultation des parties prenantes, une supervision du
+système tout au long de son cycle de vie. La CNCDH appelle enfin à
+reconnaître des droits aux personnes ayant fait l'objet d'une décision
+impliquant un algorithme, notamment le droit à une intervention humaine
+dans le processus de décision, ou encore un droit au paramétrage des
+critères de fonctionnement du système d'IA.
+
+Pour consulter l'article :
+[[https://www.cncdh.fr/sites/default/files/a_-_2022_-_6_-_intelligence_artificielle_et_droits_fondamentaux_avril_2022.pdf][ici]]
+
+://www.cncdh.fr/sites/default/files/a_-/2022/-/6/-_intelligence_artificielle_et_droits_fondamentaux_avril_2022.pdf
+
+** L'administration recrute des experts de la donnée !
+
+- Le Datalab du ministère de l'Intérieur recrute un data scientist :
+  https://place-emploi-public.gouv.fr/offre-emploi/MINT_BS075ACA-44331
+- Le Datalab du ministère de l'Intérieur recrute aussi l'adjoint au chef
+  du lab :
+  https://place-emploi-public.gouv.fr/offre-emploi/MINT_BS075ACA-44168/
+- Le pôle données de la Cour des comptes recrute un data scientist :
+  https://place-emploi-public.gouv.fr/offre-emploi/2022-858147
+- La Direction générale des douanes recrute un data scientist
+  expérimenté :
+  https://place-emploi-public.gouv.fr/offre-emploi/MEF_2022-6088
+- Viginum recrute un data scientist :
+  https://place-emploi-public.gouv.fr/offre-emploi/2021-741896
+- L'ANSM recrute un data scientist/data engineer :
+  https://metiers.numerique.gouv.fr/emploi/data-scientist-avec-competence-data-engineering-cl2he6ft900021mpce9bkenbc
+
+** Quoi d'autres à Etalab ?
+
+Durant les cinq prochaines semaines, Data.gouv publie une série
+d'articles qui vous permettra de plonger au coeur des réutilisations de
+données ouvertes :
+
+- Quels enjeux autour de la connaissance des usages des données ouvertes
+  ?
+- Comment suivre les usages ?
+- Quelle diversité d'usages ?
+- Quels exemples d'usage emblématiques ?
+
+Le sujet vous intéresse ? rendez-vous sur ce lien :
+https://www.data.gouv.fr/fr/posts/quel-suivi-des-usages-des-donnees-ouvertes/
+
+Si vous êtes réutilisateurs de données, le référencement de vos travaux
+permet la mise en place d'un cercle vertueux qui favorise le
+développement de l'open data (montée en qualité des données, nouvelles
+ouvertures ...). Vous pouvez contribuer en publiant vos réutilisations
+sur data.gouv.fr !
