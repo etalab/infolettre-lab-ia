@@ -7,14 +7,11 @@
 [[https://storage.gra.cloud.ovh.net/v1/AUTH_0f20d409cb2a4c9786c769e2edec0e06/imagespadincubateurnet/uploads/upload_be02e7e0332b421edc37b57075c631e8.jpg]]
 
 ** A l'agenda
-   :PROPERTIES:
-   :CUSTOM_ID: a-lagenda
-   :END:
 
 - *Onyxia lance ses rendez-vous communautaires* baptisés Onyxia
   Scale'Up. Ces rendez-vous mensuels se tiendront tous les deuxièmes
   vendredis de chaque mois de 10h30 à 12h00. Prochaine date : le 13 Mai
-  2022 de 10h30 à 12h00 autour du sujet " intégration et gestion d'API
+  2022 de 10h30 à 12h00 autour du sujet "intégration et gestion d'API
   avec Onyxia". Pour s'inscrire :
   https://docs.sspcloud.fr/actualites/onyxia-scaleup-les-rendez-vous-communautaires-onyxia
 
@@ -35,7 +32,7 @@
 
 ** Zoom sur un projet IA
 
-Zoom sur le projet *CIPIA* (ciblage des inspections par l'IA)porté par
+Zoom sur le projet *CIPIA* (ciblage des inspections par l'IA) porté par
 l'Agence nationale des fréquences.
 
 - Coordination générale du projet : Cédric Nozet : responsable du
@@ -51,7 +48,7 @@ contrôle des sites radioélectriques sont très nombreuses (plus de 80 000
 sites et 450 000 fréquences émises). Or l'effectif dédié à ces contrôles
 aujourd'hui est de 16 ETP. Le ciblage des sites contrôlés repose
 essentiellement sur l'expérience et la connaissance des contrôleurs.
-Nous avions besoin d'optimiserle ciblage de nos contrôles inopinés..
+Nous avions besoin d'optimiser le ciblage de nos contrôles inopinés.
 
 *Quel a été le déclencheur du projet ?* En 2019, nous avons participé à
 la première vague du dispositif Challenges IA, organisé par la DGE et
@@ -69,10 +66,10 @@ par les contrôleurs, sans intervention récurrente de datascientists et
 d'informaticiens.
 
 *Concrètement, sur quelle technologie repose le projet ?* Le MVP du
-projet CIPIA repose sur trois bases de données de l'ANFR : * une qui
-regroupe l'historique des configurations matérielles des sites * une qui
-regroupe l'historique des configurations fréquentielles des sites * une
-qui regroupe l'historique des contrôles déjà réalisés
+projet CIPIA repose sur trois bases de données de l'ANFR : 
+* une qui regroupe l'historique des configurations matérielles des sites ; 
+* une qui regroupe l'historique des configurations fréquentielles des sites ; 
+* une qui regroupe l'historique des contrôles déjà réalisés.
 
 Concrètement, nous croisons ces données afin de trouver des
 corrélations. Ces éléments sont enrichis par les retours des contrôleurs
@@ -140,13 +137,6 @@ dispositifs existants ou à venir.
 Dans le cadre de ses missions d'information et de protection des droits,
 d'accompagnement vers la conformité et d'anticipation et d'innovation,
 la CNIL propose un ensemble de contenus consacrés à l'IA.
-
-Ces ressources s'inscrivent dans une stratégie européenne visant à
-stimuler l'excellence dans le domaine de l'intelligence artificielle,
-ainsi que des règles destinées à garantir la fiabilité de ces
-technologies. Il s'agit en particulier d'élaborer un cadre réglementaire
-solide pour l'IA fondé sur les droits de l'Homme et les valeurs
-fondamentales et ainsi instaurer la confiance des citoyens européens.
 
 Déclinées en fonction des différents publics, les ressources mises à
 disposition par la CNIL sont accessibles à partir des espaces «
