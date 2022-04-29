@@ -145,9 +145,7 @@ Particuliers » et « Professionnels » du site cnil.fr.
 Pour approfondir, le lien
 [[https://www.cnil.fr/fr/intelligence-artificielle-ia][ici]]
 
-- *La commission nationale consultative des Droits de l'Homme a publié
-  le 7 avril 2022 un avis relatif à l'impact de l'intelligence
-  artificielle sur les droits fondamentaux* :
+- *La commission nationale consultative des Droits de l'Homme a publié le 7 avril 2022 un avis relatif à l'impact de l'intelligence artificielle sur les droits fondamentaux* :
 
 Elle recommande, d'une part, d'interdire certains usages de l'IA jugés
 trop attentatoires aux droits fondamentaux, tels que le scoring social
